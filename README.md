@@ -2,6 +2,8 @@
 
 **See the mood of our shared Social Fabric.** 
 
+<https://twinkites.github.io/socialfabric/>
+
 Social Fabric is a live animated visualization of public sentiment, from global news down to US states and counties. 
 No server, no tracking, no ads. 
 
