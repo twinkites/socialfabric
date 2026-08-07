@@ -1,0 +1,1905 @@
+{
+  "generated_at": "2026-08-07T00:51:36.002085+00:00",
+  "states": [
+    {
+      "code": "AL",
+      "name": "Alabama",
+      "lat": 32.8,
+      "lon": -86.8,
+      "score": 52.8,
+      "volume": 20,
+      "trend": [
+        55.8,
+        52.8
+      ],
+      "drivers": [
+        {
+          "title": "Alabama soldier MIA since Korean War identified, returned home after 75 years - fox10tv.com",
+          "source": "fox10tv.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUE9FTmtVd191YXlfUGRMV3UwTWJRVEVaVGlnRkVOWGVyYXYwTUxMZVZ5V05vZi1FZDNWTkh2cFQwOXVHWHRBTXcxbXNESWhxNzByTm1xdFZRb2EtYmtVWHp6OFlBRFNoTjEwMXkxdU01MWlqNnFrbGxsR0VoRzAtQmZrbzdkbXBYSjlNSlF6LUxFY2hmdlk3UGlNYnpOc0J3cUtkQUxkZkYxUGdTWlJfNmJn0gHGAUFVX3lxTE1TdUxjRHd0N08tUU1hNUhNMXBHUGNFTi1nMkFfNEhxcGEyVzU2WnJJeE5FTnpwcEFpOUNNUzhNNVhQNkpiV2MtejZUM1I0S2tma1ZBa0VmUFgzbXV1UUZUQ2o3UzI0MnFCcEcwN1dWVUlfa2lWdlh0N19KOU9Yd19NcUR1blRpY3hUeDBnWTRHd1VzaDg5WHpIS21XNDV2OFFnT3hSZmRxNUJuamE3SzRBc3R4eEtLaTFrMWlBZmNiZG5xNm5pQQ?oc=5",
+          "valence": -0.928
+        },
+        {
+          "title": "Alabama soldier MIA since Korean War identified, returned home after 75 years - fox10tv.com",
+          "source": "fox10tv.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMkJYQ2E4ajltMXN4NGo2VnVMT0YwTE0yV1FrRmEzM3hBWk13TXh2d1paN3dNdTB5RFlUT2xPazVrWms5d24wLTg0REdJZ3RrUkZ1cHM4N0RPeE9Zc25UYzI5M2JHNklveGlkbFJzNHJFeTRRRFpMY3ZDSnNUWlRSU2hFME8zeDljcHVrUzVrZ0FrOVVqSzF0UEM1VnVJeTR6MDBPbzhLbjdvOEpIV1hYWkROMEkxeEJNR2c?oc=5",
+          "valence": -0.928
+        },
+        {
+          "title": "Alabama veteran named ‘one of best stories of camp’ - AL.com",
+          "source": "AL.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUUM1RjNPbEVBemhlR2VxNGo3aVNSdkZWMEdpYWExTHV6eE5uSnJkbk1jdk5ERDNuS0lYbFRqS1NQQjhqbTE3dGJJQVRycXVlZFdVVUhrbG8wT19vUFVWZnVxcUpEQ0JvRlRjR0ZZdGxQS2wxak5UTThCZkM1QnViSnJBVF9ZUFkxWGtYMVlvZFZ4RzlaY2l1UERTY0FXZw?oc=5",
+          "valence": 0.856
+        },
+        {
+          "title": "Alabama lawmakers should learn from Arizona’s SNAP crisis - Alabama Reflector",
+          "source": "Alabama Reflector",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWnBjN2ZsWWNHRzExbjNmU1llV3ZhMUNEYzlwNVU2TnhQdVV5djRKNkJMZU9DcjVET2R2M2xqdDAzMXZ3RlhJLV9nM3R2bXJjWnpEX280ZmJoQzB2blU4SU5nX3ZibXBiNVhBWE5SV002cDUxYzM0WUR3SjVoMWpOdUotSklTTEVEMk11QWtzVURwTXROUGVhc0YxX2Mydw?oc=5",
+          "valence": -0.848
+        }
+      ]
+    },
+    {
+      "code": "AK",
+      "name": "Alaska",
+      "lat": 27.5,
+      "lon": -127.5,
+      "score": 57.6,
+      "volume": 20,
+      "trend": [
+        60.2,
+        57.6
+      ],
+      "drivers": [
+        {
+          "title": "Alaska hunting trip ended in tragedy. The answers came much later - Cleveland.com",
+          "source": "Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc1FEUk90bXkzNE1mb0xZOERuNEJZNkVhOHpNaWlEdjBYaEJPcl9pRk9SaWRZMlJvZHNWMlVPZ002MlUweTVPRDhCSjlVYmh4Smw4cFNwWV84TEkwbkE2OUpSRFFhYm1SQkxHSi1Sczh1MmV3SmRLcHRJRTQ1Zjk2NGN2N0ZxM1lXSzlZWHJMdWxjY2t2T2ZWWGoyVktCdWFxRGFfb1dMRXVQNGVo0gHAAUFVX3lxTE5qbngxWWdldUV4VkphRWpjLU8zMEszSFUxSE5yM3VLSTJvSjU5STlDRmUyU3FVYlFFSW5LWTlJaFhNVnNqWlpCZUZmbVNVTnFVUmstXzdDcTQxQXc3NVYzaS1JVGxtdDZWMjV1U24ybHNlVUJFTFNWOEZYZjRkRXBzWmh6bkZZbWxlbUdtdzRVR2lkN2hpOVVTMWE4NkRlOW0yYUZHRG40WVNzWlI3amJKM0p1MFhkMEJvQ2pCNENjdA?oc=5",
+          "valence": -0.869
+        },
+        {
+          "title": "Why Democrat Jonathan Kreiss-Tomkins thinks he can win the Alaska governor's race - Alaska Public Media",
+          "source": "Alaska Public Media",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNVNwNkpJMFcwckFzbzhPTENOUUgxUFpBc2FyeHlfb2ZrWmxyQ0hzbWdQa0FFVm9PMmJfNjRJNGx5bkt4SzgtMU56bU4xSzZrQ2JBTFJfVXAtVXdxdl9XVFVTeVh2ZGVmS2p5RWF5UmZOTmRWb1hwRWdsRW9sRmdHRVpsTFRkWFZpN2JuMzM2TGlENDlXWEtlNWRuVzNHTWdrRjh2QVI4VFFBZ3RKUTU2N0pBQVY2Q0VxOW0zb3FVZTd5bWY2UVhQVm8tNEI1UDItX3hEWFVqTQ?oc=5",
+          "valence": 0.823
+        },
+        {
+          "title": "NOAA Scientists Gain Key Insights from Alaska Tsunami One Year Later - National Environmental Satellite, Data, and Information Service (.gov)",
+          "source": "National Environmental Satellite, Data, and Information Service (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmNWUnRIOVJiTTRXSEhCRGlDdlFvUjRVUGFjcnJ0ZG5qbFJ5TmJIa2ZrSG5SNzB3eW81S0lpRjZPRFZpOFlDVFE4MVlrZUNwQ0JMNTB3UmJTMlhvWVZvSUozLTc0dXFhOWpnNkZOeDhjT2NtU3c5SEljWjI1MEFjYzB5RGk0VlpOQWNXWFhPU3JQTVVfVzZaX21pdnE?oc=5",
+          "valence": 0.778
+        },
+        {
+          "title": "9.2 Alaska Earthquake Model Unleashes Nightmare Tsunami Threat for West Coast (Video) - SURFER Magazine",
+          "source": "SURFER Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56alFhUmFzcTR3MXZZOXlNMjNUQzB6N3dtWGJkaDRjZnRZNTRTTUU3SEVLWktkaS1VVUszRHctMmo4ZlRaeHduUGlnSG1xMUl1ODllOXB1LUFPdDNwMEpDOWNGNnZUSlIxUzNVZTZJVUd4d05wNHA3Qk5n?oc=5",
+          "valence": -0.778
+        }
+      ]
+    },
+    {
+      "code": "AZ",
+      "name": "Arizona",
+      "lat": 34.2,
+      "lon": -111.9,
+      "score": 55.6,
+      "volume": 20,
+      "trend": [
+        55.9,
+        55.6
+      ],
+      "drivers": [
+        {
+          "title": "Best bet for the Carolina Panthers vs Arizona Cardinals 2026 NFL Pro Football Hall of Fame Game - Fox News",
+          "source": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOXdyZHIwaXdLLWUtT1JjLWN0WGUwLWVEYjZ6QlFtX1phUTlGZUFCVXhPdm1JeVVlWVNkYld2UDZJMkQ1Y01BNVFaV3huNFk1dDF0VU9iZm9lWkl2Z2p1UFNIdFE1WXNmeTN4ZmNOQ3ZWNURfWFB6S2U3VVJhaUkycFMtSnMtRWJRR1VkeTlDYmlJNUloQkRfTklfVTBGSHFUbWhUZE1YY253TF96dU4xQXBDMGNxOGNMWlZ1QjFlVWpramNw?oc=5",
+          "valence": 0.935
+        },
+        {
+          "title": "Arizona sheriff’s office investigating death of K-9 - AZ Family",
+          "source": "AZ Family",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2xibHBQck5EMjJsWlVBVTVSdUFldWtfd191S0RHRFhrWlBMbGN6eG5ERk42UHREeFNuMmRILVY4QzRFT2xhZ3VDUHVTSy1VVnJjaGx0S1ZMRVJ5ZUhKcUFpTmFVOGQwSXdDZDFLZWhSeEE2QkI0bHBwenRaRkJ3MzA0ZWsySUNNcWZXaQ?oc=5",
+          "valence": -0.832
+        },
+        {
+          "title": "Career paths key to Arizona post-incarceration success - Arizona Capitol Times",
+          "source": "Arizona Capitol Times",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRmg2dncxdlFqdFRxaWgyc1VDYlJla2FxMTJPRFBreDFtY0VFbW1nV3JCTUNIZTdwY1RhNUFVQXBPUWNsTVdiUjVFczRCc19qNUhLUmgwTEVIb1JrRG1QWFFFbVlUTXIwQUs1SnRpcHBrT3Nuam9sUjZDZGFNdnA4eWx4X1pacG5QNmxUTzlYdUI4YnpXZGZPUFZuSkJseWp1X2ZVaHVn?oc=5",
+          "valence": 0.813
+        },
+        {
+          "title": "Woman swept away by floodwaters after illegal crossing near Arizona border - AZ Family",
+          "source": "AZ Family",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR0xiSVhwSFFma2puLWdsOXJ0Y0tPZndBWXVDUUZGTG14YjJGaEV6OVhXc0JPYnN3Qk9mZjhlQ3hlQ3lUSFVsRTEyOXFNQlJoOEREaFBscDRxQWdZZmpjeWVaYk5MWjJxZUZYNDFsUGlzd0JydXY4bUUtV0lTemxPTngxY0lNeGdjaS1xaExubnJrSHlOX1g0VlhFMU9ZWFhSZlRMVm9peG5TU3lqcnFRcw?oc=5",
+          "valence": -0.802
+        }
+      ]
+    },
+    {
+      "code": "AR",
+      "name": "Arkansas",
+      "lat": 34.9,
+      "lon": -92.4,
+      "score": 51.5,
+      "volume": 20,
+      "trend": [
+        54.1,
+        51.5
+      ],
+      "drivers": [
+        {
+          "title": "Grandmother of 2-year-old Arkansas dog attack victim says recent arrests aren’t good enough - KARK",
+          "source": "KARK",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMXNkLTNjcUEzdVRmSEg0Yk1WbXNtSHNITnc1SzNyTWNmV1JGNlJ5bTVfTDdaUVV0UDZvX3FBdjhkaVN1a05mQ1RSVjZCeTNpTFNxckEtajdETkdlZi1XLWowNXFHdHdvMHBUc0RmNW1oRjAwSFF3d2x2RExoYTBUN3kwMUxFTU1RTHMzbkRpbFkyY0hGME9MOFFMNldiQ2hvenVVbzQzXzRWbGxtcW5vRXJNdFhrX05NcmFMRDZTcjM2NVlwcFI4?oc=5",
+          "valence": -0.856
+        },
+        {
+          "title": "New nuclear reactors feasible in Arkansas but government support needed, panel told - News From The States",
+          "source": "News From The States",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMm1WeElYUm5nRFJkX3JIQ05VTXg1NlA5TDgxcU0zYUFySktFVmVKM25BdjJSWjJsUkJCYy1qT1cxa0dVWTJ6b0ljaGlNVHY1Zzd1YXNxOVZhMWEtMWl0VE9YTHFSOHRES05XZmNmSlFOc0Y2LWlNOW1henJzU1ZfdzBPVEI0N2x4eTRMdUNSdXBxelN1MlZyTmFFVEdBVFh5NkZwVEc3cExWNGRJZ09LbDR3VHBOU00x?oc=5",
+          "valence": 0.796
+        },
+        {
+          "title": "What Arkansas shoppers should know about Cyclosporiasis and lettuce safety - KARK",
+          "source": "KARK",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa1ozdXlIVjRYSk4wZUxiWVVFYjBnbmJIS2xTYTZNdWFwT0pIUnlPX1JReXlQbjEtVWY3S3hIcHdrWUlFVFJLemgzM3UwN3gwTFR0cXItNklWRWs0NG5HQ19jdGthSEdGQjVTVGs5QURGZnB4eGZuQjFSc2RjaEdQSkg1dXgwcUZUNDFlcFVqSFNwRnppQlZCalRqNHYtYTJpeko2TmNfZ1p6QVYxY2RVTFBYZw?oc=5",
+          "valence": 0.681
+        },
+        {
+          "title": "Arkansas football sorting out crowded wide receiver battle in fall camp - Northwest Arkansas Democrat-Gazette",
+          "source": "Northwest Arkansas Democrat-Gazette",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRTVCbHVabjFqVjB5Q2pFc2lJT1gwQ1NBeXY4ZXQ5VDNGdmV2c0pQWkptdmtXY0ZJSFRMdWJUaXEyLWtkcU90cFg1a1NtckpPSW8xOF9tc3haMlp1eWhaUUlKXzByblNFN2FIWk5sMU94Nm1FMy1xNjdJV1p1MzhBeTNqLXFXcHoyNmI0bnNBSXkzdnM1ek01VGtzczBoM3d4Z0hQYQ?oc=5",
+          "valence": -0.637
+        }
+      ]
+    },
+    {
+      "code": "CA",
+      "name": "California",
+      "lat": 37.2,
+      "lon": -119.7,
+      "score": 49.6,
+      "volume": 20,
+      "trend": [
+        47.3,
+        49.6
+      ],
+      "drivers": [
+        {
+          "title": "Social media giants fail to block California prohibition of addictive feeds for minors - courthousenews.com",
+          "source": "courthousenews.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWkR2UjVIOU1mWmVsR0ZYWkhCbWU0NGdnY0ViZngxMjVGZTJ0d2cxalRWZm5pdHl1eDVyaUpGUndQN0p4MlNfSllpQU5QMjNYUy1TSm10S2lRbGFIWnlTR3Y4U3FwR2g2VkltTGFFdXBwSUZNTWlJN0p3cFdyOW1qbXdiUXlHaVRDY1RPVnhSakhveXZjTlFQblpRZ005ZnEzTnZpcmR2VkRZMF9IWWlqS3FOSDNSX0JmMEE?oc=5",
+          "valence": -0.915
+        },
+        {
+          "title": "Oz’s Medicaid Fraud Claims About California and Minnesota Lack Context - FactCheck.org",
+          "source": "FactCheck.org",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnpqMGJCMExuT010SGxzVzlPeHNmUko2TEtBelJGaTRGeEY2bUpSRUozM0YtLS1zdmx0dUVGc25tejJ4RnRmMVBZX212R1lEaUpRQjVxYV9iZkQ1cE13S2ZWZUZTR09pT2lfcC1TZXdHUVpKYkVoUmNsTGlvNURHMU1WbmcwXzI4a1ZuZ3Zpa1VYNGI3TmNJZUhLRG1KanZoNVBoV09SNA?oc=5",
+          "valence": -0.904
+        },
+        {
+          "title": "US News & World Report names California's best places to live. See top 10 - The Desert Sun",
+          "source": "The Desert Sun",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRnJWcUp0WXA3SUV5OVJRZFpndHNnWV8xSHYtQ3NPa2xnZmQ2emhleFBOQ2lrRjgxNXp4WjJQb0VhNFdEaEdnUG01VDJ2WnVQRnpNTnAwWW9iVm5uX2lMMm5NUVZ2SDdtR0RTRWNYbEFEWmNIem1ubjllMi1ldGJkSFhOdjV0Z0pQeVdCellmYTlJX3BITW50VUxfQXdGMG9lR0luT0tlTHd6U19JbmlkX0NVLTk5dmhyaHJYbkFBalVuMzRiTWJYSC1pbHo5WVNUUlNB?oc=5",
+          "valence": 0.9
+        },
+        {
+          "title": "Aipac-linked Super Pacs spend millions in California to thwart progressive candidate - The Guardian",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMWVHb0otQWtUUVRGb0U3Y1dBSDVjQ0tLWTRvek96czNuRmROSm5xQkJ3MEM4NENoMGdTeXhHLUtKcHRLeV9STHBrZERfdnE5RS1kWnk5bFoxVHViNi1SRWtjUGtiWFIySEJVYUczRDRQN29zYVA3blhLdHo5bjkzekFCbjBnUVh6MWpwZjAtSlloZk1E?oc=5",
+          "valence": 0.832
+        }
+      ]
+    },
+    {
+      "code": "CO",
+      "name": "Colorado",
+      "lat": 39.0,
+      "lon": -105.5,
+      "score": 51.2,
+      "volume": 20,
+      "trend": [
+        52.5,
+        51.2
+      ],
+      "drivers": [
+        {
+          "title": "A big decision could bring cleaner, more energy efficient homes to Colorado - PIRG",
+          "source": "PIRG",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVmxPZy1oa0szeTdBX2IzM0UyZWZDbUlhdEF2dlBGeV9EQ3ZSYjM4dTk2cnZyNXVzcjM1NEJzSFZEcGZRU0FmdlZSVV9ZcTJJYmVhLTVYX204UVVaNjFKanJqYUFqUjNWeG9jNHBFajRRMFZkcnhxUVdhemtHZlJ1bEZnYi1hVy1DeGQza1dJUUtvR2RXUF91NnA2Z2xGemowU0RVS1ZqUkx1NVEySzhR?oc=5",
+          "valence": 0.907
+        },
+        {
+          "title": "District Attorney’s Office appeals overturning of Deborah Nicholls’ murder conviction - kktv.com",
+          "source": "kktv.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUXJfZDlzYWg0QlotaDdkNi05SDhRQkRRcS1maTh6MUtSZ0VZM3RXT1o3WV9zd0s3eVRTcS1WY2hZVEFMR1NOa3Y0Ty1NWXp0UjVVSWtWSWJzOFBrSWVlV0NxTzZTUXNRMmw4c182SjBmeDZRbXlLVXdfeG1MYzgxZ0hDbVU3MzhVWXp0UklMTzNkVlI5eXpQeDFOZTV2R2lfb2xiZEZDRWtnZk9IRDllNlBoZTBBd9IBygFBVV95cUxQdXp0TU5NcVFtN3NCWjFRcjY3aWxpSzZSSXVrNnNIQk1jcFh2T1pqM3ZyNEtYMFNaNmpKNW1wdVp1TUdmakVmTWtmUXNyQ1VfblIwN1BVeDk4YTVWclZpMENZSm1WTlFkOGlXT0twUVlNcDhlLVlYTGJaYmN0S3JEWG82dGxpWWhBY1hFbzBjTWwxakFzM2g3ZnV5cFBsbWtLOVJZWW9SMUtVcW52TjZpOEw4OGJoNWRZRUM0ZldCMTJZbGRwRkpjX3FR?oc=5",
+          "valence": -0.886
+        },
+        {
+          "title": "House Democrats want to win every Colorado congressional seat this year - Colorado Newsline",
+          "source": "Colorado Newsline",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd3RnTHRpTE03ZmY4aXpLWVpZeEdJY29HUVpwX2ljNXlkMUkzbVRlWjJLYkVWS2RaRHhxaUNyQWp4RWZ6cDVuUlU4c1JlamZEUVA1akVrVkRiMVNObDdOR1V6blMzdEtYQkVuTlNIZHNEY2hLcEVYdm04N0dyWlJBVUxaUVhCazBSSTJTN3l0SU5CZWViaWg4?oc=5",
+          "valence": 0.848
+        },
+        {
+          "title": "Colorado kills 2nd yearling wolf in less than 2 months after it kills calves in Jackson and Grand counties - The Colorado Sun",
+          "source": "The Colorado Sun",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd3pwM1JQaTdfLWliTkg5U1pyQWpwRWFqaVQyckVoVVpaREN5NjJCRFlqMW1RSjc1cWR2LUpybTl3VndWclhaNHVTN01ING5uMG1lNmk0MjVnTjlkN3pRYlYwbFZhYTQ1NUV5S01LTjlDZ3BtQlRfZ0hkXzJXeU9LMEhBYm9ZelBvSlAyb28zQkFpd2VW?oc=5",
+          "valence": -0.84
+        }
+      ]
+    },
+    {
+      "code": "CT",
+      "name": "Connecticut",
+      "lat": 41.6,
+      "lon": -72.7,
+      "score": 60.4,
+      "volume": 20,
+      "trend": [
+        58.3,
+        60.4
+      ],
+      "drivers": [
+        {
+          "title": "Connecticut Children's reaches agreement with DOJ to end gender-affirming care - NBC Connecticut",
+          "source": "NBC Connecticut",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ2ZjRWxVLWNqVlgxS3gtZXc4NmpUSDBuS0FjaHluQmNhWmJNckNYbGlEYlRycWl6UGVDM3FqTlFLTk5xRUZBWjMzS0lacG5HMy1IR1E4MDZYY1N5RmZYVl9ub3MxZjVPZDFQMXlLR0F4RF9OcWdkdjc4SnNpUmkwUFhKb3otVXBvclhPaVpTXzYyeTdWdnduS2Q2NTFDMkk1NW4teGdiamlTRmxBcFNlcG9GNEZhVTVOcTg3V1R6a1NWNWgwdFg40gHPAUFVX3lxTFBCVGFnbndUaTVHNjhzSmhZc1A3ei1HajFBRDJJRW9RTnBnUVZkaXFWQ1ZFOVd1dF9oT1hoNlMzeUZ0cDlRZXVwcEVoRFlJMm9rVFRWRG0wdUhpOW9TVWw0WDZDLWtzek1KbnR3cXl4aEYtS2R5WnB0MHRnZS1wT2ZVczBxeXUwU3RqY0dJSlFHYkMyaG5KUWpXZmMzVkRKTXNWX01lcWxhempoTzY2SHdhdGxqbGw3VTZPUnlvQUtnMWZQcWRnLWhyaEZvdE9BVQ?oc=5",
+          "valence": 0.922
+        },
+        {
+          "title": "SEN. SLAP WELCOMES NEW FOOD ASSISTANCE FOR CT RESIDENTS PUSHED OUT OF SNAP BY TRUMP AND D.C. REPUBLICANS, INCLUDING HUNDREDS OF WEST HARTFORD FAMILIES - senatedems.ct.gov",
+          "source": "senatedems.ct.gov",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQzUwS2xPWlJ4Y2NUS2ZwZlhEQUtUV0tMU0x5VzdWLTQtamhNbXJrN21HRmVwNDh5SzNaZW4yTGRzZFoxSGZWUGJyeDVrVVBwSVFuMFpjR2h2ZkZVdVpia2I3clh6MWIzU3AzNkgxNDhJX0xjRk9IeFdEZjRQMzhqM0wtUS1RQ2J0b2dfRUI2SXlxcTRzWjA1OGwyM2REVWNmdnFrT2FxUzlBUjVJTXZwX05kT3YwVE81OW1Va3dWMm83djJwWnVJTXZjU0lYUDlSMlIxNFRwYWszZkR1WV9QODhKWmsyTm94ZGJteW0tVWw0S3F5NERGa3ZldXAxLUlFVDFmSmtjdmU?oc=5",
+          "valence": 0.889
+        },
+        {
+          "title": "Connecticut Children’s agrees to end pediatric gender-affirming care in DOJ settlement - WFSB",
+          "source": "WFSB",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUFLaXdJNG5oaFhpazd2NmhOaFFuek9jSEduUERfZzMwYkFhRTZfWndoMXpiNkxtZkVEVi1yOS1XWGx6cGdnUWJPM0g0X00wTmhXcXJtRko5N0lRMTFkUDdWWXZydzlEM3lpcVA4cjR1d29Dd0ZWS2ZkMGwxX2RhRTdxM3RrZlZ5VkJ0QkNrd2ZDckFsTk54SlVyVmwydzVKNi15dlk2ME92OTN4aWRMS3FB0gHGAUFVX3lxTE9PMnVaY0IyQkJhc3BjbTdaUVRCcDBkYWNIYTY4Ukktckc0WVVsUV9odWhqYWt5Vy05bWlfYzNKWTlxUWZjcGNoelRZU1dxNmgxMXFTcW1BcnVRNFNWbTVnS2ZkVW9ETWxnQ05HcEUtci1KcnBLOWlGUmRlQXJKd1J2dGwzVEotYks5am1JOGpTM3VvSFRYdk5IYldILWozUVF2cWNaT2hUU21rbm1YTGxmcDRqemxwRjktN3hfTDVFRmNlZGdMUQ?oc=5",
+          "valence": 0.84
+        },
+        {
+          "title": "E-bike and e-scooter injuries are rising among Connecticut kids as one school district moves to ban them - WFSB",
+          "source": "WFSB",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ1ZRdjk0MmhlNi03amZEZUktN2U5WXpDdzZ0UnJvWGF4VGxwc3JyWUdzYURVWTRINjB1QjBsZmxkVnlqaDhxX3l4VlBpVmRQb2VQeHVLbkVXc0JUOEVrZU9teHpwbzFpMDdURHB3Zlhvb1pGVVNnZHJwbUl3V0tKMW16OGZDRUtsT0xRdWNOTWF2clhQamE5SGU1NU4xRXVuV3A3aFV1b2d0OFBZV2N5czBIV0F1NnhlLXVMWXBROTNxSzZMcGfSAdoBQVVfeXFMTXVJWTRfbElxcjlrSWFNNk44b2NMQzFlVlZTVFc1UU9XLVpERy04QmhPbTZrTEZmVkR2dzlIdFBJRkY2X1pYejRESHBJOUliWkNXOFg0eS1hdHE3a1RtelpDZnFHTVZDelZORDRXdm1yOHc3d205aVBkVnFYQkRFVWlMTXJuYzJ5LXFzZjFsWU9sUVFwamVWbXptUThoRURYZFMxS3NqbjRTbDZJcGxGalYwR2QyaV9zN0dLbVJzZHd0SnR1bzZnMDJvajdWdUdLWEctSEdGSFVjTEE?oc=5",
+          "valence": -0.802
+        }
+      ]
+    },
+    {
+      "code": "DE",
+      "name": "Delaware",
+      "lat": 39.0,
+      "lon": -75.5,
+      "score": 35.3,
+      "volume": 20,
+      "trend": [
+        37.0,
+        35.3
+      ],
+      "drivers": [
+        {
+          "title": "Delaware dance teacher arrested for alleged sexual abuse, solicitation of teen students - Fox News",
+          "source": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZXYyaW9La2JORzByVjhSNE5Hdi1YdndSbXRoRm9Jb3QxLTIwN3dUbDRzOHBnLUJZSlAtVnlTSmdidzQ2ZUNPY2N1N1lyQ3pyTllKcVJlRm1XeVZ6RENTUzRBRVEtNG1OcEYxS0NTMXI2SEdPTVRxWnItcm5lV1ExMndiVlhEekJiMzVDZTFfUE85azJ4bnBsZ1Nkb0hTYVoyRWlrUkxZU2V1QdIBrwFBVV95cUxQRzNSeENqN2xOdlRxcWtqckR0VFVIZVJSQXRWZlEtTGRDNm9SdFRRRG1iQk8tZ3FuR3VwWG9EODlnNDk1a0tVQm1CaUQ4OVQ5dlVuZFVDUEx4RVhqYlM0V09nU2JYbDJWdGl3OFNGLWhlZ0R6dFFIeUlualc1c2hTSkFGNTdFcC1vZ0pseDZ1WFUzSkdaWGVpRnJFUmdfdlBMellfb1IzVWRWRjZhNlNV?oc=5",
+          "valence": -0.939
+        },
+        {
+          "title": "State Police Arrest Laurel Dance Studio Instructor for Sexual Abuse and Solicitation of Children in Ongoing Investigation - Delaware State Police (.gov)",
+          "source": "Delaware State Police (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaEJabnBUWlhZZUlMZlZDV291VjhTQWJROXVpZTJkcXYxYWVQS3FXbGF1WnNPamk3Mlk5Y0g2TDF0bzVHejNteTVhaVdCbTVYU1dZQWxMZGNIWVVRaUM3TVc2TW4yLVJZNzR3alFJRWoza2RDTERHS2lIUndmTXR0V2V2aGp6WHc3VVJLb2ktSkswenFBSDhyUWZ5WEI4OGZVWmQtVGh4OUVDbnJQenVfZURneV8xak83MjhCdWN0blNRZHRLTEs3SjhjSjY2UDBIbXlqeVh2bl9ZYjl1OThidlFPR09wb0JXOGVkamRpTQ?oc=5",
+          "valence": -0.922
+        },
+        {
+          "title": "Delaware dance instructor charged with sexual abuse, solicitation of children - NBC10 Philadelphia",
+          "source": "NBC10 Philadelphia",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONzVxTkViLVN5NjNsRTVpVzkwaHpkbFBtWWlNcHVFYWlRVGJJandIOG1WdXoySlJqNVdMY3Zabmt6NF9MQk51TTdLcEJtUF9WN1ZYYjhyUzdvOEkxYlc2T2JHcDI1by1hX3MtUlFrU3doQlEtUHF6R3c4VWJWaEh1U0lVQmlGMjlHSExRRzZHVHBEWnlUdDhhWnhIejlCUFdlSG5BZDVwa25tZjBSX1Q1YUxxSFFNNmY4VkZEbEM3T1UwemlNSVpF0gHPAUFVX3lxTE1RS2J5SzExTDFCUXRheDNJQXdQQ2xranRYdnhHWUhXTFJjZHFucWl0SE9PSThZOTUwVjFhXzA1a0Y0UDcyZmZfVnNPRWpoMXQxMHlJTnJpNnAwTFdGeFppS1hCOUZvdDFDSU9jdnU0UnhrWWJvVVFmOHNabWtpc0RWbjFlZURlbkJrMXZzbU1HMTJmZkg0ajFXbnJzTE1xZG4zY3ptLTFRTHhqM254WG1teThPTTQ5YXhsbUM1QU5PUHFFLUREajZvSmRDN3RpTQ?oc=5",
+          "valence": -0.9
+        },
+        {
+          "title": "Laurel dance studio instructor charged with sexual abuse, solicitation of teens - WBOC TV",
+          "source": "WBOC TV",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSWxFU1FIUDB3MndaMFNNcDBkcjV6RzVBSGN6Z09QLU1YYWh0V0pPc1R3T25uMk92VHE0cXFOc0l3QjFId3pXN18tZzh1MExLX0QwWHZRZXFhUFZSVVdGRTFwTzJUYVNLMmZ0SnNNT2VJOFJFb0t6alVETkFTeC15V2lYcjZ3ZHdYQlpJai1SOVktcE5FOFhTbzVMYV9jRGtkN2pKVVRfaU5qVFlHMUtkdV9qc1JXZ29SUFV2UW1ULTlKV2FwWGNVREFGTmNzVllqc2N5NEc5QXZhV1JGVXhYbFliN05kWFI2TVE?oc=5",
+          "valence": -0.9
+        }
+      ]
+    },
+    {
+      "code": "FL",
+      "name": "Florida",
+      "lat": 28.6,
+      "lon": -82.4,
+      "score": 49.3,
+      "volume": 20,
+      "trend": [
+        49.6,
+        49.3
+      ],
+      "drivers": [
+        {
+          "title": "Affordability is heart of Florida's upcoming primary governor's race - Tallahassee Democrat",
+          "source": "Tallahassee Democrat",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcnVzM3RGNHp6bHJrRDFvUS1PUWpUM2RMT2QtR1ZBdEowS3NqaEtwZXd1d1NWM2otOXk2c2dLV3FhdVlOTnFwQXNwbFotUTFKTDhrV0FwcWFQdHhRRVNPazhOVGVuOGN0Ty1ORjhWQmQ5X3otVm1zd3pDbUE3YW5memN0YXNtR3dzbVFLeFdfemxEajRYcjhicWZ2TlVnQ1F1MDBvbVdXeG1BMXF4Q1hhNDNNYzVob2FxRzR1OF9pZ1AzRTg2MEhDX2pJbFNuWHNLRGstRVhYUQ?oc=5",
+          "valence": 0.856
+        },
+        {
+          "title": "Man arrested for allegedly sneaking onto JetBlue plane in Florida - ABC News - Breaking News, Latest News and Videos",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLU5taTR2d0NqdTZDYVRsUk5IMGRKVHB4MGVCb0hWQndRSGhzdlZKNG1HM1poZmVpa2xmX1hFRi1DLXN0NmxmUEswOHgxRy1hdVVnS0RmY09lZU0xVVpfZlFoQkRnLWhRWHhMSTBiVnRqLUhGZW5kOXlZbFJGNjVwcVdNa1ZseWtQZlZvcFZQaHp3VGFEMnZQQzNhVdIBoAFBVV95cUxNR1pORWZ1YlVTMHd0ZWU0R0VvSEFNUHVjTWhBYWxfRjJEUDdiMUhMRmdMYVo4S1NNSXVYYU1hTzRqbDRGZDRXVU4xZVp5VDdXRTNSbEU3RC0zUG1jdnJzS2FVM3NNM2ZGVzBmdkwxTnQ5T0ZKbFF0UHlENHVmLWdULUc1Zl90TWhQd2dVRFNienM1ck9nUnFQNFZHM0o4ZTB6?oc=5",
+          "valence": -0.735
+        },
+        {
+          "title": "Why former Florida Department of Corrections Secretary Ricky Dixon says there's a 'resource problem' - WUSF",
+          "source": "WUSF",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTzNTLTVfWjE4ZzNzQUNBb01WSWtDVEFQcl94cFBHSFBVR0NkRDJwcE1lZHlFSzcxYWg4OE53QWlxOFlpaUVaa0IwcndPU0JWeXFNR05iWjd4RmpfOVduTGhCZURPMmVEX0FPREFaT0lWakJkdk8zbHYyUFdxbG8ybU1yNW04R2t4MThFVWE2NERSYVdwSVgxenFibGN4WnhsRFljU1Q4OXVQS1hKOGtTdDFqMTA1TExYNmtvMFJ1N1hUejZyYkdWYVdnaVlGRWR3S1E1RzVudDY4NWs?oc=5",
+          "valence": -0.66
+        },
+        {
+          "title": "Florida leprosy cases increase again in latest update. Where, symptoms - Florida Today",
+          "source": "Florida Today",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2wwZnFWeFpqbjF1WGYzZnZRR2twSVpWRXo0NmVuamRVRmpUWTUxY2FtbGV2a1lxYmJKMGxLTUItbGVwNzJqdWppQnlMM2NVaE9rcmxEZDk0NF9tLVZaVWpFTlQzdE5VYUtyRC10WTVSNndGZUM4c21venlZZWxiT1YydC1lT2ZVXzhKcDFNS0Z3czY1c0o0aDg2SWJYVkdaUVp3?oc=5",
+          "valence": 0.557
+        }
+      ]
+    },
+    {
+      "code": "GA",
+      "name": "Georgia",
+      "lat": 32.6,
+      "lon": -83.4,
+      "score": 40.2,
+      "volume": 20,
+      "trend": [
+        44.4,
+        40.2
+      ],
+      "drivers": [
+        {
+          "title": "Georgia murder suspect captured in North Carolina after months on the run - FOX 5 Atlanta",
+          "source": "FOX 5 Atlanta",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdnBWZ3RoWHNwZ3YwQXhTOGNxZk9IZ2tYV2ZOb2JZUm43U2VZSHJWcEM0NHdSTXczSVBGSjlhcUpSMFJtdUphRmozUDJ5RDdkTlotWjJncnpxLUtIRjFOZjR3bVpWR2UwaEp2SEw0WDhoeGxYaFpDZ0dhalFKRzEzYkRRamxzWHZ5U3NUVlBRSnp2MVlteVM3SjlsOTU?oc=5",
+          "valence": -0.93
+        },
+        {
+          "title": "Georgia Water Utilities Are Reported Cyber Attack Targets - govtech.com",
+          "source": "govtech.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON3pfNGNhOFpxTnVRdkFLNVJYcjkyYVN6SVRIWVZqSzFMWlFZNDNHMGsyMUQ3U2ZyYXBKNUZCVFYxempoMEVPS3dyWXZBYWh2WXNSOG16RVViQWRQa21kQmY5NnczQ0ljdjdIa05xdlgyLTJQOVI4TG9oYWpxM2pGN3ExTzhrR0d6d3R5R084VW5tWG9v?oc=5",
+          "valence": -0.735
+        },
+        {
+          "title": "Journalist Georgia Fort, who filmed ICE protest in church, seeks dismissal of federal charges - Minnesota Reformer",
+          "source": "Minnesota Reformer",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZXEwbXZZdENKN0ZYLWJDTTNIY3B1ZThzZ1A3WnJuZ2xkTERMS1BEb0RQekR2Mm9lTkFSUWZhOFo3UWpyUE83Z1VkM29XY21QZ2tqWmRJWlk5ZDRlamx0UzJXdWNYaGpzUFgyX3BWZkNRR0xqWi11MGpSRUhtbXZHRkhkalRINzRQUXFlekwzMzdjZmNiQlNGUlllOC1UU0FSLXlzbjdrVDBHcmk5UFpycXFwSm9FNnlOTXdjSVVGYkdvOEtjNi1zREZud0FMdw?oc=5",
+          "valence": -0.735
+        },
+        {
+          "title": "Expert says Georgia water system attack highlights critical security deficiencies - thecurrentga.org",
+          "source": "thecurrentga.org",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNakRpRE9FVWl2Q2xqa0g1NEtFdUQ0TExkNEhldzVGZVJheUpEWnFadG9IcTFma2xMQkNxb09JeFRxRnJnaHpSOS1pekxuMEE5V0VZdFZaVXR1Y2FSNHBrUzJlOU9LVzNPczNfTGc1UUNmOXpCbXJzYkpvLW90UU1LeWJNeXczRFp6WkRYMkliUVliZkhaU01mV2NISXNKczRmQ0JBOXlrcEo4RFhub3lmLTZ4SjY4eGUwN3c?oc=5",
+          "valence": -0.718
+        }
+      ]
+    },
+    {
+      "code": "HI",
+      "name": "Hawaii",
+      "lat": 24.5,
+      "lon": -119.0,
+      "score": 54.4,
+      "volume": 20,
+      "trend": [
+        53.1,
+        54.4
+      ],
+      "drivers": [
+        {
+          "title": "Hawaii congressional candidate Kirill Basin allegedly threatened beachgoers in Maui; after being knocked - The Times of India",
+          "source": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQZ2lrY25sMVFtNm1mU3ZJVFRHcEdrN0ZLOWZfamlSY2NScGNWaHg5Z1kxV1JfTnJzRlJ2M1pTRW1kVktBcHhycXVoTWpGOTlhTUs4STZfSk45NXNkaDFrWVFHUDZNRjZ6Z1dnamtIOGpXa2RjWEZKSDB4a2JvZ0ZwSVlKWDExcHJkSk9Vc2VFc2g1a05fTEVPS0tiN1hTVXdELXF0RG9CQTVEWHVraHE2ZF9HUGxQWkNFOC1xYWllcVg4c3VBdEpRanBPRjU3bmxxQi1WbjZNVVU0TEhwcXFiVUpGV0Z0QWVPeUs0bEh6UVBjdG5Id3BhY252THRENmxMZ3EyN0FaZElHNDJmU0tDdmJLYktmRkVHTUk2cW83YU1Bc2MtU1U5Um03SlpPYlllM2Q0ajlERm9ZSDNZVE50Wlg3eXVVLXdUbnNPN9IB0gJBVV95cUxOcEh2MExWanZtOWs2akRiMjMyb3NteFZjdHhSamtzSTk2TFJHNFdPWFZWcWNkTkt2Y0V0M0JiSGFlQ2h4VklBM25iWG1xMmJrY2R5M3E5N2pRLXF0eE96RnFvcEJab1doV1NFLWR1SDdrTklCRGc1OEE2aFZhUVNBWVRqSUUyeDRjTWplUW5yRkxjenNTX1VkdXJpQkl3VXpWYXFicEZ2WWtGN3JZaTZVYnZmaktyZC1UMlF1R2FtRmtnTDFMOXhzcG44c0xQaGFoNmt4SVlFVDBXaXZVNkdWT0RKelh3d25XQlBZc3F6TWRJSFhCTHRPUXZWbVZqSW1DaEZqUHQxcG8zNE5mOEFXOXhHY3hhZ1Byc2t2QWp2SDQ2OURMZ0Fsc2luYWd4Z0RvUjRFTUVqNVUxVjRvVzFVYlN2UEk0QWNPRG9rWGVDc3V4Zw?oc=5",
+          "valence": -0.718
+        },
+        {
+          "title": "Kauaʻi CC carpentry program for inmates builds hope - University of Hawaii System",
+          "source": "University of Hawaii System",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KOXNteEF3SjBkNUpPNmZSZWRRRHRyUWtJejF1VWR4clJET1pzeW5xQ0Zrak5BWHdQODVtVGhyUllJckFYOTVkajNILXBzUnBCYzlRdHNDSDlYZUtD?oc=5",
+          "valence": 0.7
+        },
+        {
+          "title": "Hawaii's End Run Around Citizens United Faces a First Amendment Roadblock - Reason Magazine",
+          "source": "Reason Magazine",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWEV6X1NFakRDNFN3cHYwR0haNmh4dVh0bngyRHd6Z3FJUUdPTGRSU0NVQmtnVXh2eDJ2QmpMNDNyVTM2VnZJcENySnlCTUt3SFVGV0pKbzVXZnhyYVVId0gxS05kNjIyV3JONHFKbjZudjJQV3JUYmxhQm9tN28zVHVSTG83RXNoeGt6QTR6N3RqV3c4S3RtY0NLbU1TN2Q4NG9tSER3?oc=5",
+          "valence": 0.681
+        },
+        {
+          "title": "Hawaii Guard, Philippine Air Force Expand Aviation Partnership - nationalguard.mil",
+          "source": "nationalguard.mil",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPd05WYlk1b1RhZHFmQmwtWnZSVEJINzlzT0F6UUpMVlZoOTZWWkFCc3hXeXN5ak85SmdwYWFIRm1rNURlQnJmY3Fxd1NGTHpObkpaV1BxLXBPRm1ZS1cxTmdkOFJzMzB3bnJPR0kwbTg2enBZSDlzZXMtSE1KeGZSZUNXQXNTeVRBU2dKS3hVczFneE14SExjejJ6OTZ2ZFNMM0FiR01XcG5qLVhlQVdXOGJkd3BMTTRFbVliUWlmQVY2WXJNcU96dVJJOU5reUNIVjBhWGdn?oc=5",
+          "valence": 0.557
+        }
+      ]
+    },
+    {
+      "code": "ID",
+      "name": "Idaho",
+      "lat": 44.4,
+      "lon": -114.6,
+      "score": 47.7,
+      "volume": 20,
+      "trend": [
+        54.6,
+        47.7
+      ],
+      "drivers": [
+        {
+          "title": "ISP: 1 dead, 3 hospitalized in head-on crash on SH-55 near Donnelly - ktvb.com",
+          "source": "ktvb.com",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTmdBangwRHdDMGl5b1RkTEN1ZVFSXzJqbncxb2hZOW5MSHJmR0ZFNXl6d2xYdnB4UHNaMFNDTkxNRzJLQUp2R2N3QTlqMHBJQmNaRHpYVVhFRDdzVVhGa0lMb3h0ME1ldG1hQjFjTjlGcU9SUk54Q0t6dXNCSXItd2VCMXZVSGplRFJrZFoxT0U0RGdNQnQ2TlJRV0hiLUljR0JQYV9Ob05RT1BUazJNYjRLYkxpWDljb1VZYTd3WTFMMVAxVkRzSkJqSHFrSVhfa0JZSXF1ajhoSWlrMDFz?oc=5",
+          "valence": -0.932
+        },
+        {
+          "title": "Five technologies from Idaho National Laboratory win R&D 100 Awards - Idaho National Laboratory (.gov)",
+          "source": "Idaho National Laboratory (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMHVSQ1ZoQUY1Qm5IMnhvN0s2ZVBOcDgyWlBwbzFDdl9NSGJtcV9ScTVDQTZ1NTZhRkEzNjZPWW9hVjlGVFpNT0JMTGJQaTUzY2tlWWNSZUVLWkZ2RGFaSDNSdmdzYmtXQUNUVU5vWFd2WDNaUmJjcXlmLVU1cWZ5eC1vS2ZHWnpnbUhBRjNPOG1NM3l6NGQzT2U5QmY?oc=5",
+          "valence": 0.927
+        },
+        {
+          "title": "Only 1 Idaho Springs rafting company remains open as Clear Creek hits record-low flow - 9news.com",
+          "source": "9news.com",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMTd6SGVtTlZuOHN6OWZJdEhubkpEc0NHNGxEb1B5Z1NraUpLWHBha1BDUVdXdDM0YzBUT3pTNHgwXy1Vcmh0TFY5X2F1akZkUnBndGVUM0tTYTBjZmNkT2tfdlotUUVZZFoyUWFpWUJ2bS1zck92RDR4bmMyOTlVa0Rpc1hiQ183azQ0OHBEME04R3VvTS1VTDdnREllR2RaRTRHQmM3T1FHT2l3WU1KNzZJcmRPaTB0QWExOUNSUVBQMlR0cG9pejRHRzg1dG8zZ1YtbTJUYmo0dzlxQ05uclp1T045ZDBhMVIzenN3MWtoVVI5?oc=5",
+          "valence": 0.637
+        },
+        {
+          "title": "Range grant application period is open; deadline is Nov. 2 - Idaho Fish and Game (.gov)",
+          "source": "Idaho Fish and Game (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMzYyc2VMSjExNm9fWXB4elBsdlpqN0dpS1RXemtvdTRPRXhpdURrUUFLSGZUdTd2MWNZZEZxLW5pOFZKbTB6dWRvQ2VxT29kbjVGRm5SQ1JHOE0tRnhmMktUWDA1aEJGQ0gxSk9iZzlfbHFDeVd2R1BCRGxPOS1aZEhtd0tFak1y?oc=5",
+          "valence": 0.612
+        }
+      ]
+    },
+    {
+      "code": "IL",
+      "name": "Illinois",
+      "lat": 40.0,
+      "lon": -89.2,
+      "score": 54.4,
+      "volume": 20,
+      "trend": [
+        54.2,
+        54.4
+      ],
+      "drivers": [
+        {
+          "title": "More than $2M in state grants awarded to boost southern Illinois industrial development - KFVS12",
+          "source": "KFVS12",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWnVBRjhpUHd5MVllbzk2bTF1VzdsMWg0Zl9VNkNVTG5OZy05b25jTk85M0tCSWdIb0NiR2FXVm1RZDZwb1VMRklSYjNoNzRJbTdURHAzR1IyakhQSWd3d0FCUkU4T0dfSmdYaUNkQ0dHMkc3WWpOQ3JCQUxkWUMyYmxGTnowTUxwaWR4MlNzNWphQ2pBbFpqQld4UzhqdktrbUN2YThJcDI5UHlNSXVJR2kyelltZw?oc=5",
+          "valence": 0.912
+        },
+        {
+          "title": "30 people reported sick in Illinois from Salmonella outbreak - The State Journal-Register",
+          "source": "The State Journal-Register",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcE1qaVJEN25IODVHZ1RrQmk1NVYwNG5OVXZwYU5JcGJiazNMR2JMQlhibW9aOFJ4S01tN2NRbzljMVpMVU1OaC1IQjNWQ1BxZ2VyRzNMTElsbVkzYmNnczV3SWFpalRaNVFvX2tUX1liaTlBb0hzSHJXam96U0JpTGFyeFZkX1NmRFNyWTcxU0R6UzJNbnY1allsQmZEdzN4eTZnY1JZZVhrckw0OUFSZWRTSUdPd19SdjdNWjMzbw?oc=5",
+          "valence": -0.765
+        },
+        {
+          "title": "O’Fallon, Illinois community replaces stolen bike for young boy - fox2now.com",
+          "source": "fox2now.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZGhzVllsZzhQYmJqQ0xrR21Gdm1FUnpBdThWc1M0ajVsQ0ZQWmtaejEyU3dDTkZvNFYtemFXLXVzLVhsWURCZ3hUWk05VWVXclhscEZQN2xzeEJ5YnBQX2NxWmNfY19TUVVtZ0hGVFo5UHVDUDRrRS1tQU1tRjc1M2s1LXRsSi1MS2kteHlSb1ppSV9fektZOFBZQ3jSAaIBQVVfeXFMTVlmUTBDWENKVUgzQ1ltY210elJQcTdjOWYwT3A3NU0wYnNyajRxX3RXbi1fczlSbUNrUDREQmhjMGc0TUFUYVUzMzI0Q2UtdUs5WVpJRjZFZmM4M1E4SVZMSU9tdTNPUTZfUDItWUZJLVZLOXVLUVBqSEg3cXNvd0RlMmNONTFTeGRMcnc2ajV2bTJzTEt4N1VkSi0wdC1OdFZR?oc=5",
+          "valence": -0.751
+        },
+        {
+          "title": "‘The Invoice Remains Unpaid’: Pritzker Calls on Trump to Offer Tariff Relief to Illinois Families - live-news-wttw.pantheonsite.io",
+          "source": "live-news-wttw.pantheonsite.io",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2F1S0dISmFxbTZJZW9XY2lKT1VhRHFzdXJzUkNzN0M3Z1JGRms0OUxDV1ZNbWx1SEJrcXF6ZXBsTnVST3ZjQVR6cFIySk1mTkY3VU04c3YwcUVNbHRJUFg5WXFJVk4xMzlmUFIwazVqRTFuSC00OWtwckptTy1RZkpMaTd4cjUxd3RKRXVRQU90QWtYbmxZUGV6MUt6M1hEZHZjN0lzMDZlRnlQMzBibFVkNU4?oc=5",
+          "valence": 0.735
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "name": "Indiana",
+      "lat": 39.9,
+      "lon": -86.3,
+      "score": 46.4,
+      "volume": 20,
+      "trend": [
+        44.6,
+        46.4
+      ],
+      "drivers": [
+        {
+          "title": "New Purdue AD takes jab at IU: ‘If you don’t want to win championships, go to Indiana’ - The New York Times",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa0IxREVzdlJCNGVTSEpxWnJmRWY2bHMtbl94LTc5SW1sN1JmNjZMeFhtLS1xbnNBZEFFZ3dvR3B5S2VDX3BKcUpCQnB6Szlmd2c0WUt5ajFFLUxicE5RME9wMVNicWs2WXdzWlcwOU54dUVfSWdHcmRKcWxwOWZjZzB5RWJSeWREZkhjNUUzYmR5UURvbEp0dFBCcnNfbmRlN3RHUnBKT0RuZnlFX0E?oc=5",
+          "valence": 0.939
+        },
+        {
+          "title": "Indiana State Police identify person who died in Porter County motorcycle crash - WNDU",
+          "source": "WNDU",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeV96dm9MUlB1eEZoUmFfUnJxb2dycmNldnRkVmh0ejczMGJ4Q2w4TEZBaW1PY2tTX2lRWjBrbmIzMGFWWmUwOUtVdnMycHZGS2tXM0hBbE1TOU9KRmtPcHhEMFRFdXVPTThzT3pwTGJPZHpEbFVXMnBLWlJtOEpKN0JxeExZVk15WHV0T2U1Z2hvdEtuSVNnYVgtSmJMSnRLT3Y4R2YwNkxCM3o2Y2c?oc=5",
+          "valence": -0.912
+        },
+        {
+          "title": "WNBA Fans Voice Discontent as Team USA Snubs Indiana Fever Star in FIBA World Cup Roster Announcement - Yahoo Sports",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVldRUUVadlJVZFJSeUkyZTFsZXdrX0NMUEFHeUNBRU9NZXlTN01qTHRqaDJHN0lGcUZOdHNfbF9CV1BYOU5DRGZLNEdobjZKVzg5Y0prWXhJVXBDcmg5VDVLMEE3UTdNOFY4R1NVV2NpVkhTd0ZwblBydVh6SkFHNGJEanM0MTA?oc=5",
+          "valence": -0.735
+        },
+        {
+          "title": "Alcohol, speed believed to be factors in deadly motorcycle crash on Indiana Toll Road - WTHR",
+          "source": "WTHR",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVkxMVDF3Y3VjWXVmeHY1ODRvbHdRQXFCcWluYUxqc2o5OHE0ZmM4UklWalJ6UmNLWFV3ckR3ZGdRbGJyNUVnRWJfV2IwOVI4cXNtX2E0eEpTMW9LVmNPdDctbFJ4cWhrM2NoZlB6R0pUMEg4aUhMbnNtV2ZWSUNsV3g0b3oxWDlfWkpZazBrYWNGaXFWZzY3bElPaE5NYm5fREloRVEyeGZlN0lfaHBwWUF1ZlItWVNWdG5DVng2WG0wa3U0bFBuNmVGbVRsWHRNTDdQY2c4WHVZcUh1M29jc3FIUmlpRDhnUGd4dE9qUFhib2pVVEVKbDVseWYxbm43UTJlQ1pn?oc=5",
+          "valence": -0.66
+        }
+      ]
+    },
+    {
+      "code": "IA",
+      "name": "Iowa",
+      "lat": 42.0,
+      "lon": -93.5,
+      "score": 44.8,
+      "volume": 20,
+      "trend": [
+        48.8,
+        44.8
+      ],
+      "drivers": [
+        {
+          "title": "Iowa Conference: Planting Seeds of Faith: MUMM Brings VBS to Rural Iowa Kids - Iowa Annual Conference",
+          "source": "Iowa Annual Conference",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY1oxdE5xZ283Q1NUaE56SzlDMkFoZy14NW1meWsyM2trakIzdFBkVm1kSlJOSG1GT0ZoSXJOTUczZm9oX1ZHWGdWWDRJWFJsaGRJOEphTW43cHhXblk3R2hnX0o5emF5VnRjVjBWY3hubGNaZFNEbG00RWNoYjhlcW1ZQ0t4c2ZCVFRBTWhsV0J0bEtpZFpwd3JhQkR5UDR3T1E?oc=5",
+          "valence": 0.946
+        },
+        {
+          "title": "19-year-old, 53-year-old die after head-on crash on Northwest Iowa highway - KTIV",
+          "source": "KTIV",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObEltQnM2VWRNdkYwQ2Z2RmIwYnpHWWljOC1HdXR2WlA0MmFqTW05UkVnTDlmWGVrNmc0MFNTelQ5bVFwRjNBb3k3bElIUzJCcmdCcDBhUjhxMm9HTm44QVJZOXIzMEp5WHY5NGtnY0hzazVnbDFJNEtKSTdpQ2RNZ3BaY3V5eWVNYnItOUw1dFdxc2g3cVlJdldTVEM5M0taMEpFLVN3?oc=5",
+          "valence": -0.922
+        },
+        {
+          "title": "Kristin Ramsey's defense requests missing evidence in Ashley Okland murder case - KCCI",
+          "source": "KCCI",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWlpMdE1UOGJoa0tzR1NmeWZXOHJPVk95UDIxSndRampDVjBXSjZ6RzVPanVQeVFWQW1hZGp5V09ydDNBbm92LVVodUE3MXFoSFMxMVowVTFFQ0FrQ1NZNjhyR1JrVi02WjNDbml2Ylc1YXl3bUhZUDNXazhDVUR2RlVYWFBxQ0FVMDRoMFA2OGVjdmltdzZwS25uNUpuWVVqLUYxSUc5UQ?oc=5",
+          "valence": -0.915
+        },
+        {
+          "title": "Farm bill proposal fails in US Senate ag committee over SNAP error rate issue - Iowa Capital Dispatch",
+          "source": "Iowa Capital Dispatch",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd1ZuY2hHVjhFNm5nR2NrSy1PcTM3Zm1fMjlGUmtCSC1JNmxseWQzZThMQ0hNbTJOQ1E4dHBEcFZLd3Q4N0ZUQ1dwS2xodHNILXF3bUlDb3VaU01yVU90YkNMNXVjelpaZTB6dFp4a1hWUDlhRnRzaW04RDhfbHJYV2VhNllYS3Y4YUZEei1OcEdiX1lNTmp6S24xVGQ0NlRKWGhaem1aMV9MZWJseVBfaXhBQV8tYUdVV3VXMUVB?oc=5",
+          "valence": -0.875
+        }
+      ]
+    },
+    {
+      "code": "KS",
+      "name": "Kansas",
+      "lat": 38.5,
+      "lon": -98.4,
+      "score": 53.0,
+      "volume": 20,
+      "trend": [
+        52.4,
+        53.0
+      ],
+      "drivers": [
+        {
+          "title": "PHOTOS: Severe storms cause damage to parts of Kansas City metro - FOX4KC.com",
+          "source": "FOX4KC.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcjhZNmgwN3pqOEJkcW9NS2syT200RmtscVpNUjlWZ0NpYWlQVnBNd2V5ZlE5QVc1alBDdjA5Sy1RY3hzZjJaYTlIMnd2N2FjMmdHU3pzNU5wMVFOQ2xaZ3dsVXZyN0VWT2VVWWFvc1lwb2lWUzNxNnliUmw1d3k1WHNvcl9wQkNTd05LcnB0UnVYd9IBlwFBVV95cUxNYXhVZTJRdy04eWNURm1ybkoxaE1DM3F0Y3U2YUdOdlV5U19UNVJSR2hpTEVKZnUxeVNtd3k3WG00XzhoNnF2cW1tVDVudDdDR2k2UEpoZUZqSHYteWxCMFFVRjkyQTVNNEVtanRwNVlURW9Cb2JxeERSeEluNmUxX3ZpTUVScjJiaEQwSlpqa19zMkloYkg0?oc=5",
+          "valence": -0.891
+        },
+        {
+          "title": "Man involved in Kansas City burglary crime ring sentenced - FOX4KC.com",
+          "source": "FOX4KC.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZnVnQy1DRU9SaC1OTkdKczhTT1lwSTZhNXpMRkE1bWRvV2k4dUQ1UVlzZnN5d09talk1RTg2d3VaclJXRVZ6eHNWb3lBSU5xdEpWZTU1bHpocTFVLWNLQlFzeGlGTGlBSHEwVTdPOElZSlRPR3AtZjhNRUhDWHk5STYwRVhZeHJEUVHSAY8BQVVfeXFMUFpEa3BqcGVPZ2t3cGQ5Q0dnN3A5SjNHQkZpNmo4TFRtUTZyOWhfOGJxd19id25kZTZFMVY2S3ZXbU5PQ3NETlVHVW54d2Y2MTE2b1NZN3c0SmE5UEFzTnl6SDZoeDVObjc0MllqNVIyQmlVVG9Qb0s1cW12anJ1cHVXTG55ZzdydTdjQnpWUEU?oc=5",
+          "valence": -0.802
+        },
+        {
+          "title": "This Kansas City artist offers handwritten letters to encourage people to slow down and connect - KCUR",
+          "source": "KCUR",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHM3dGFnZWdrY0s2NDlwTVVJai1hNkVRR3I3V1ZjTUU3WkxyRjZxcUF5YlVwRnBsbG9aRXVUQm1JZ05UYVh2WFhmX3pfYnI4ak1ESk0yVVRMWmtzN1liWnRyLXFSSzlfUkVtSmZKdTRLRXpKaTVKOE1hQXlSeTExTkN6ZVBjWWRKdF85YnQtWmJxMS1PQklYLWp3bDFELWFVY2RWRmMzbDVFZ3g3S3pINTBBWHNxZw?oc=5",
+          "valence": 0.765
+        },
+        {
+          "title": "Storm damage cleanup starts after overnight thunderstorms - KMBC",
+          "source": "KMBC",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRmJSbVh5a0NZNUxQN1E0TzlZNEJfckphbm9QSDBZejZITFBVZ0VMaFMxOUJrOXVocldmbGhIcFE0cEl3TGRMTG9XNmotamZQV0JXM3BtM0JsUXdnckNPeU8tUXd2Ql9lYlZENG1RQ2dpRjRHR1lmb3h4YWp6TDFrMHlyVThhQVJ0dzc1TnhwWnk4cE9tbnJuYV9tQUEtMGpYb2RVTHpBbTF2Zw?oc=5",
+          "valence": -0.751
+        }
+      ]
+    },
+    {
+      "code": "KY",
+      "name": "Kentucky",
+      "lat": 37.5,
+      "lon": -85.3,
+      "score": 54.0,
+      "volume": 20,
+      "trend": [
+        54.2,
+        54.0
+      ],
+      "drivers": [
+        {
+          "title": "MADON RECOGNIZED BY KENTUCKY LEAGUE OF CITIES WITH 2026 FRIEND OF KENTUCKY CITIES AWARD - Kentucky Senate GOP",
+          "source": "Kentucky Senate GOP",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQk15UHlOQ2dTa3ViWWNPS1d4ck1XbVB1SUZ2eEdNZkFFbDdkWVhKZG9HVEZvWTkyckpDODhXLTRwQkVuTy1KaHJWVWE2bFJRc3RCVGxKTWU5dng5Wk9mdTJBbFNlYnAyUHJMaklrWEoxaHVOVFppZVYtc3I1VWlxdzkzTzM3NElNbjE1ZUxQendLMXJFTmNJUGdTa1pPcVpVSDFwb25hS28wSmp4V1NldUtKX19WS2NWNGN2TEVZYm5XOVRFOWg5QjRTVWE2QlgyQ1NNRHBwYVNrZlU?oc=5",
+          "valence": 0.954
+        },
+        {
+          "title": "Driver killed after being ejected in Kentucky crash - WSMV",
+          "source": "WSMV",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNczZFTV81eVZLaVBuVlR1M2swUUxwcEx0UjVmQm1RT2RqTmo5RzB5RHVuQUJuN3d3cWFmNGFKVHl6MVQzTDNKbEpiM1ZEdlo3WnQ1MVpjWmM0YlVIdk1oT1lsM1FCdUc2UEhNNGxvaHI5UTNHdGpqTGdsdHB5WEd0c3RkTFZEcWhE?oc=5",
+          "valence": -0.937
+        },
+        {
+          "title": "Kentucky United We Learn Council focuses on how to support districts with reimagined assessment and accountability - Kentucky Teacher",
+          "source": "Kentucky Teacher",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdGpvZjhpM1FsTzMzaDlZUnJSeUl2aXV2Umw3NXhvNV9tZkg5c3pOLUR3S1pJZV9xM0lGQ3BZMzZXd1FTZktGTzMyc3pYZnRjUDJaWVFmajdnLUdLNzBWUVhpVlBpQXgzamloVDl0ZGx5Mldnbk1PM3RCTUFScU4xQTNLX2pNYl9MX3ZaakFZSFR5eEVGUndVMC04RFM3eWJURzlUclA2NFhwZmt1VFBBb0lENFlSVDFGUS13RXNxVGU3aHdHLXFlVXF2WmlPWDV4NEY2YnJ3c19UekVKWnFZWG42dE1yVnBOZHVLeEdiRXVmdw?oc=5",
+          "valence": 0.875
+        },
+        {
+          "title": "Tractor-trailer driver critically injured in I-24 crash near Kentucky-Tennessee state line - WZTV",
+          "source": "WZTV",
+          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOa3g5TnVoVEtlMWlLRUJrdVZJTThPSmhjYWdLaXU3dWxkSU9CZlR1WlZOcTRFb2N2TDlJN0ZiYkNjTUNKaHdKUFlPMXBsYmY3Y18wZ1FwVTZ6Q0JYamo0cE5mN0Z5YW9MOHhzNThEaWxIbHRmTHltSWFCRjdHcWtDd0M1bXVjR0FTWlZOOGV2UWhSQ3FjclpaNFBqdzVpTlhmdU10MTE4M2h4WThRNFh4ckMzTmNrZ2xnbzQ5eEVNYXFQTGJFam5YcUZ1bTEwbmM2RlVqbllrZWNXcUotWGRLTWotcXJLdC1fRFZLUG9MbWtDdXJYSWczdnBGXy1uMDNCa3lzNndpZ3JFLXpMVDlHYXJkTHRyNWFxNEhaY2QtZFpxZlctNjZB?oc=5",
+          "valence": -0.869
+        }
+      ]
+    },
+    {
+      "code": "LA",
+      "name": "Louisiana",
+      "lat": 31.0,
+      "lon": -92.0,
+      "score": 47.8,
+      "volume": 20,
+      "trend": [
+        47.1,
+        47.8
+      ],
+      "drivers": [
+        {
+          "title": "5 Louisiana residents die after infection from dangerous warm-water bacteria - WWLTV.com",
+          "source": "WWLTV.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZHVQZVFoaWlRdnJWcEVPM2ZGV25MaGMwY2NpanM1SDlBbXhRQmxlNFVIRjF6dGFRMk4wTXY4cFNVeGdDZHZIVWZ4a0V3aGNiVmxkbUlnY1NqM0syQ3ZfSzZHa0hXTHFtSUpVT2dfbTJHU2d0VG5ZMEJTZm95TkFfc2RlWlRoOUxjdk9OS3BodjlXM2xrTzVtWWxkb2tzVDhudkdSbW5JVjl2S2xsVEladGJJc2VvLW90dUg3WF9GZTNhX3M3V1ZDdE1PSmktQ0JTajlPVThBY0FqbTNKWk9uZ3RQZWczVHQ4aHhJY1RxYzY2RVRSM1ozMnBBM2lNaWxDcUpKQ0RTcUI?oc=5",
+          "valence": -0.932
+        },
+        {
+          "title": "Flesh-eating bacteria has killed 5 in Louisiana this year, officials say - CBS News",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkJwNUxXM0N5SUpUdWhvZExpUFBGZFpoZ1QwSDBmQnpJUTNZN3B0OGlpSUg3cktTdDVrUGRrS3FXbXpYc1dzRGotWjU0d3I4Q3M5allCekZPMWYxSzVvZExscUY5WXlHSGxWdkM5Qkh3dmxycE8wNVdEN2NCTmhWTzIta09xcEMzWEFZbGlfN1lPZmJZQ0E?oc=5",
+          "valence": -0.875
+        },
+        {
+          "title": "Food for Peace Ship Loaded with Rice in Louisiana - USA Rice Federation",
+          "source": "USA Rice Federation",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWlBqLWJRcGhFN2JIS2V0cVk5YmZLTGRGTUo4bFZwMXl3V1NVeFpWM05LM0dNc3dPLTdDT1FDamJBejhPNVpOQWFXYksySWdVd0YzNmtoRlZMUVVoVUNtRjU2VnNPelVMelB1YlA1QWhOS2liYmt3NXlFa3hSTDItNzJBX3pJdml6dDRaZk9kSDhaSUF2Y2V6Vk9mVUFacEVfc1d1UVU5QmZhYnhTWFlCbGVUT2RwTjd0V3dSelBSc2pUMWtiS2YyTWlZc0NTU1lYNzdONEgyeEh6U1BrRUhOYUJjRVRydw?oc=5",
+          "valence": 0.791
+        },
+        {
+          "title": "Undeterred Democrats qualify for La. congressional races favoring GOP candidates - Louisiana Illuminator",
+          "source": "Louisiana Illuminator",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5na0pINGk3YjI0dktxV3lpeVh6VHN5ZkcyN241dEpmMExZWHRTaXF1Q1J6U3BST1FPWHpoMWRVS0FBeFc1MlNEMXJSMEJURzVibDFXaXRfWmRKY2RkX1FJUHNHc3UyUFc3bXJyTUJxQ2ZHeFpM?oc=5",
+          "valence": 0.681
+        }
+      ]
+    },
+    {
+      "code": "ME",
+      "name": "Maine",
+      "lat": 45.4,
+      "lon": -69.2,
+      "score": 39.4,
+      "volume": 20,
+      "trend": [
+        42.3,
+        39.4
+      ],
+      "drivers": [
+        {
+          "title": "Freeport man killed in motorcycle crash on I-295 - WGME",
+          "source": "WGME",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaDR2bXA1NjBacnFPYnFGaFRQeTVzaFlvU0lfb3RGYTktV2FiaXVZQzRkdUl0RWo1ckNZVU5MWk9RbmsySFRVUkJScWJKQlY0VFpod1ZnbnM2a2JCcGRYMlJSSnhIclByWkNYVHJfRjBjbGk0MjJlSHYxR05TOHFyQXBfLTF1a2pOUVNUNDBxWFhTZFNPUU5LaVJleDlRcThwckpZMUQ4TkhUbllHM2ZJ?oc=5",
+          "valence": -0.937
+        },
+        {
+          "title": "Debora Kapisha, RN, freed from ICE custody, returns home - National Nurses United",
+          "source": "National Nurses United",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNk5pUlA3WXR0eF9ES2w1Y2tDcm5DMThIYWNrTl9RM3lrWnRUeUQ1ekIwbUYzRmhTMk5YYUw2UDhCOGVBRk1nQ1ZRVWN6SlMyZmF0NWY4cWcyWG9UbFRnZXFfSXdqVzNINDF2TExsYk1sVDRDV01ZenFuYjNZOXBPQzhYajJZVWl5VmJr?oc=5",
+          "valence": 0.875
+        },
+        {
+          "title": "After months of GOP criticism, Maine shares details of Medicaid fraud enforcement - Maine Morning Star",
+          "source": "Maine Morning Star",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVTZKb3NuVThIYXlQTzhPNU9NYy1VZEZkS1FuRURaTHNKUGxLdjRoWEoyOWZpYnFBa2xjMkJTbTZQdHRnZDc5dEs5cmtKMmlNenR3UW93M3I4QzFJQzF0NWR4VGhIS1JGV0dfSzBjYzZpaURRR0xtbDVjX1NUZVViRmxDdWxpRG1UWjMxeGhPZUhET01EdzNCdjk3a3d6d2U5ZVZweXhzSDVRdWRtb05EUHNvMmhpMzEtdVdVTjJ3?oc=5",
+          "valence": -0.875
+        },
+        {
+          "title": "Man killed when motorcycle flips several times on I-295 in Freeport, Maine - WMTW",
+          "source": "WMTW",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3I3MTZlUEU0YnlEb1ZOay1JNXg1OFN0a2lzUW93VU5kbFNVeXlNQ2FTVVc1djdGSE9OQlZnNEItakJadHZ1WEZwaGFPUm1FU0diMkZESkY1alRmaktOdWZBaGtralY1Z3ZGNGozRWQ2N2FHSTU4U0VFMG1wZjJic3p0ZVIteFN6eWlObF9B?oc=5",
+          "valence": -0.875
+        }
+      ]
+    },
+    {
+      "code": "MD",
+      "name": "Maryland",
+      "lat": 39.0,
+      "lon": -76.7,
+      "score": 48.0,
+      "volume": 20,
+      "trend": [
+        50.0,
+        48.0
+      ],
+      "drivers": [
+        {
+          "title": "2 Maryland men charged with burglarizing York County homes damaged in fire - fox43.com",
+          "source": "fox43.com",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQUZtRUVnS0ZPYlloaFBXVVhna2tGSGUtWEZBSldTdUFGUDFsRlg2TGo0M3BpQ1k3X3JBR0ktRDJXOWpmSlFfTnQwajZfNkdtRGVGWUZhNE1nakRzTUkwQXgxT1Y0dHY4RjUxRmVxTmxrODladVJxMTluOURWY3I1dFpfRzN1VnF3LWZ6cW5tZzZwcS1Ea2JyOWtoOXBTX2hiWXMyVU84LVJoc09NNFM1dnBhNkxZSVFaSU1GUlhKMGNoTU1uNUxzZXZPY0JuVGVMcUZodWhBVEtpRkZ1VnZjS2hfZEIxbnBaQWpnSkhxdHdwQQ?oc=5",
+          "valence": -0.904
+        },
+        {
+          "title": "One person found fatally shot in Landover, Maryland - NBC4 Washington",
+          "source": "NBC4 Washington",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWGN2Mk53dElKU2ZsR2FGTk4yLU1TSTVrak9Lb2VKV0pLbWxnSTBuV0g5UWNETnpjX0JaSzlPUjJ4X2pUY2hRenVVVDRhbUc3N2pGblJjVlRtS0pjcUlSUm1xWVdrSTJhVDBCZFNyYmo3OHZMb0RvZHgzOXhkRm0wSWNBZ2NlLU1jZ0ZDZmFQTTQ1eEUwRTdEOEJNekV0eUhwTEhNTlFVdzZYMFdqbXFWazdUWUh3NDRhSGR5MnMyc9IBxwFBVV95cUxNVmdHV2diVlRwNXFhR216cFhQOXU2MEdFaGtuQkJHTE9heTZRX0QyeXI0ajNlbDY0VS1ZUWtHNWdJYWlIbnAxSzlIVk9jdlJBV0VGYzFoQWdwZ3hHUHpKMmJDeVRwbGhJLTZoVXRaMnNvSkFXakpZVUlKb3VNQVJRNk1sMlJGbkpPSkF6d2VDSXpfQ2pIbHpYT0NFYWswMWliOHBaMXN4YWRKbnJUUUtyN0dOZnlONWdFLTFkNDBnR1BvVk1VUndF?oc=5",
+          "valence": -0.856
+        },
+        {
+          "title": "Gov. Moore ceremonially signs Maryland redistricting amendment; can he call it a win? - WYPR",
+          "source": "WYPR",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaEhWbHFweDdWajFnTlNESng4dmhVNDRjeXA3d0VxbGtFaUQtcUw3V3RLMFZQOWFQN3FUSnRUZExyTW0wTUhGSVQxOXdwTlpEOTBsRVl0dkRuSkhRN3Q2bl9JUnl4c2t0STZBd2FuTzlhVVhpVkd5ZWRwY3BuLWhsRUZBUVVmWTJHaF9udWFYVW5Od2YzNWZ4dW1wZjNPdWNqN3VsNXk0SzBnaWtOb3c3MFZ3SzNnTEw2dUZXLXZWYjRYQQ?oc=5",
+          "valence": 0.839
+        },
+        {
+          "title": "Catholic Church deacon in Maryland arrested and charged with sex crimes - CBS News",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYzNBREpUUmZacnpOaTAtUVlkNlVWaFJoYmpGcEc4amNSeV9xVVprZUVmUVhWNWI4TmNyUXVUcklUcXVfMTBuYjJ5bFNXc1lUcHFuaEhDMnBJbTFpdjVGMnFqV1NUbTcxSHBlY0pqekhSRWNzTkRjSzdUbDI3QU1SbnNFdUNtT1dVaWJWRzQ5SlBybndIMmVTQ0JIMnRRWUk?oc=5",
+          "valence": -0.832
+        }
+      ]
+    },
+    {
+      "code": "MA",
+      "name": "Massachusetts",
+      "lat": 42.3,
+      "lon": -71.8,
+      "score": 45.3,
+      "volume": 20,
+      "trend": [
+        48.6,
+        45.3
+      ],
+      "drivers": [
+        {
+          "title": "Brockton, Massachusetts mother convicted of killing her 2 sons in 2018 gets new trial - CBS News",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdzZUeFdHZmtlaFVpQ1o3QkpoaGM0VTJ0ZHR0eXIxd1NJRjFqU2hrLWJlc21YV21VaVN4UHhnVnpma2FNenpjczFIWWxjRU5xU2xOUEhtbjA3b0tJSVRGLVd6bTFheDBqMm9GZkxpa2NWVDJ2SjRiSUFWcEExY0MzQlA5Nk9sVzJJbHhjaE50dw?oc=5",
+          "valence": -0.869
+        },
+        {
+          "title": "New trial ordered in mother's Voodoo killing case with ties to Clancy case judge - WCVB",
+          "source": "WCVB",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZUdtRy1IVzJFbHNabnk2Q21VT3VENnhtQzZfZUNFenFYc3hKRDdtSjNGSWV4aTUzeUp4cGZPRU5ZdkRuT0JRTDc1Ml9rUDFzN3FxSG5hY1pSMTFCOE9oUlIxcUo5ZFp6VGJrMURyclpUTWM0X3ZKT3o4RFpxUjFpaEtSYzVFYjQ1aXlmU1hoa1NkdE5PbUtZLXpocGpMek03X2Q1T1dsMjBnRGZNN3laLQ?oc=5",
+          "valence": -0.869
+        },
+        {
+          "title": "Massachusetts man to serve 8 years behind bars for assault - WABI",
+          "source": "WABI",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbl9IYkdMZkJjYlJzb0FISjd4N1dIalVnWHZxbm43QnhuZ2hRREJfWUlBSFY2NFNRU18wVmJLT05UZ1RIVnFHTm1pVTRaQW9UMF9Tc211MzByQmMySEd3RS1GcEs2Y2s5NW1ieWo0bkxpTFJWLWN5SDlPem80cUREVlhjUDJYZEJsTlRV0gGfAUFVX3lxTE9YM3FpUzh2VzB0R2pxcThkTGFyaWhrQkpaTW1USzE4cElmc2NvcUZ4bHNNcngxcmtzTmNkT3M2eWQ5Q2VEeERVZkNna0FNM2xiSmM2cHBKMzg2UmRSc0dOeUpsWlpsam54ZXEzNF9nT0xCdk9PbjhxcC1vWDF0X2JUOGlwdWppVW5ZNkc0Y2xvejNiNWpnT21BMkJSU21CSQ?oc=5",
+          "valence": -0.823
+        },
+        {
+          "title": "Massachusetts Tennis Standout Beats Odds to Win Bronze at 2026 Maccabiah Games - USTA",
+          "source": "USTA",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMXFtYllwZ2JmUjRlZklCWkczb19GOV9GZFFMUkgxc3FxZWFETm1XTkU5Q01ra2JrbUw1MWtwZEhqRWxocVlkVWFUYWFvdDdpd0lqNUJmZl9CeFd2dmF0amZZaC0wNk5yMUpqLXZ6MWx6ODZST2h5eDNpbl91TnNzcW5JUU5VYU1KbDg4ck9zU0JTZVVQc2U0RmlmcTFWQUhab3lZQ2NYNm80NDBFVTRqcXZZbEhpeWhnQjcwN3lrVQ?oc=5",
+          "valence": 0.823
+        }
+      ]
+    },
+    {
+      "code": "MI",
+      "name": "Michigan",
+      "lat": 44.3,
+      "lon": -85.4,
+      "score": 50.6,
+      "volume": 20,
+      "trend": [
+        55.6,
+        50.6
+      ],
+      "drivers": [
+        {
+          "title": "Josh & Jase were having a great time in Michigan. Then Traverse City happened - The Detroit News",
+          "source": "The Detroit News",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcEtlMGF6YlBycEtyNGttc2Q5aHB2aWJfMGZTSzZsb3ZnQUtZYWNMeTJJRW92VEJxcGI3Z1hGeDZHWXpuaFphUVhFOEdjcmg3LWc0NHRFUzhDUXFrUm5DQUgteU0yQWRtQXdCS2luN181b3ZQSzRZb09IdUlVQVhtVVZiTkc1cjlEOE5IQzZLbVdwQVZBTkJrMjFyaVVFa3BjMjJReU1wM3RkX0o3STBWdjNrYXdzVGJBV1J0MzUydHo5YnpoN0xUV2pNcWZhSzVNWXZqN2JmeGZYZw?oc=5",
+          "valence": 0.848
+        },
+        {
+          "title": "‘The worst is behind us’: Cyclospora outbreak seems to be slowing in Michigan - CIDRAP",
+          "source": "CIDRAP",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWNXQjd2T1Exd0RZdkJxQ0UxOE43TS01RjhxbDRzRUpqY1RucDEydW1FWXZvZ3lZNy1FYW1zZFZwT3NEc0lwcUdPc3lVNVVoR042bmFVOVFob3RaYlN5eHpPYXUtZXNFRVotQ3NicHdnVzEzZjVhNzh3NDZpaVkzXzBFUGdEcjVBeU04N3FicXFjYVVqdXVvTVU0SWlRMG04?oc=5",
+          "valence": -0.848
+        },
+        {
+          "title": "Drug-resistant fungus is spreading. How many cases have been reported? - Detroit Free Press",
+          "source": "Detroit Free Press",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTAweUdoeV9DVFZkTlNkd1VQQkFyNnZwa2JYaFBPdnRJelpwVjUzNlEwT21jaFFxRkRIOWNxNjZCMGpQU1hIaGxSUzlzT0pfeG12bTBKS1hob0VOX0xNXzdDeC1FVGNYUExoa2FHMFhtdWJ0V0NYMG8zRE4xSXNEUFVoQTl0c0xzQ1M5dzgwWGNTWjJPRkNocktlNGN5WkdhSkdGaVdoUkNHb2k1NVkw?oc=5",
+          "valence": 0.788
+        },
+        {
+          "title": "Michigan State Police release 2025 traffic crash data: What to know - ClickOnDetroit | WDIV Local 4",
+          "source": "ClickOnDetroit | WDIV Local 4",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWlJyZzdBcm85RUk1c0F0ODhiSkNiZWtqNVNfbEx3NmRVZ0dWYVYteUdBQTZrRjNiYzdRbURYM0lqbmhVaHpTektVdVZubk00bFAwT0dRMUpDWWlQQ3Q4TUxlTUpvcGVZMXFnaHJTRVdHekxqVm9FZk1VUGQxcUVxekx2dnRtMmJScWd5RHZWZHdmdGY5ODZQQnNUZ1FGT2k5TWVhLUZ1VjVGSUItUzZFdHVua0ZCeUZqVUppdlZiczUxaTBab1hUNg?oc=5",
+          "valence": -0.66
+        }
+      ]
+    },
+    {
+      "code": "MN",
+      "name": "Minnesota",
+      "lat": 46.3,
+      "lon": -94.3,
+      "score": 43.9,
+      "volume": 20,
+      "trend": [
+        41.0,
+        43.9
+      ],
+      "drivers": [
+        {
+          "title": "Oz’s Medicaid Fraud Claims About California and Minnesota Lack Context - FactCheck.org",
+          "source": "FactCheck.org",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnpqMGJCMExuT010SGxzVzlPeHNmUko2TEtBelJGaTRGeEY2bUpSRUozM0YtLS1zdmx0dUVGc25tejJ4RnRmMVBZX212R1lEaUpRQjVxYV9iZkQ1cE13S2ZWZUZTR09pT2lfcC1TZXdHUVpKYkVoUmNsTGlvNURHMU1WbmcwXzI4a1ZuZ3Zpa1VYNGI3TmNJZUhLRG1KanZoNVBoV09SNA?oc=5",
+          "valence": -0.904
+        },
+        {
+          "title": "Judge finds probable cause that Mike Lindell's July Fourth pillow handouts violated Minnesota campaign law - CBS News",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbjZsR2Z0RGFtNFI1aUJNUW9KRWM4dllwZUFJcDJ2VUlfZlFBSVNiZTFlQmZPRG5BZUx5MjlUQ0hTdXdjMXQ3dGdQREp2R3ZrV1lOZXFGdjNXRXNCX1Bkd2tJRzRvTnZNRklqZ0dzNGJ6dnRoRm1lZ2R3UjhMSXFBcHRmZEFPQUVzbVBz?oc=5",
+          "valence": -0.778
+        },
+        {
+          "title": "Where to watch Minnesota Lynx-Los Angeles Sparks WNBA game free stream tonight - AL.com",
+          "source": "AL.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb0dPVW5QUGlUYmRmRnJPUDdSOTNqRElsN2hOUzg3Qi1iNmdVbnA1WlM4MERhUmt1NTlPSzREOTUxR3pIWm1PeThDcWZ1UngtX2FFbWd4dnprVjlPOFp0c3NwNEdqYjZnaXJPbGVHalFNUkEwQW45NEx4bk5JV2JhTEFaNHNGT3FZWkhyczk5SkFOX1E2MDlXdkZxTnFqaVdQNG1ZSUVtX0VXd1Y4MDhIcUVZZ9IBxwFBVV95cUxNckVYZlRTalFGR2ZERXUzV2s0WkU5UTJVVEh4dkdMTVdVUnlUeVpQVTBuQWY1Qkd6dFRhRURkQUVLVjNvUmRYdHljWTdrQUUtVV9CeW1GVHVvQ1lSakw1RU55TEpkOWpIUlVROVFna1puVjNMeTh2bWZvUUlfX0VaOW9BRTh6dUN2NVhFZk5wN284ZU9LZEhIQVoyNTQtZDloRmhfSl9ZZDhTa2hiYk9VTGZFTDBCakh6WlhtYTk0S0ZVelN0dXB3?oc=5",
+          "valence": 0.765
+        },
+        {
+          "title": "From zombies to Elvis, Minnesota Fringe Festival opens with 'something for everyone' - MPR News",
+          "source": "MPR News",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeDliM1owLVBWNTJrQndSRGdPT21RdktiMy1MZFRZSndwSzVJOTJ1c1RXdmtjcGYxam02MEFoZEJ6Nk1vUjRHV3FaWlBTbFBTdWhZcVZMS3o3c0dnb0kwa0NraUZ5cmVfT3RYQUg3ZklYWndYSWFQUGpjZHRNMy1qM05Sb2E?oc=5",
+          "valence": 0.751
+        }
+      ]
+    },
+    {
+      "code": "MS",
+      "name": "Mississippi",
+      "lat": 32.7,
+      "lon": -89.7,
+      "score": 55.4,
+      "volume": 20,
+      "trend": [
+        52.6,
+        55.4
+      ],
+      "drivers": [
+        {
+          "title": "Mississippi Crossing Pipeline Spanning 10 Counties Approved for Construction - Mississippi Free Press",
+          "source": "Mississippi Free Press",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVUw4WXBtZlp0blptcUFXQ3FXZERHaWctZGFNVlhsZG5uSWc5ajNqRVNDYzh5djNvVjBIR1laUVNvZ2pQTFRDblB4MVBQMlhxQWczdHNsOUR5dEh5RmpmOGpmc2tJREFkdlRmQ3ctX1hrVjctS1I3cWI2MHB4TlIyZU5oUm9aOHdXVzJhWUtmMXI2SFAzYmFWNy1kR3Z4S01mR0hnck9kaWVya2JjckRMSkhpRng?oc=5",
+          "valence": 0.904
+        },
+        {
+          "title": "Powerball Estimated Jackpot Reaches $856 Million After Another Big Mississippi Win - Mississippi Lottery",
+          "source": "Mississippi Lottery",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ0ZicWN6ckEwVENjTXVDUk5obkRBbEt1dUpYWnV5cTV2WHRhangtR3VmY2lCNVhXTkNNeWZJQUVNZTVqc3N3WnJLODBJdnRvbE11VmpkRXJ6UFhUR1lUS2JBY2RtNVN5Nk1lVFJsTjlVdWswOFFNalJneENEeS1XbWlEdWJOMUtNV0VXYXllWFR5bHk5Rlg5VnpZVWNBZm1RWUNfc2xUc0UxTTJI?oc=5",
+          "valence": 0.84
+        },
+        {
+          "title": "Mississippi Supreme Court declines petition in Beth Ann White case - WJTV",
+          "source": "WJTV",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOE9OQnE4cXVaaW5wQnJSR3gyU0FqYmV2VXVVY0ROVFU3dElrNVpvRUtyNzZMU2hXd2FXWmljRkt5enhJcUNpYUdhQm5HZmg3VUpXS2xrXzVGZ0dqSkYyNlNmb19ad2JDTkF0aEtIa01LU3ZtSE4zbXdfOVMxZk9nYmhxeXhHVGUxRExOMlN6S09JZmxhQ2xTZm96MUxxeHRsSXQtZndGZ9IBrAFBVV95cUxPZzg1SHNhUUZyODJaVDdBODZUdU52bXlsMzZaOEFZMGl0d0JINUZJVndWQTJzd0YxV19fTHlLSTVtR0J6VXJybXdDUFpzU3RpSE5vS3ZuVVhyQ0Q2bmxMTUxGVElEQ0tyZzRoMmhOd0JlSjVrZHRTN01nN284UVJoaDZLcmduUF95VUh3VWwzOE1iT3NuYUNFOWJrU2xTY045OGhJMmlCMXVlUWY4?oc=5",
+          "valence": 0.802
+        },
+        {
+          "title": "Tasia Fortune Identified as Woman Found Hanging in Tree Behind Vacant Jackson Home - Mississippi Free Press",
+          "source": "Mississippi Free Press",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc3FqYXJIZHNpMDJZVEx2VjFHd0dtTUFtQVFsX0d6dW1nVTZjNEVxeGdpQVZWdVBQV0sxc2RsLW1BUk1vTy0xS3Y0UEFra3RBT25GaVdLNU5kem1xaXNTMnZndmtoMEVDbHpCUkZ6YVplbTBpZVBacGRaM2lPcktjdFVreHl3UkJQd0NEMU9RV0lzemFsbi1mVl9YUHRrRlJ3My1EbXRNVC01QUdPNEd6SnZmNlVCYklVMFZGVw?oc=5",
+          "valence": 0.765
+        }
+      ]
+    },
+    {
+      "code": "MO",
+      "name": "Missouri",
+      "lat": 38.5,
+      "lon": -92.5,
+      "score": 44.4,
+      "volume": 20,
+      "trend": [
+        47.8,
+        44.4
+      ],
+      "drivers": [
+        {
+          "title": "Missouri Republicans rethink strategy after Amendments 4 and 5 fail miserably - STLPR",
+          "source": "STLPR",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWHpESnE5TVduZUp3MDFOVFZ2WUhEczZzbVFLNTF5TGZBMTE4cDNTeGpzQmc2dWFBRk0xb29jYndmVHJBZ0RaOGhoRVdLVWlMaERxeVFVb2RCYWpBYnh4dl9QQTdRYmxWUGoteXY0UjZoZEpNdDBmNDhDMG5CQWsyMU9ycm9pcEpJT04wZmE5SktZUVczNTJqa0tCYzRBaTZndDFUdUdBczRpYzZ2ZE1PdF9YUDFPdjMybTJBZUZkdEpkUVhGQ1loaG1JU0NGQ3U2MjBN?oc=5",
+          "valence": -0.922
+        },
+        {
+          "title": "Senate Passes Schmitt Resolution Recognizing the Missouri Tiger’s Claim as the 1960 College Football National Champions - U.S. Senate (.gov)",
+          "source": "U.S. Senate (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdTRDZU5pZkRtcXEtcVFEMFRLX0tkZy1KMTZJWW9fT2NWVEhFaTBxVWd1WGFYU19YX0FNdGwxdXgwam5LVGpFSmNRSGVfRDN5YkpuNExoS3BaMEhuUzhQMFF0c0RiNmpQbWo1YjVDN3RERXh0cHVUbXRRMlNTUzc5QTdIb2ZNOFN5ak1wVXNkdGFrb1B5RVl6RERxbjJkYVlsenRxUEFMaHhtRk1pYjZxYW9vTFRQUFVpNHRwTDNqUGlkcUJyM2QxeTF2V3JJVnBxS2pDVXhzSHU2S1FQRkNvd04zaTk0U2xYWHFSZndDUXNlc1RQcmszeDVRb3A1bThv?oc=5",
+          "valence": 0.778
+        },
+        {
+          "title": "On Your Side: Missouri AG’s office cracks down on 811 digging law violations - KY3",
+          "source": "KY3",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHhNUlZ1WUtldTZHcXBUaDNRbndFbC1RZm04ZzgyQ2FJLWMtdnZUYWc0ZkxDaDItZ09iVlFXN1dSWktjWDF4b2I4RVFwZlEwQjNLNHVQekx5cHVudHZYOUlFOVJEY1ZESnNvd1RaWUxZYVJQRnVWUU10cGxVMHZ4NUlPbEJtTUQxUnBDb05PSjRGYkszYU5FbHk2c2N3aHAzckHSAbYBQVVfeXFMTVYtMWZmOFRSMEpROTZUTjcxa1d3MDItOGRXY3VkTnBPUlpzbjE0WFdGTzRGdmJ5OEJXRFZJRDFZanMycldBZlh5dG40WkJ3VUYxNGlGVFhwd3J2NWtIUmFMUzlOZTdZV01MS0NVVDhaNXFYaW5JQ1Vad205OEpmTTgxZ2c3NnUzMXV6UU5OYlN6Tzl1bFN2c3NxbTlUOWVqQ1ZRQXFOTjU5UkVoWEFsYmcyVnJ0WlE?oc=5",
+          "valence": -0.778
+        },
+        {
+          "title": "Lawsuit targets Missouri official after he blocked direct democracy referendum - Kansas City Star",
+          "source": "Kansas City Star",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80VnhFczJ0YnpCaFREZ3VfY0pyNXFQYkVzS3JwN05IbkFOQXFsSmxrV0NMN0VCUDhQdXB0aF85T1BIZWg1QjZfcEZOcVdscTJ3MmZQb3haX0lHdGVJd1pIM0FpSlRJVVluTVRWZ1gwU0VBWElqRVhuYXVUTmZhQdIBfkFVX3lxTE1wZ1lycWstSHVuYW9fUldNVUhCalRYaXlmNm8wMEU1UExEa3hEQ1E1R1o2MHFQS081amlPbC1pS0hocjRDdnJfb18zZ1BpeFNPLXFFWXZNUklNUlU2d0ZXY0JhOGctVl9hdkxuaFQ2X2x6MWJ0UDdJYmoza1RGZw?oc=5",
+          "valence": -0.718
+        }
+      ]
+    },
+    {
+      "code": "MT",
+      "name": "Montana",
+      "lat": 47.0,
+      "lon": -109.6,
+      "score": 51.2,
+      "volume": 20,
+      "trend": [
+        51.1,
+        51.2
+      ],
+      "drivers": [
+        {
+          "title": "‘People are scared’: Montana pushes for action on missing and murdered indigenous people - KTVH",
+          "source": "KTVH",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZG5GOXdrYVRFb05zdVpQZmRVNVJ2T2xTVEUtSl9CaFBKUEV4VGh6MlV1dW9rN0l5U3IzVEFKUFRKQWQ1OEVLS2tQTUtUSFkxM3hCc3BYTElzVWhpY3pvc25mRXRuZEdjaGgyOU5UUlR1emhqdG0tNEcyQTBqRllINkxXUlpvVXYyNlhnLTBjb0dEaE1MNnZGR0l6UmtaMVpKUldYWE44S1JxRFFyVTJRUg?oc=5",
+          "valence": -0.922
+        },
+        {
+          "title": "Fire officials warn of critical fire weather in western Montana - Montana Public Radio",
+          "source": "Montana Public Radio",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYWhzamxsOXkzOEJVRjlzN0pxYl8xX0xxQmIzWGlNcmZLS0RlZ2NWRE9SSTRXWmlFSWJSLVdWSGVyMUVkb29RR2Q2enU0bFFhUlVmVnlvZmdWZkNTX0JjZF9YMXI0Qm45Uy1Sb01nNmpIYk5DazV3UnV0VzZfMHFMbVZ4dEE0UjRVa2hIZ2hYWkxBdERTU2FfWGVYWkI5UmthM3NLU0w3QUF1S0Zj?oc=5",
+          "valence": -0.919
+        },
+        {
+          "title": "Deep and talented linebacker group ready to roll for Montana State - MontanaSports.com",
+          "source": "MontanaSports.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQclI0TTltb1ZETnpEcklTSDhXQUpyQXFCeTc1RlZHMDhTQWJjMHJPWnVJS1RTUkg1ZTUwT1NxMjlwZjJTQ0dKTVZfd25LS05ZWXktbU8xSE5Ud0JtQV9EbURQUHQ0QU1NMVFxZzBORHBYa0h4dU1hSW1lUnU3SFhCRm12THJpUF9meGxyMHJaci1kVnp4cHNMeGdlUFM4RUJvTmV1Q3EwU0RfS0k0R2VpM3pQNmJPTDdURGo2b09CbDE2ZkNs?oc=5",
+          "valence": 0.891
+        },
+        {
+          "title": "Gov. Gianforte issues disaster declaration following Glasgow flooding - Daily Montanan",
+          "source": "Daily Montanan",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLWJXUmJadEo1Rm5pc01XUkRMZFVBRW1iLXRWZThaLS1rNlBEcDhuX083dHZfczNqMk4tWWR2OTd5Wjg0U05iNVhpcjFSREl6bjVUdUpTVFgzdU5WV2tsZ05ibVo3NUtFLWROakZRWk9VWjgtVnNZcHJiY0R1bkZXSWFJQWN5dVpHaWtKNW9vSWliNk43a0FaZWpPTklBNm1NM2hyOA?oc=5",
+          "valence": -0.848
+        }
+      ]
+    },
+    {
+      "code": "NE",
+      "name": "Nebraska",
+      "lat": 41.5,
+      "lon": -99.8,
+      "score": 53.2,
+      "volume": 20,
+      "trend": [
+        51.6,
+        53.2
+      ],
+      "drivers": [
+        {
+          "title": "Nebraska’s first camp lower leg injury scare has freshman WR staging 'major comeback' - Husker Corner",
+          "source": "Husker Corner",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRXZjTkVrbzdHa0g3ODFDemJGWlFMYnNDYzFVUnpvWWR1a2Z0c1BhQlB5Wm04MWFpWmdYWWFiRVFBVTRxLWZGeEdZa2FXQVdscVJMVFpiSXRZTUxpNXJwZHhGeVBUd2Q4eWlPeThlcnFWRmRqV3kxV3RYUTRCdmtUYmNWd252ZGdncVhuSg?oc=5",
+          "valence": -0.937
+        },
+        {
+          "title": "More than 13,300 Lincoln petition signatures flagged as fraudulent - Nebraska Examiner",
+          "source": "Nebraska Examiner",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFZWNm1sOWtycUVQRVVfZjZYbHNEcVZ1dHVRN1BWVmkySDlLV29Mb0pJVkFTanNyZXBRYmlncFBwdjJ3TTgyNzBmbVRnM0FJZ1h4ZlZ3NmdJbTF1SGRPazFJcXFCUEpuaE45TndqSldIel9uekVaQzNIUkdNZ3RUVmEwYzNYYVpEeHlHa2M4OGdQUzRtdEppYnNMZnV1VzkwMk1XbDJQUXpUQQ?oc=5",
+          "valence": -0.751
+        },
+        {
+          "title": "Property tax relief swamps all other state spending in Nebraska - Nebraska Public Media",
+          "source": "Nebraska Public Media",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNHdMS2t6YmxBUExsYmtydzNiS3pxVzZDOUdLQ0dJYU1oTWJmN3pidmJEdWpnRG56d25nQlJFS05ZWHQ4VG4zU2lkRl9DS1NzNnZaOUctRjdtTXlNZjM0XzBYNmNsU2gzZFJLUmFpT2JxZGNMX3FOS3FxUTEtT1cxd00wUHA4Vkxrazd3MEJabUhzRW0xdVR0ckJ4aHljZEZIS0VFSWdTYXY2YmtHbkJlT09abng2SGNrdmc?oc=5",
+          "valence": 0.735
+        },
+        {
+          "title": "Grace Hartigan exhibition anchors Sheldon's fall lineup - Nebraska Today",
+          "source": "Nebraska Today",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU2NyaVIta2JwTE42QUJpNjdWMm9fZWNkdmI4RGRIbjE4ZmozNlNZNHRkWHRVQkhkYnpfZXB1M3FVU2luTU5DdVliU0VDazk4QnN6ODR2eGhUeHpVZHdtTnhsTXFFSFNwdHl0STVSX2JhNXM4SGxnV2VfMXh4TEJDWGUzY0NoZGVkaVJV?oc=5",
+          "valence": 0.681
+        }
+      ]
+    },
+    {
+      "code": "NV",
+      "name": "Nevada",
+      "lat": 39.3,
+      "lon": -116.6,
+      "score": 49.1,
+      "volume": 20,
+      "trend": [
+        49.1,
+        49.1
+      ],
+      "drivers": [
+        {
+          "title": "2 Nevada Hospice Providers Accused of Fraud - Hospice News",
+          "source": "Hospice News",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN2kzbEtXdVdWTGdacEgtUS1TQkRmb09uYmpoOUdMQ0FxS1I0TG44czVHXzVJdktFWjk2ai1SXzdBa0NzV1djSjFzd1JyZ3ZQUmQ0azQ0Q1hwdFlJWm1DUy1rblgydEJnRU1ndFpMX3VyaWJseFR6eHB1ZXZlM3ZuOFRRMnZQdw?oc=5",
+          "valence": -0.9
+        },
+        {
+          "title": "Lower crude oil prices send Nevada gas prices dropping - KOLO | 8 News Now",
+          "source": "KOLO | 8 News Now",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV3NhMVU2VUV2Rl9jS0Y5SnhKc1lqQVU5My1xVlM0bmYtQW4xR05yMUhDWkJ3cmxmNzhlX1FpMkdmbXBFOXJXb2tReEtFR3kxM0NIOE5FNGV3cmNvZW5UdnRkTmptdnBjLV9teXhkN2hzdnRnM1ZmSWxsaldyS1F1N0txRXNxSUxXTmZIUDFBWEV4cDA?oc=5",
+          "valence": -0.896
+        },
+        {
+          "title": "Supervisor Bullock Advances Resolution to Ensure Safe Access to Recreation on Public Lands - Nevada County (.gov)",
+          "source": "Nevada County (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GZmRlZC1WVURDWkhUY0Y0c0pqWUFvbWpCcTV5S25EUVd3Z0hvT0prY2t6T0dLSS1OX0RTNEMxdVNBeVhVMWN5cXROVXQ5QkNNZGlGTEw2UHVrME1EOFJIWG5R?oc=5",
+          "valence": 0.875
+        },
+        {
+          "title": "Nevada tariff lawsuit, Yucca Mountain bill and Ward Fire - NPR Las Vegas",
+          "source": "NPR Las Vegas",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVWRvVmw0aDBsZkFjME41MkJsV2M3ejB4a2IyS1VRS2xaaDkyOTJpcU1NTncxZVVlSC1zVWp2Smo2UUk5YTlXb0phUXJaYS05Vk5Ld0ZnZm8zMWpYak1RTzlCcmJUU1NCamtVTWtDNm11N19hRG5OQTYwQVlla3I5T3E4T2tkRU9Nb0cwQTJUT20tS0VsQWVHVUxlZ2xqQQ?oc=5",
+          "valence": -0.765
+        }
+      ]
+    },
+    {
+      "code": "NH",
+      "name": "New Hampshire",
+      "lat": 43.7,
+      "lon": -71.6,
+      "score": 53.6,
+      "volume": 20,
+      "trend": [
+        54.1,
+        53.6
+      ],
+      "drivers": [
+        {
+          "title": "Win a year of free lab space at UNH BioLoft - University of New Hampshire",
+          "source": "University of New Hampshire",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zc0Z0Ykh0R3lQVlBNRVpqckFWaklWakM1UVFIRFRlRXhNZUxTUVl2NmVRREN1NlFXOFFmQXdxQ2RtVjVMYkhKOXg3R2gyR0NLeDV4dC1zNTBXWjBHNG5qSFBjTkVqbWpUY0haRlJFZTd6cWZzdERPdw?oc=5",
+          "valence": 0.935
+        },
+        {
+          "title": "Former New Hampshire state trooper pleads guilty to lying to police after tracking ex-girlfriend - WPTZ",
+          "source": "WPTZ",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPalV2MkRHZndlNktKa19ncGdUQkJaSmdhXzZfN0x5ZFpGXzR3SUdQR3VMSXcyeWxfdE1nYjBPaUxnc0ZTblU4NWxuVU1xeUtJSXN1dlRIdlp6MF8ybUhfRjJPUEt1SFZyeXNTVWdwRXVMYi1vVGV0RjZCaFo1dHJkQjlabUNCdw?oc=5",
+          "valence": -0.908
+        },
+        {
+          "title": "New Hampshire trooper forced to resign after GPS-tracking girlfriend, court rules - WGME",
+          "source": "WGME",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYnFrRFY1a2NKTEpaUjEwWXk1QWhMUnNGY0d5Sk5uNVBDYTRlQXJlak5QWkFVYVJXeVEtLVpNMmF1bDMzZTVCZk9MMzdfcDV0U2VIY0ZYbzZOcU43MTJyXzBjeF9HVVJidjlxNXVxei1ZSGxlZXB2YnNxM2plMVMyaEFnNXNDeWRRNFRNYXBKTFJpVEZ2X18tVDdrUk50SmhKWmh6WjRWNDh1bG1M?oc=5",
+          "valence": -0.869
+        },
+        {
+          "title": "New Law Improves Landfill Siting Process and Protects New Hampshire’s Environment - The Rochester Post (.gov)",
+          "source": "The Rochester Post (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkxvTnN0X2FkT2NPczd6bUs0RmRQZmpTSnQzYld3Uy1OUUkxZlFTTjdpcE4xNHVKbGIzMUVVT21OWk5TUXVjQkdRdmw3ODhjNFE2YUcxejAtZjVXZzNMcGZBRV9mV2ZybGdNelhBUlpmNTM0X2g0Y3RpQXFiN3J6bGFkU3NmS0ZqNlR5WXlRMTlEdTVSSklSSWlnZlhMU0FvWFNFVkhNN0x4X2VfMGJz?oc=5",
+          "valence": 0.848
+        }
+      ]
+    },
+    {
+      "code": "NJ",
+      "name": "New Jersey",
+      "lat": 40.1,
+      "lon": -74.7,
+      "score": 34.6,
+      "volume": 20,
+      "trend": [
+        36.6,
+        34.6
+      ],
+      "drivers": [
+        {
+          "title": "Mohamed Coulibaly dead: Alleged scammer targeting ex-NFL players found dead in pool at home in Harrison Township, New Jersey - ABC7 Los Angeles",
+          "source": "ABC7 Los Angeles",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFBYN3ZrbEFhR1NaWVZ1UlhaR2RYSHBzV2N6QkUzNTNzTWFTMERtUTIzczBwZmdrWkF0bkpzNG1Ba0YxdXVhT2RiV1lZNWh4M0JaOVlveE9RQXBsdWhBcC05cUVXaU5sRjA2ZEhpOVRKaEhNb3h3LXZrdXhNQmNYalk2S0ZXR0pVSXRfcjlBcTNiNUo1TTZhQS1BSFN5Sy1CaVo2dUxBV1Iyb3pvbHhySFYzaEJTWEJ3NDk3YUxCME55LUc1SEZmV2duX3VPNWZNOHlvLTBPRdIB3AFBVV95cUxQMmdiXzZyZ3NUNlpqNk40NFpOX1FYa29FN0c5czVCUE9Yand3SWt0NEZ5cWNuNlRJeElINURwN1JYem04a0s4QkNFOERKQzA2S05fQXBad0dPNVVPc2JSeU1rTlZ2Y0JVSUc2MFczdk00WmdsLVl1Y0hrTjZJcnpOTndwYVFOVjBlUEhNWEF0RFo1WXUxQTRtN0NTTko4anB2cGlYaG0xbGI0U1BBY3FuR2x1SjdVZWI5SkVfbmdoWEdpQTdmVHZac0x0NzVCaEJTbDNLS0tFZGs0RURU?oc=5",
+          "valence": -0.96
+        },
+        {
+          "title": "Terrifying video shows people stuck upside down on ride: 'Get me down!' - ABC7 New York",
+          "source": "ABC7 New York",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdkVSUjk4VGkwOGVRc3hjaDhVSmdEWXBwUFBYaHk5YXcwdFhkeE5zOWFQU25ITElVa1dkMzk0NHQyWXBVTnhYNFQwMmdHd2NQWURydDJsVFhxS0pjcm5DV1BsN0Z3NE5sRTJES2JuT21vbm9ZS2dyS01uQ3dCMWpFS1oxSnlWa3pjMU5aMzgwa2ZiNjFGbDBaX1RiZk1FOU8xdEZ6N0dMOXJvaXB6TGREcUlfcHREaENsNjA5eWJwTUR4YXFfOGtaS0o3Z0V3My1BbHVCdmZZUnRQZw?oc=5",
+          "valence": -0.9
+        },
+        {
+          "title": "New Jersey high school track coach accused of sexually assaulting student - NBC10 Philadelphia",
+          "source": "NBC10 Philadelphia",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNanpGLVRROUFMZ1VEMDM0ejdyN0JXWG9fQnZxbEowQ0xLYXlfby1XdDI2UGxXM08wb3hWc0MxeFlaZlhQdXRJRnB1UXBpMkNBSFZPSmJGVWNqd2FyVDVvSWc1dk1uOGVQXzBJSWZ6X1NRT1JCek9rM2FObHotS0VzTXZuZFhRTV8ya2N5T1UyX0Mtc0swN3BMd3ZxWHM3aEt2ZW91MVlpSkdLV29rQ1hwd1lxZUFobzN0bFluN3hibGpMSjhkZnFfRFZxSVl2Y3o1N1I5WkktZDFtRTFmWXfSAeYBQVVfeXFMUENfM1VpM01XWEhYRi1Hd0NVMHBJYi0wRWpwTWd5SmFYN0I1VUZrdVNPQXY2MThVSW50ZlA2MVg5QkpZSlc5RkNCVDVIek5IWkliZV9HWFcyQWxBdzBFYjZjd2VJXzlQMlc2cFcxOHdXR1UwMXFDdFp2Tk5RX3FUS3BRTWhRNXFSaVQ4NGpldE1wcnZOZ0xfcGdJTndnOXhLYjJXbzR4WW05NXZ5SHhNWFRZNmNCTlNNTEFXYnFMYVVfcnpPYWlleFNSS3QzLVpuNmlSWU1zX1FzamwtQ3pwYlJNbzJDSlE?oc=5",
+          "valence": -0.875
+        },
+        {
+          "title": "One injured after crash on New Jersey Turnpike in East Brunswick - Central New Jersey News",
+          "source": "Central New Jersey News",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUFdHcDhDbThnUVhEUGRLb3RVdHIwc0lTd19DU2lZM21Lc0IxWEt6c0J6X3h5Um9fNnJ1SjdFSGpTWC1iQ2RFaVJiWnZnX1NKY3d6SnRKWjhUYlRwNDRMQ1hUV1pCN3ZHTmhaal9pY3VCYTEwMHJ1LVN2UXlWUEFCNWJBNF8tOW1aVWhJMXd1dUtXZ25pZm40cG9GR29ybUlreExGUW9nS3ZJMHVaLTNVX255VUVWT2pQM2sxWENxM2ZIMjdfUU05X3hobw?oc=5",
+          "valence": -0.869
+        }
+      ]
+    },
+    {
+      "code": "NM",
+      "name": "New Mexico",
+      "lat": 34.5,
+      "lon": -106.1,
+      "score": 49.4,
+      "volume": 20,
+      "trend": [
+        55.3,
+        49.4
+      ],
+      "drivers": [
+        {
+          "title": "Isotopes Honored With \"Outstanding Corporation\" Award by Special Olympics New Mexico - MLB.com",
+          "source": "MLB.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVW96UHBXNFRpVE9PT2JpZ2N5YlZzOFNuTTFxZnFkS19JdHR6VE0taWloTC1qcFpMRzlndXRMcmNvc0NOUkZuZkdvV1FaSlZNYng5cTJHaE1GX05HQ0lORmZSNkdBci1NMVJXVTRmRG8xX1k3SGs0RGsxWFdEQXQzUGFvdTNHdVB5VDQ2SU1ZMTFPLVpudkVIc05xYkNsVVpWUFBBUUE2UWFFeGhaRkluWkZ0ejl5ZkdQbDhTYW1kZ1dFZw?oc=5",
+          "valence": 0.982
+        },
+        {
+          "title": "New Mexico congressional delegation members demand info on military GPS jamming before fatal crash - News From The States",
+          "source": "News From The States",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVk9xcTBOLU12TE50T2FzMEFoczMydGJBZjlRbDAyV0JDcE5HN1JtdVVwbjZEWGdHbmlaeS1yMkhaS3Y2NnVwTEhKeXUxeTZORUo4MnBHbVF5R2lWbF9GZDRjWGVRWVZhSVRDRjhCRmZmUG5YOWpiZDZBY3l0a3poWFBUWWZobTRMLTNyLWs5bnY5R1pFNDM5SzdjZ21rU2hFS3MxRUFYdnRILWFSblhtOEEzMUsyTXJGbzJ2SnRhalgxVDJRTzNhNFR3?oc=5",
+          "valence": -0.925
+        },
+        {
+          "title": "New Mexico congressional delegation members demand info on military GPS jamming before fatal crash - Source New Mexico",
+          "source": "Source New Mexico",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcFBTZWpnQ1ZMRXpDQTVFbnF5Ri1UMUNCN2duTzRLd0JUWXMtMEROT0E3dzE3YU1RM05OTnE1enBMVzZPY3k4ck9Qb2FXcVBpcEJEUURIM3lWazhDSGRKTHhRbXNhRDBSbnhMa0RjcjR2bHRFb1djNVYtemtjTjZ4UVBFX2JXWl80alhCZDlYOHNRUElZQTY1NGhpN0psZEp2T3Q0QmRzRjFYcnNMLWtJTVZUeDVCT0wwSkZDcGs4UUZ4OWk5WElYdElsYw?oc=5",
+          "valence": -0.925
+        },
+        {
+          "title": "New Mexico Supreme Court approves skills-based path for law school graduates to become lawyers - KOAT",
+          "source": "KOAT",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRWxSTDZ0QWdja0hrRXVWQ1c5N1gxU3RpR3hFZ0EwOVJsVDZ2Q2c4enh6d2pHVDdDVlZsNkM2RlNRZlRCYVRGYy0xN0p6V3V0TVFfS2NieEotQWFyTE9sSUZ0Wnp2Y0ZhVW5McnpoOEFUQXpkMHJSZFRPWWpUcVFLX1JOYUtJNklRLXpCVFZUV2pIa0k?oc=5",
+          "valence": 0.912
+        }
+      ]
+    },
+    {
+      "code": "NY",
+      "name": "New York",
+      "lat": 42.9,
+      "lon": -75.5,
+      "score": 57.2,
+      "volume": 20,
+      "trend": [
+        63.7,
+        57.2
+      ],
+      "drivers": [
+        {
+          "title": "New York Liberty Release Betnijah Laney-Hamilton - New York Liberty (WNBA)",
+          "source": "New York Liberty (WNBA)",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa3dyUWFfYzBUZ01nMEQ4X2tZZzJsU1FWMlRVQUNKM1AzU1pUSEFXSGo1NUF5U1MxR1ViTkFSM01yMGZDaUwwZEl1cDFjR3p6T3dQSm5mYTZaQzkzLVU1TFJiTW9jbVVkUlZ0LXJENUgxbkhaaGlyeGF1ZDYtSHV1WWsySGk?oc=5",
+          "valence": 0.927
+        },
+        {
+          "title": "Sydney Towle, Who Chronicled Her Cancer on TikTok, Dies at 26 - The New York Times",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnM05QV2ZLVWROTWs3Z3VuMC15WXNCWXE2cnMzeVVna2tYU2NFekQwbjlEYzdMeUFlY0JObXFQWEZCLUcyUjJaVzdXaFZWWU5DUkJsNDc4V0gxbjdmSEZJYVZ6cC1HelNDMFRNd2dMank?oc=5",
+          "valence": -0.869
+        },
+        {
+          "title": "The 50 Best Thrillers of the 21st Century - The New York Times",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeG9xZlZaWFZrakJWZ2ZtcmlzcFNaZmEwbUxQNWt3c2t1c1E2dTBzTEtHaV9nWW93akNReTNOZnhYR2lNRFh1Z09CaVR1dDlDdkZJN3RnejZUZDVrS3Jud3czLTZFWFloM0ZHWUlBVGZZeVJCMGZXMDR3Y3lpXzhmRS1DQjY4WEJyX0djVA?oc=5",
+          "valence": 0.863
+        },
+        {
+          "title": "Woman struck in head by bat at Yankees game suing for $10M: Complaint - ABC News - Breaking News, Latest News and Videos",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSkZVRDFLbGpvSTUtUFB5Y2FOY0VKVEg2LVNWQnV1UE5XbWlDYy1JRGdNX1JPb0FUejRIVTVId2pjY0FkV1l6NURYRXppbkhnNjJvQUpocjVCM3ZLMlRzWW9LN3hUSEdPd2Z2Q21LSnNKa1JoTHZjU3lXRGU3LWhDVl9WQkVHRFJuNDAzZS1Kb9IBlAFBVV95cUxNZ1VNZV9IdUVDa1ZjNXV5M3NsTV9EVmtKR1FicThaczlyLWlZZE5QUHN4d25SeWZkOE0xYTEtUGZ3R3BKNVYzUEswLUloc3AyQXNTVnhsUFY4QnhqOFNyZGd0eFp1UDRPdTNZNFljdjQyM2RtMEVWdTNUY2JfR3RJR0I4a0ZvbkVCdkJxYnp1MHVJcS1f?oc=5",
+          "valence": -0.863
+        }
+      ]
+    },
+    {
+      "code": "NC",
+      "name": "North Carolina",
+      "lat": 35.6,
+      "lon": -79.4,
+      "score": 43.6,
+      "volume": 20,
+      "trend": [
+        44.4,
+        43.6
+      ],
+      "drivers": [
+        {
+          "title": "Miss North Carolina USA 2026 stripped of title as organization condemns 'racism, homophobia' - ABC7 New York",
+          "source": "ABC7 New York",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORUplSGs1SGtDZVRadjc5eTg0Rm9zaFpoR1FYVzNxekVXaUl2aWdJRXY1UEhGVzNoUWd0OXk5b3NVZDJ3aVJmdXZ0bzVVRkNjQnRZUndNUU1MUGVFc243dW8ydmxIVlo2LWV1YzFCb1pmeW9URGswSXlOY2lkTkEwMTljeDQyYV84djQ3ZzNIR3lSbVFtUEpHLWtFdC11MDgxdzNDajBDY3c1Ujh2cG9QYVJLNFVsXzhBTUE?oc=5",
+          "valence": -0.952
+        },
+        {
+          "title": "Miss North Carolina USA stripped of title after alleged racist posts resurface - The Guardian",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQk9WeVc3R1AxM0xuNlJpclhSR1d5OXItZGh0UEZzTTJLaHV3RXBfV21CYW5GbE53U1hrRGMtN2prMG05U081d3IydjQzVFJEbVlOUEd3VnMxTDZ1V1JyMmZiNElHTlBYVEQ4cUxFQlVvY3Y0dU03UHQtaVJ5WEpWUGxXdGE5elZWeFdTUE5IRkE0UlFfSnBJ?oc=5",
+          "valence": -0.881
+        },
+        {
+          "title": "Miss North Carolina USA switch up after 2026 winner stripped of title - The Asheville Citizen Times",
+          "source": "The Asheville Citizen Times",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM0lUb2N5UEd4M3BmaHBvVGsxQWFZTTNnN3BlZUV2LWZwRWY3bHVYU0ExSS1aZFNmUDZjbC1SVzFQd2pQU1BaRURDbTZ5R0hBd1FXUFF1Ty1Hb2Z4WFAyS21YZVVGZGItVFVicV91cFg5RFhBY1pzc1BORmkxRVF0VlFoN3FrYk1DQk51dWVacmRnRHlNUElFdHlJSlRDZDJPVkZPdlltVVFZVjdKaWxfNFdvQmh5cHM5V2JyRDMwQ2pRU2IyMGVVYloxZFRHQjBkOUNpalJkb08?oc=5",
+          "valence": 0.751
+        },
+        {
+          "title": "Dethroned: Miss North Carolina USA loses crown over past 'conduct' - Spectrum News",
+          "source": "Spectrum News",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84d0MtS0JEUHg1ckd4T3ZYby1RX1VOUW52NmFpMTZJRHIyVVNIRXMtUV83RWpkU19JSGUzS2taUVNIYUtJNEdtbDY0RTkyNEtyei1QQmpMQjRJTnBSenFYNUNEbjRFME10al8wOGhKN292MlNqeEZXQUt1TDV2NW8?oc=5",
+          "valence": -0.7
+        }
+      ]
+    },
+    {
+      "code": "ND",
+      "name": "North Dakota",
+      "lat": 47.5,
+      "lon": -100.5,
+      "score": 58.3,
+      "volume": 20,
+      "trend": [
+        55.8,
+        58.3
+      ],
+      "drivers": [
+        {
+          "title": "Xcel Energy Foundation celebrates 25 years of community investment in North Dakota - The Mighty 790 KFGO",
+          "source": "The Mighty 790 KFGO",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zSXN5WGY0Ql9fckJQdDNyaDdQWnVNMFFqWWRjeVJyMVExNWxHZ2hoTFVILS1qamx5V05QY05hT3Z1am1aWU5ybnlnUk0?oc=5",
+          "valence": 0.891
+        },
+        {
+          "title": "Great Plains Food Bank sees record numbers seeking food assistance - North Dakota Monitor",
+          "source": "North Dakota Monitor",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTUlJdmlpZTNuMVFZVnBMenFNYkI1cXpnVVB4V2szWHZ6WmdGR2lxeUZNM2l0UHB1cXk4b0dfVzdVdzNEOEtMYXFWVEU1aHNWeFBCYU04d1V4UmVmR3JfR0p5ZjlmSzZwX2xNcUI0TjNmeHRsTEt2ckk5WVB6ME5QYXNQZzFVM1lPM0t6ZmwxN3BvV2c1andvbDhBRGJJNXhZMFVaV3RtSG9LanlkbEE?oc=5",
+          "valence": 0.848
+        },
+        {
+          "title": "Goehring awards $120,000 in orchard grants to four North Dakota organizations - Valley News Live",
+          "source": "Valley News Live",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNemlQamtWUzBrVzFXWWUtMWQ5UHlvSjFaeU44TS03UlhGTmtnUHBKRF9IdEFQTkEzSG1fd2tGaG1KNENISHV0VDFmaTlvX1NtRjdkOW5wODVkUjA4TVJ4U3B1QWNiYVptblA3LVFMZ1VoMDZPektYQnlidlI0a3hvc1p4WHZMQm9ZVHhCc3BsN2pLX1Nlc3FhM09KMy1lbV9uNXNaTUN1SllrcHNxRDJXa0tn0gHGAUFVX3lxTE5HUF9FbDNweEZhZU83UE1CMDlZZjItQ2NMVHBEendZUl9lWThZZ0R0WTF5aE00WDdmOUJ4aTNJbXhGTm9UYUZlaGVQd0FGekdUSTJTQ1l2a0JqWVBES2JZa0RnX1FFMUxRVC11NHpCN2FIMU1JUFlXZG9fajVxdmtiVENIX1N3S0hKaGVWYlUycHpLakhCMUFEelhTb1hxa04yUVZxSWZzRDhOR29EejlwZVFmWXM3MkttVU9GNkVTVmh2aUtTQQ?oc=5",
+          "valence": 0.832
+        },
+        {
+          "title": "Port: North Dakota's Democratic candidates aren't engaging on data centers in good faith - InForum",
+          "source": "InForum",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcUg5RlVNa3ZLSVFPLUtGZG96WXd3SnlaSkZ5LWJaeTFsRXJQQ2FlNHNTTXR3NVJPeE5YQUd2YkxfeEJYd2hCR2FQM1dxNGNwZktCVl9QUEI5UWpaakxYZVk3SEExMTExQlFLeVNfOUo0NjhsVlRJa1VVOTE2Wi1faXBVVkxqUy11MFFET3pYVTIxVXlzMnk2ME81MUdKZk5vUXhjdjE1ZWliNko3ZkpYY3hsSVdpY3EycDdiM0pnV3AyMnc?oc=5",
+          "valence": 0.809
+        }
+      ]
+    },
+    {
+      "code": "OH",
+      "name": "Ohio",
+      "lat": 40.3,
+      "lon": -82.8,
+      "score": 49.9,
+      "volume": 20,
+      "trend": [
+        42.4,
+        49.9
+      ],
+      "drivers": [
+        {
+          "title": "‘He should resign’: unease in Republican Max Miller’s Ohio district amid domestic abuse allegations - The Guardian",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMDl4Vngxamd4NXpheDNtUHZYT3NCUHV1YnV0VExkYzQyb1ZkWUc4X0tKb3Q3RnVCcmJid2JpWVBHbVlmUzFkVEJuaXJXWEtGbUpwenRQMmdTSG5HTmljSl9uNG51X1hfYlJZTTRlS0d1MFdXM3VES0hqMllnbWJSeko4TjkxamlNTkl3UmROTnkzMC1Kc3Nv?oc=5",
+          "valence": -0.93
+        },
+        {
+          "title": "Former Ohio State football player spared prison time after pleading guilty to 9 bank robberies - 10TV",
+          "source": "10TV",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRDBwLXlmQ0k5aUtaQ3lUUWt0R0dIVjA2dkxMNUIyRkxuYlhzcHlkbldfSXJsY2NsZXpabldtdHFXTndOTnctSU9ialR4NXFQQ3lNNWxwUElYdlV5U0thbFNNalotMjVISC1WM2xmLVJCczBnSlpkQy00YlZOQWlQcnJyMVMtSnYxOGpFazA2Y0wwWm9MNEVtU2pDTlJmQXM3ODVYY2RZMFFJcmluWGo4VmY5dFd3UU50WTJKUTB0bmFpc1k3cm42N3o2ZDc2MlJndFRxUE1KckVLYWd3Vk9xMGpUUHVjY3JXQU9QLThSZmtfb1RULTVjMlB0eko5WmQzY3c?oc=5",
+          "valence": -0.904
+        },
+        {
+          "title": "A summer of small joys - Ohio's Country Journal",
+          "source": "Ohio's Country Journal",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oWC04bTJaWVVlZGpwNkV5cG1acGZ1Sml2dlFpaENtOTVybFFXMjJhbGExLW5JTElVeUMyTGp0N1h3UkxOYUQ4d096TVZvSDk4Q0pwVEdhUU5Yelk?oc=5",
+          "valence": 0.751
+        },
+        {
+          "title": "Watch: Genter siblings top Ohio State Fair Market Chicken show – Ohio Ag Net - Ohio's Country Journal",
+          "source": "Ohio's Country Journal",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS1BDQnpBZ2x1YzV2QVpVeWxVTGxRMzc1dlR3S09yWjVDeGlzcUd4U0hzblRKdzlHZGtTdFl6amtBZnZUTXlQa05HYTM5RlJiYW1LY18wSVpDcTBOLXNiY0JWS2NiTmFsc3BCZGI5STR5RmQwN3p0dXlNLWVMS2g1NGlSeDhTVVYwUEtIQ3JjNA?oc=5",
+          "valence": 0.735
+        }
+      ]
+    },
+    {
+      "code": "OK",
+      "name": "Oklahoma",
+      "lat": 35.6,
+      "lon": -97.5,
+      "score": 50.3,
+      "volume": 20,
+      "trend": [
+        50.6,
+        50.3
+      ],
+      "drivers": [
+        {
+          "title": "Oklahoma teen accused of raping two girls walks free, DA furiously calls in feds: ‘Made my blood boil’ - Fox News",
+          "source": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWUhjZjdZMHlqRU5RZFFJbXFha0ZwTllBaGcyVTgtWUVRUEhqb1VROGFrQno1WlBoTl9PU1R2NFdYLWZhUWdBaW1abmk2elJTOHdBaG9CYkJwWkZ3bnlzenZ3VmtCLXlWaFhobVpvOEM4dFpLaFVtaEpBdWlJTnlIQzhMZ1dNZm9WblV4UjhXc2FMc1V1cWh2M1YycWRRYUVzWkw1T0RGMjE4cmVpcmIxMlc1OG1HeGPSAbwBQVVfeXFMTXZRZjVBRHVxajZFRWRhUFFJdGVFNTExRjRkR05uRjl6YXE0WDZPZVA1Uk9kOVE1ZDZEbGNENndHVTA1VnNkVTZGeDJHdEJYeC1PcE5BXzVLTjBRckMwWGhSUXBkdk5mOE9Ha0tlblh2QmQzZzZIYzRjcUdxMWFFY3NaWjJpWnpjeFNlSXNJMVluNUVHVkRoS1N6OWRmeEs5cEZOUGx6MTV0aVM3c1lxdTQ5VE4zZ1d1VFVtR2o?oc=5",
+          "valence": -0.922
+        },
+        {
+          "title": "Federal court hears arguments on Oklahoma’s ban for religious charter schools - EWTN News",
+          "source": "EWTN News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaHRySG9HX2NHWFNlNWM3eUIyM19FeXF1YUxHaXAzcW5QQmNnbHBWU0pvLUphRGp3SDFsV2cwdUJlZUItclZqSzFGdUtlSlZkZ1o1NFVENl9vbjVpLXBoUjJheWtiWHJ4MGQ4NzA3ZDRKQ2x3OU83eUVlYVZYa0pIZi0xSmNwSWZfSUpiZ241cw?oc=5",
+          "valence": -0.912
+        },
+        {
+          "title": "Oklahoma Sooners front seven the best in college football - Sooners Wire",
+          "source": "Sooners Wire",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMFFyam9wTVZZejZJQ3pYSERhQmpfbzVETjV6WHFDbnI5MTZtMUhuUmhGekJPY0FyUk9nSkttN0pkN0NxRnVNbWRPSnFac1kzY2N5NENUeXVsRHBvVU1IX0stMmRFN1ltMGdpaHV3OFNtbGgxclR2ei00QnVqUEtPc29UNV84a0g5WC1CRTcwVzJZT09lUGFvUk9pVVZSalo3a3BEbUtZNHNBdm5IVjVBaTdEaDl2UUVpWm8xekRPajN4V3dXTHBCMEVLTUVueE9aeDR5c2lhVnQxT3FjVGc0Vml5QmFFdw?oc=5",
+          "valence": 0.856
+        },
+        {
+          "title": "In The Know: Oklahoma voters to decide on State Question 844 and its impact on local funding | Tax-free weekend starts Friday | Tax cuts are a workforce problem - Oklahoma Policy Institute",
+          "source": "Oklahoma Policy Institute",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IcU1Uajc5aWxNT0QtMmdRNThYckd6d1B1bWc4bTZSbF9hT1htMXYyaFU4di1lZmRMWkpIZUkyYjRIOVRrZUZGbkJXZTRrVWV6enNuX0FUWQ?oc=5",
+          "valence": -0.832
+        }
+      ]
+    },
+    {
+      "code": "OR",
+      "name": "Oregon",
+      "lat": 44.0,
+      "lon": -120.6,
+      "score": 46.6,
+      "volume": 20,
+      "trend": [
+        43.1,
+        46.6
+      ],
+      "drivers": [
+        {
+          "title": "Oregon officials warn of fundraising, recovery scams amid ongoing wildfire season - Oregon Capital Chronicle",
+          "source": "Oregon Capital Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ1VBTkhqamNyWXhscFZfY1RoclFFNmlOaU5TcWRtajVScjFvZlg3UlNNazIzY3d4QUU2eWl0OFlYSWV3ZEpVdmY4clpyM3ZIQTNiY3h1NDM3ZVg3WDFfeHhzb3dEc29UZUZNV0RnUWRreVhCSWtiMkNpLWlPTzFSY1FtTFZMb2U3bGhmbXhES1ZIbFNhcVdnWXRkc2NmeTlfMFpldlJhWHZPdzJiQXFWUUZ2aTdSelhFZTVZajIzdDM?oc=5",
+          "valence": -0.856
+        },
+        {
+          "title": "Wildfire Fact Sheet / Mud Springs Fire (#683) - Central Oregon Fire Information",
+          "source": "Central Oregon Fire Information",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oSVRaR0lWMkk3dVFOcXhiUndtLXhNYlJtcWRjZkNJSWpUSTFRYkQtdGthakRXTzFxNUM3NFhoc20xZXZ2WUl4cU8yV1JmYmlWRWIwQmlZRGdqR1pYQU1rVWJJaEhHX3VMV2RJTFh1bmNvZWRSb0pENzROenJpLXc?oc=5",
+          "valence": -0.823
+        },
+        {
+          "title": "Oregon State, Arizona Announce WBB Home & Home Agreement - Oregon State University Athletics",
+          "source": "Oregon State University Athletics",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkMweS1NNnZwWThIc19XYW5qV3cxQjlMQzJBSG44WXNXdkxnRXdGZExieWZUdkxRbE1faDVUWHdINzhTWVNXVTRZUjlUZ1BvUFUxRnV3REZiRWpBdkxOLUpqOXNvdTFfX011dzQwakNKazVRSGxqbVNLaGY4dFdQN2hVOTFvZjJxdzNGeG5YQVpyM0FFbHpoU1p3dXdlcllaREZUX3dtbU5oSnhY?oc=5",
+          "valence": 0.751
+        },
+        {
+          "title": "Could Oregon end up building more prisons to address earthquake safety concerns? - Oregon Public Broadcasting - OPB",
+          "source": "Oregon Public Broadcasting - OPB",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOUG5NYU5vRU1LM3VFSmo3Ml9ocUs4NTk3Zmk2Q1NBUlZubjJLWXZqaXE1QVA2T1p3Um9oT3hJTW80NmRRTS1PMUhtdlFCMklVZnB6bm1wVG9NN1B2WUVYWUNBNHA2bEZwZGFBS1l2aEFzRXhUTnVneEpLaGs?oc=5",
+          "valence": 0.715
+        }
+      ]
+    },
+    {
+      "code": "PA",
+      "name": "Pennsylvania",
+      "lat": 40.9,
+      "lon": -77.8,
+      "score": 49.6,
+      "volume": 20,
+      "trend": [
+        48.2,
+        49.6
+      ],
+      "drivers": [
+        {
+          "title": "Who’s serving felony murder sentences in Pennsylvania prisons? - Pennsylvania Capital-Star",
+          "source": "Pennsylvania Capital-Star",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQanlKNTRRNFYwRGdUYWdNTW02Ym82N1BNMVBQM1Y3SlQ3LXFjVXJxb0JMOFlOR2NPVG1iOGE4OFVyeXNYT2FMRmNWM0tUUnZoeGsxNmhIaTBvN1dqa244aDNHVTNjMWtkNFFIVllaeTZKcXgzaVlOZG9vaFdOLW1POHE4a3RpT09rT2N4NGNZWVpGUjRWeU9uTloxOU5SN0NvRFpWRlZSUGtVM0E?oc=5",
+          "valence": -0.954
+        },
+        {
+          "title": "Woman found guilty of murdering stepchild in Pennsylvania - WBOY.com",
+          "source": "WBOY.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTVQ3ZWFsNko2U2VkUnZWZDZOZTlCY04tOTRXMjNEd01UelhjbDE5bjlUakhNZFNsZ25kdUZLdmdMb19NSTl4ZVlHVVNsOFF4bnJ0NTQ1aTA5alJSOXFzUmNBM3gtRklqQnVid0huS3ZKNjR3LXJxNlZjNzlmenlyemNnYkVKbXkxNFNWem9VbEdiaDFO0gGaAUFVX3lxTE1vUlZlbXY5Yms4ekU1eDZEOFlwR0cxZ1lKOERwcVNMVkJtSGVKWFNSSzhEWXJqRktDRDNMWU9vMFVsaG1xU2lwb19aQzlqSU5JUHVrdWdHYm05dDY0U3hpVVp6cGJYamIyRG1UQWpJMTZna0lzZHFqUWRnTk1DMVZFdnNlM0hVajdHVDcwZGx2T1pMODQwZEszRWc?oc=5",
+          "valence": -0.935
+        },
+        {
+          "title": "As industry faces rising costs, there’s hope new Pa. Farm Bureau leadership brings positive change - Pennsylvania Capital-Star",
+          "source": "Pennsylvania Capital-Star",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdzh0VFc0LWlGZUdCSmppejZ5RDBUSnNfRl80T3hhNGZjMjhYNW5IZEhjUUlWSFJBNTZaRnlaaVFTQS1tcGN5S1RZYlRMeEJ4cUpqY2pvMVlTVjQ3UXdKbElaa1hyRlIzZElXWjdFVGUxYU1TcUlsbHpVVUpJeDlHTF9VTjBhbW1XRks1d2ZlNU56ZFRnWi05RmIyU3YtbFJUbFEzVjZiMjhYTTJBRkNKR2pZZXE2TE1ZS2NVdDFGcXBBNXRWQXYxVUFZa2NkUDNxZ2J6WHdETkJHSzhtZ2VZ?oc=5",
+          "valence": 0.919
+        },
+        {
+          "title": "Pennsylvania Guard Strengthens Intelligence Capabilities - nationalguard.mil",
+          "source": "nationalguard.mil",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNFoyNlNFaDhxcWR4TEtCYWY1MGZSeFVGa2w3c2dva1Ixejk4UHlicWFIS0NaS2Z5SzRhM0J4Z0szUG1faWRlVlhlMU9iakwtd0FxcEF5aEV5UUNuWWc2eVAxLTd3NEFoVm1XYjJEQlpPYWkwX2NmU1BPcTE3ZWViMHJZNFdlSXExZFA2UnE0YlZFT3pnMnNUd3BpQk1ycjl4YnZzZkJEOEkxUFRMYkR6RVFLUVcxNzB0elpQYk5n?oc=5",
+          "valence": 0.904
+        }
+      ]
+    },
+    {
+      "code": "RI",
+      "name": "Rhode Island",
+      "lat": 41.7,
+      "lon": -71.5,
+      "score": 56.9,
+      "volume": 20,
+      "trend": [
+        58.6,
+        56.9
+      ],
+      "drivers": [
+        {
+          "title": "Centreville Bank Stadium aims to start holiday tradition with Rhode Island Lights Festival - coastalabc.com",
+          "source": "coastalabc.com",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPa0JLNWkycE5STk1FWjhpekxoYU5WMllDOWptY0VWSW9zRFBSZTNpOVRSeGZhcFMwX29OMm1nYTRZRnR6bGIwS0dYcjgwM2F4TEhXYXZjWjg3a0hIblNCYkQzd1B3bl9FdG4tNmNNVnRBZXlUaTBWUU9HVW82dml5N0ZIUjZBZnhFN2FDZ2Z4bUd4VWdOVEF0d3VVblFsT213RjR6ZGtyRW5rWHk2SVo5bjc2c1h5aTB1aTFYV01laG5vOGoydGRidGJ1bEkxNm43V3RmV2pQUEZBbDBPY0JxVlprOG5Kc3owV2tXYlV4SEdiUQ?oc=5",
+          "valence": 0.896
+        },
+        {
+          "title": "Centreville Bank Stadium aims to start holiday tradition with Rhode Island Lights Festival - WJAR",
+          "source": "WJAR",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU0dLeXZjRXluaFhET0J5WC1HWTlVdHNFUkprYmM3ZVNUeWgtaEs5aGhuTlBkQXZlRlcwZi15ZEthSW1XdlczM0lqYlVxUG9temRId0QxRTNocWFXQy1rSkZDZWZKV0x4SVlybXFYbkdzSnVMU1Bwem5LQnFVMlc2a1hsSzBqUnR2QUl4TWc3TGlqWWV6WUJxSm1ibi11MkpuVFRlV1ExdWNkX3A0OV9IdndSa3FybGNGYzhqd195YmItMTFWWTQwYTV5V2VvNllkNmc0VWx4V0M4Zw?oc=5",
+          "valence": 0.896
+        },
+        {
+          "title": "Centreville Bank Stadium to Host First-Ever Rhode Island Lights Festival - Rhode Island FC",
+          "source": "Rhode Island FC",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVldDcEZxbkRqZEtIU2NraEYyemFEUjZIM3o0SWIwdVBkUEl2ODBPZEVjRTZSVEFFdFhiQlR4OUphb0x6VjRXOWl5TnZFaXVOSkh4M1NERjV4Z3JLWDVEa1NwN3NDNjByNDNTLVlOU18wck93SFRPY3pMc2tHRmViRHc3RTF4NGFtdkN1LWgxOXVWaldSX3NLbjd2djhwYUVIVkEwQVlJekV1bkkz?oc=5",
+          "valence": 0.751
+        },
+        {
+          "title": "How to bring candidates of different parties together? Take them to a pre-K classroom. - Rhode Island Current",
+          "source": "Rhode Island Current",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa3Q2Z0liZUJoMzNycHBLdVJRRUR3S2c1eHlYekR5anNZZWpoX2ZNbnFfSURnNTdHVXBVNFZkdng5bk5OXzdzWFcydlNXWXpaQ3B2V1ROcko2SThDMDhmY0dFNzVaaHQwM2lmNUlVNFdmY2E4Nlp5dHZmRWNzaWJCeWJKQ01rY1JQMmZFQ0J3SXdJS1RqbEQ0ZUJqcVpXUmg1VHhlLVgyM081b1l5TmJlcUxFWEtTUkNYOTBsQnpzUXFtem9TUFE?oc=5",
+          "valence": 0.697
+        }
+      ]
+    },
+    {
+      "code": "SC",
+      "name": "South Carolina",
+      "lat": 33.9,
+      "lon": -80.9,
+      "score": 54.6,
+      "volume": 20,
+      "trend": [
+        50.7,
+        54.6
+      ],
+      "drivers": [
+        {
+          "title": "South Carolina ranked as one of the worst states to have a baby this year: study - WCBD News 2",
+          "source": "WCBD News 2",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFZKRHFpMU9mMC1Vd1lWVFVqdmZVT2Z3bDlUazBWdEU0TEdWeUpKLU43NEw1a2RoX1JWaVNIWlktdllHNnlEa204VFgycXpYZExlRllYR1FnWndrc0lTNHZhcnFyZXNGTG9WZ1NqbnNRT2cweWktSDV1b0xudVRNSlVhVTV1bDBUandJYi13bmRVeVJDdGdWb3Y5RWRiTkVjZHE4LUlwdGo1Qnk2WEg4?oc=5",
+          "valence": -0.848
+        },
+        {
+          "title": "South Carolina grant helps local farms provide school meals - WSPA 7News",
+          "source": "WSPA 7News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTUVwMUFpdDYzN19UZ2dHRUlnaVdhbExzWnZPa0xrRGZKeTBidnozaXNaMUFvZzM1Q2w1Ry1mWUdBZ0RsX3BuRWpZX0xRNmI0aGwxQlRUaUZlREJDQXJqdUd0V3A4djdxX0laNmFHX1F0eW1iNGFxVDZiS2lsMEptaGRjeGxBNnk4bmpqZVFwUWI0YS1LY3ZkUlF1dzk?oc=5",
+          "valence": 0.848
+        },
+        {
+          "title": "Most interesting things we heard from South Carolina, Shane Beamer before practice starts - Greenville Online",
+          "source": "Greenville Online",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOTNNcDU1cVQ0QnJvYl90YlFIY2NvSkpvYkgyQlBNSDdBQmJ5cEZwbUlTaElKXzlNODNHanJITVNrU2RUUENmcUVZTkU1czFEcDFGXzJZV0VLeXB0YjdXRjMxQ05ISzBDTGcxb2ZFc0FBTlh0OU5aU016WmNBUUdnVUk3ZmtScGhNY1dHVnEwb1dyZXgzLW41akNIWC15bjEzci1MTEtWbmpybzNscHFqMG5rTVk0OTdkUjV1ejNYQ3JOV3YwNEgyTlNRWTdnSk9p?oc=5",
+          "valence": 0.717
+        },
+        {
+          "title": "Food safety concerns bring new attention to local farmers markets during National Farmers Market Week - Spectrum News",
+          "source": "Spectrum News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX1V3MjVCaWExblR1QVVnaXFrdFZQejBNaExPcTJnd0pJbFVNXzJ3aEpfNTNtMno2UG83U1JLMm45VVhWNnM0cUtTb29sMFQ5TUVqQ0Q5b3ZHWF8wMHNNbDZxQXBNZkZkbmJnSGZGNVpHZDFJWXh6U2wzSlpIWmRDX08zT0I3czV4ajctX2pTdThLUThUZWFlR0JRVQ?oc=5",
+          "valence": 0.681
+        }
+      ]
+    },
+    {
+      "code": "SD",
+      "name": "South Dakota",
+      "lat": 44.4,
+      "lon": -100.2,
+      "score": 55.3,
+      "volume": 20,
+      "trend": [
+        56.9,
+        55.3
+      ],
+      "drivers": [
+        {
+          "title": "South Dakota airman killed in Vietnam War officially accounted for - sdpb.org",
+          "source": "sdpb.org",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd2tvcGdhSWllcFAxdlYydG9yWnFQcER3cFE0ZFlBSGUzZV9zYUJTbEx3QXJGd29zSlUzVHdEY3hPdGlDTUN4WEQzVWpQbzVHQjNZWDdwdWdScU5LZDNRWTdHNjVWT1NtRjRoLWp6VnFEb01oekxsZERjbmtsTk00RHFPeC1wbk5iWDR2TFZwVHlDaTdJa1c4cUN6cUJvdDQ?oc=5",
+          "valence": -0.957
+        },
+        {
+          "title": "South Dakota Arts Council awards more than $2M in grants - sdpb.org",
+          "source": "sdpb.org",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPenBzd1h2dnZ3T2ZYb3d5SFZuWUdOQURXc2ltXzhjTHhkY0M0c0pUUUhUX1ZNa3Uzb0JDeUJvRFJnZzgxLXZFMW85X1lxYmp3aFFwbnc3cFlZeFpmZXA4bEVON2REZjRhVXBPVmhxSjFZdjdSWkdCTWxHQ19KSmVGYUNObHpGM3RROUs5NTRrVVc2aGJjX0kwS2JuSXE2Zw?oc=5",
+          "valence": 0.832
+        },
+        {
+          "title": "Conservation at the forefront: 2026 South Dakota Leopold Award goes to Dan and Sharon Anderson family - tsln.com",
+          "source": "tsln.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWHNoNUFDZ3VXVjE4cnZKb1JFT25vSFUxQkR3ZmdKaUJYMUU1UDl2d19zWkxsNGN1ckR1MXhMZ3RxWUlfWmo3aUJ5bGxlZ0tXQ3VPLWZ1VDFGQkllZzJWTTVHVU9xLTZkMHpNN2tUaUJ0OXItM2dpSkgwZllidEQ3Wmp2QjRNQmFlMU5GOXk5ajZZcDZDLW92M1NEbDBSVUZhS2FkeVVYOHVlYm94UDRoRmRIMWp5Ul9RbGwzZm9FSzBidTFKWlE?oc=5",
+          "valence": 0.791
+        },
+        {
+          "title": "One of two suspects pleads not guilty to charges connected to 14-year-old South Dakota girl’s death - KTIV",
+          "source": "KTIV",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORzZLaXFkT2xIRHJQUHBDbkgwS1AzejlkNXdHTElBa01sMEFWaXJWZ0VPVHczSS1PcmVWRjA2T1pNS3doSGkwWFBnOUJBZUFxSlFyaXZwQWozVVVFXzl2ZVlUcDg0eTNSNWp5QWRsM1hZOXA2aDhmRGNNamRuWkx5UDdkQ1VrOFBIWWJIRUFobXdJZHd2N09sMWV0Vjl0d2xkOWRwY1EyN0NTY1JxQS1mSWtOQ2otNm9DazNULVAybw?oc=5",
+          "valence": -0.744
+        }
+      ]
+    },
+    {
+      "code": "TN",
+      "name": "Tennessee",
+      "lat": 35.9,
+      "lon": -86.4,
+      "score": 56.5,
+      "volume": 20,
+      "trend": [
+        50.2,
+        56.5
+      ],
+      "drivers": [
+        {
+          "title": "Titans DE Jacob Martin Ready to Help Set the Tone in Tennessee - Tennessee Titans",
+          "source": "Tennessee Titans",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONjJ1VlJjMUY2N3EyUEd6YTFRYlRFRGNsYWZMRHJVMkR3eHdjbTdtOWVyOEpYQjNUclJPSGdaeFZPaVJuVFNMMTJzMkgyWUdFQzJ5bVJtNFJ3RWYwQmpyNGdTMHJRRHk5U296Ync4V04tLVNIaWw1ODJzRTJoZDlBdzZtanRBei1Za2xMbGVudks4RzBMV3NxRTNWOE1oWmFM?oc=5",
+          "valence": 0.856
+        },
+        {
+          "title": "Who won? Here are the results of Tennessee's August primary - WTVC",
+          "source": "WTVC",
+          "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxOb2FUY0dCSkRJN2xnWVdoQ3hybzJsLVhaTlJCVUZzR2MwY09FRlhodHBpR2c3aFMtTzhPMVV5VG5uNWtqaC1JcnJyTHlWd1YwSy1IQkJyczBqU3lMYUp0VXdFeWppdjBfZE1WLTZOWHNfX0VMNGYteUNpaG1Vd190em5aRThzbnhTV1d2alN1YlpYOTFVQTN5YTFpM05hMnF6MmlrUl82d2pOOU52N090Q0d5elFGcjFpZ1c2NWZWcnRxbF9laGM5UVJVMkg0cmpvSFo2OWItWE5ISTlpWlZVN1dEUzVxVXBhWUt0UkNZZExSOElOWHpFbzlPSGdsTW1hTF9fZHp5V2tpdERfQTdicFk1Y1hKVkNoWXZrS1hCQ2tBdnR5UWVRVUtDM0NPTEV2ckUzZU42VUZObVJ2R1FrY3N0N2tYYlhnQjRFSHg4SG9MOUJOeVZvRjI2OGxNaFRfa0dRRTlUd2VZUFJ0RVlCTUE1dThMMElRNEFVX0V4dmhpTWktamVPcVJGLVdCcHJ4R09NOHlJUHRUb00tWGc?oc=5",
+          "valence": 0.83
+        },
+        {
+          "title": "Jerri Green wins Tennessee Democratic gubernatorial primary - WSMV",
+          "source": "WSMV",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSmViaVhpMGRhT240VGpIR2RSSi1KNkJvd2xGYTlLZzZTd1dZZEtNa29nZjI0R3VtdlJBMmFJRkNnSnBSY2VELU0za25uNXR0T19NczJyTjBUTVpseVlyaERHR1l2T3ZUMkxTWUZTVzNwa0xjMFpwYktXYWwycUdoN2lxYk9SWklONDFIbTVJQjlFSS05OUNN?oc=5",
+          "valence": 0.813
+        },
+        {
+          "title": "Knox County election results 2026: See the local, state and federal winners - Knoxville News Sentinel",
+          "source": "Knoxville News Sentinel",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOXYyVE5GLWpjMEpqQ1pyOURlNXZ0aTBkN2RxdzNrLTdkZE1pRk5MRGV2N2lCQmhMT3FBcWxwZkh2R1EyWlhtd0JzOVdtOVN0QTc3Q1RNQ3oyZmh1bHpSeEJ0T0Z2dUVGMUxHdE92ZktMTHJkVGJQVVJrZm9HOHFMbTVZWVpfazRfeTdhdHFJN1V2Zlo0QUJLbUU2QzdObTlEQ1h1enA4enhLUTRhalhXNWVsVFJjQ1ZYdE1NeFFPWEstTkk2a0xjbldiQ0g5dU9Iay1lQThHU1N4T1djZVhfbDB1MDZqVHJia3M2VWRqRGtHZDM2NlhiTVNicw?oc=5",
+          "valence": 0.735
+        }
+      ]
+    },
+    {
+      "code": "TX",
+      "name": "Texas",
+      "lat": 31.5,
+      "lon": -99.3,
+      "score": 49.0,
+      "volume": 20,
+      "trend": [
+        51.5,
+        49.0
+      ],
+      "drivers": [
+        {
+          "title": "1 killed, 10 hurt in mass shooting in Midland, Texas; suspect also dead: DPS - ABC News - Breaking News, Latest News and Videos",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb3lkOF95RXprNmJFZWNmTE5Sa2o4aUZZckZkQjE4aUxZQ20zZUZQWkhuTjl4Q2NvSkFJOEFyazllQ2t5UGdvYk82dkIzY3ZIMmtEeWJOU0pVMHZkWFZ6Wkd2MDZEemUyX19wRUlSck91RGJ0YjVTU0gzVlVoMkJwWXJUdzZVbzRPNXRvYl9ERENSYU9QNzNadENYaDBsZ9IBowFBVV95cUxPd2FxMHVNdllmWVpDLVl6bEZnREY4cVpFcE5UVUdreW8zZ3FwcVAzZWxQN3NkRVFoeG1MNzV6RVlXU3RxUURGdEMtTEpwc3Vhd3p2QlZ6SHJ3cUpzUDJ0bUlaMUMwMnVwajA2YWxWMnpTMHZ1WmRpOGVFWFFObU9xZmxKRS1GRVdYb1ZoNmQ1bFBibXl3QWRQX3kwbzVWbmRBMTNZ?oc=5",
+          "valence": -0.983
+        },
+        {
+          "title": "COMPETITIONS, PITCHES, GRANTS, AND MORE | Browse our curated selection of opportunities for innovators. - Dallas Innovates",
+          "source": "Dallas Innovates",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03X0tSVUxpYWJoMVljcW5WZXVEYmQwMUh4aS1wTjNiUXdhVUJaWG9KdFdIb25GaUsxRVlLVVpfb2d6QUF0V2dlVHAtZms4ekoxWnctc3gwRzBIaUtSTW96VlBmdW1DZw?oc=5",
+          "valence": 0.938
+        },
+        {
+          "title": "Appeals court rejects Attorney General’s effort to overturn Texas State Fair gun ban - KEYE",
+          "source": "KEYE",
+          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOS0lVRlcxazRfUk4xV1pEc25iRzVCelA2UlN6OFFPQzhldVpTMk56SS1tMVZYT2Q1Y2owN2JhQmxsRXp1aHotVXRnLXh4N3VLZ0xyeG12bVpFMjFTSGE4X0FuUXdwSXV3TjhocTNjQ0g0RHUta2owM2djbm1xemlLX0dLMmxqeW5mVWVqQUpIVEpRajRIVENGS3lmLW1WdE13Rk1MN2hDZmEydlFaVmV6Q21DN3ZIT3JvTTF1MzlGdzItUURCR1RGQU1fNi1UOXFCdDk1Y09ucmgxdnVKVnFLWVB6YWNrVlVxNW9LRE14aHdZR09pUk1aWUNkMXhTUWFReDZKLVFlOHQwcE93dXRFb2h6Wks2blBHN2tXZ1N0NVpLQXY0X3dFb20wNnZ3VWF3?oc=5",
+          "valence": -0.93
+        },
+        {
+          "title": "Appeals court rejects Attorney General Ken Paxton’s effort to overturn Texas State Fair gun ban - The Texas Tribune",
+          "source": "The Texas Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON0NMVVhlQkpfOTFPU3NvbnRJWlpqbjdRTFpTbE92dWJWM085VzFaa0JNd2tvR2NodEgxa0trd01DQlRvRl9ZSWZGVTJKanpwa3NvVjJuS1lfZm9oMXRiV2VPUUNmTk5KNUdsSkphQlBJYkZ3Zzc0REx4eVBxLW9Pei1DanVuTlNTV3pmZElLTmpRNU1JTlZQeEdHUVVMTklGclE?oc=5",
+          "valence": -0.93
+        }
+      ]
+    },
+    {
+      "code": "UT",
+      "name": "Utah",
+      "lat": 39.3,
+      "lon": -111.7,
+      "score": 46.4,
+      "volume": 20,
+      "trend": [
+        46.5,
+        46.4
+      ],
+      "drivers": [
+        {
+          "title": "The new Utah Supreme Court candidate list is out. Here’s who Cox can pick for two open justice seats. - The Salt Lake Tribune",
+          "source": "The Salt Lake Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORlpWb0lfU3Y0Qk9QbVlJMWZINFU0Qm5ZZ1d3NnZqMVRvVHF0NTVHekQwaE5jVk5LczdCdnZQVnBycmhFV2VjRlFiSll4VTV0U1ZCNnNBMFMtYVpSb0o4c0Q1T2ZFRHRtaGRHNzRmY19tM2hPcXVNejR1U0ZDVEFjSW54QUY5ZnJl?oc=5",
+          "valence": 0.932
+        },
+        {
+          "title": "Fire stopped after evacuation orders issued for Magna brush fire - FOX 13 News Utah",
+          "source": "FOX 13 News Utah",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcUhhQXJ3YWI1YWVQWndMdDU0Y1BSU2I1bm83d05UOFhEeEt0dXNObFZuOTJ4d295NVQycTRUUHBpRURzR0JmVXFubXBLVXpNVDRLZXNqTkh2Ul90UjB1dnRFdzJpVnE4OWdabXh5NTN1R1FGLURPb1RqZ3VXSnR2V0h3OHQ0S0Q1dmVQcE5sVzItTjlCQTNwOE8tZU8wMWs?oc=5",
+          "valence": -0.886
+        },
+        {
+          "title": "Utah, feds strike $18 million deal to help repair damage from Cottonwood Fire - Utah News Dispatch",
+          "source": "Utah News Dispatch",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNODJGRmFuc1RLeWxEMW9iZU1YNGRiWXlzdGg4YnhsU2otUjRRR1kyb05DcjRfRUtKaUd0bzlmeU01bmU3NTBlRG9DWG85UGgwb2hXU3pqVWp4RTFvUThMdV9Nd0FOdTZsWlFQTmh6WnhveWdaRjhNSGQ0LXNqMUMwWFUtb0hYYkRTTDNjZkY1cENfOXpDcXM3aDdJNzAtN09UM2pwRUp1dERhUUVG?oc=5",
+          "valence": -0.778
+        },
+        {
+          "title": "A compact, transportable nuclear reactor may come to Utah under new agreement - Utah News Dispatch",
+          "source": "Utah News Dispatch",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUE5vWC1KSnlUOEdsLU9Gcy1CMFB2M2I4aW1FZlRoME1kenp4SkJQNVloSHNPekg3YVluYTJfODhrdFpJOGtTanY3RGpqOWNSOGdxeUZsbDVGU0hHRlJDT1ZFTklBQmZQNlFmQ0VtT0lVNHBFcmFFZmdqbmpPR05wNE8zVVAwU1htb01iNUxhTEZxajltTlVN?oc=5",
+          "valence": 0.751
+        }
+      ]
+    },
+    {
+      "code": "VT",
+      "name": "Vermont",
+      "lat": 44.0,
+      "lon": -72.7,
+      "score": 58.5,
+      "volume": 20,
+      "trend": [
+        59.5,
+        58.5
+      ],
+      "drivers": [
+        {
+          "title": "Fine-Lease captures wire-to-wire victory at Vermont women's Amateur championship - Burlington Free Press",
+          "source": "Burlington Free Press",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeHRVRlVoM3NoNVJ6TGFfYy1VQ2JzRVJTM0xfczBPYlJPRnF3Q1QxcmpvTlFQTWVsWjFhZWxadWNlRkJsX2FrVmhLZGxJZ3pqcjQ5RkJFOXNrQlp5bkEtNFFtY2hmZlVMNTYzeVZyNERWc1Y0Q3NwYk1xaWhMVlBnemNZSFBGWkN4anRsZ2NZSVB2TW53RDVRbVcxV25uV0R1Ym9MRW1kSHZKQUxwSTNTRWM0bEhPV0Z4U01leDVsOVYwNnh5ZS1Kd1pVUDhSNkdJVEsyX2FBakI?oc=5",
+          "valence": 0.908
+        },
+        {
+          "title": "Young Dairy Exhibitors Showcase Excellence at 2026 Lamoille County 4-H Dairy Show - University of Vermont",
+          "source": "University of Vermont",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUEppd0ZiaTk4VmpleGh0VTAwNW1KbnM3aFptdjYtelVRT3R0dzZqMzhVcjR1RkVTVGpFTW5mNy1QZE93Y1R5bl8xWUdQM3hHRjFFZUY0dGo4NWdKcXpMc29jN3A5QTlqVXFqVUdLal9Dbi1vMktVWGVyaHhoQ241cDR4ZjRjQkxyS2MwQ3g5UmZYOEROaXcyeVl5V1hUWDUwd3BnYUFsU0NrcjVhbm1fcUJrU3ZWdHRSMkFR?oc=5",
+          "valence": 0.848
+        },
+        {
+          "title": "Local development group wins bid for former Montpelier post office - Vermont Public",
+          "source": "Vermont Public",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeVZ6WGgtSFhndGhQQWhOUFROcm9zZzkxVUFxcDlPT0ZCMWhIZDRCUjBvdDMwY3FNT09PSXBrQWZYaW1ZZDdVMFRDQUgzU2NsZFN1RF9OcGZ3czAxemFSS25OM3ZRTURlX2VvRHl2eEdHX0tPd1dKS1FEalRWOVhkWEg2RmVrbFlvbVU5TV9HNXlnenVTR05JcE1iSEYwenMtRmI4UzlLcUJUaWpxZmRWekFiSlk?oc=5",
+          "valence": 0.813
+        },
+        {
+          "title": "Secretary of State shares top early voting towns ahead of primaries - Vermont Business Magazine",
+          "source": "Vermont Business Magazine",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb19vYmZLMHZ4b2d1TWNvTlV5ZGpXYTVBZjRoa3IzMzFwZldta0hzcjA2akZkOFdZblQ4QWZDNVRsNFpSYWRlSEdNR0JuYk5fQlpYTXFvWTF5b2FvNW1FZ1AxMUtBS1dST0MzOEd6alAyQ01NNFNBQnNWUFFMN0U4cms1NnJISnQyTVhVOEZsaXlKamkyM3BUcnZsclNzTWhYemVRN0N4RQ?oc=5",
+          "valence": 0.718
+        }
+      ]
+    },
+    {
+      "code": "VA",
+      "name": "Virginia",
+      "lat": 37.5,
+      "lon": -78.9,
+      "score": 53.8,
+      "volume": 20,
+      "trend": [
+        49.4,
+        53.8
+      ],
+      "drivers": [
+        {
+          "title": "Virginia boy’s death comes as more children are getting hurt on e-scooters - The Washington Post",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLVpSWUlIbm4tamROUFhxLVBRb0tYU3kzeGFaOXdka1pQOWZWbjUtenN6Z2xfZ2V0MXo4ZzhsYU15MmYxZThJWXB0T2taRzVJOWNjXzdqazRmNjEtZGswNEkyMW92am1YN3JVZURCc0JpcXJfSHRXNXNRTnJ1Zk1TSnRsbDViZnZ6a3Ruc0MzUHhXWUJKMWlBZlNDdHVCZ3V0alJOVjllelpWeHNVZllQZUJVYXZvNDdiZHZr?oc=5",
+          "valence": -0.939
+        },
+        {
+          "title": "Disaster unemployment assistance available for Upshur, Lewis counties - West Virginia Watch",
+          "source": "West Virginia Watch",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTUstdHJURjFTNUxmSnVzaC02X21OeGV2TWsyeF9CRWc4QVVwQkw3QmJ2OFlQWUxUQ0ZNSGk4bExZTF81MDd6SUpKdDhsSUIyZkRjMEYwb2NDRmttVzRZWmtjYW80RmtISmtYR1ZmQkhDeHZpT0tWdmdvblBsWnl2SEpnWEN3clh6QjNZNmJSZ1RkUl93dnNpLUNNWW1CYS1CWUp5eGFCOEdOSVotSWY4?oc=5",
+          "valence": -0.932
+        },
+        {
+          "title": "Alley Seeking Growth and Improvement From West Virginia’s Defense in 2026 - West Virginia University Athletics",
+          "source": "West Virginia University Athletics",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWlZPYVIwYTJqX3NERW95eEhKcUwxWUVqNkNzbnc2QnpOeTBHSFFzclhwdmh0bkUtX3ZnSnJBM1JHRHlCQUhPSUM0dV8xSDZZSi15WEtJWGZOeExGNkEwcUhCSVp1b3cxM1FNMmlBOTBUT3VJTmhwaWY3YTNFZ2p0Sl9OeWZQTnR3ZTBoejJvUUhKcXNWdG9jV1lrUVk4cGUwczBwTFp6NmxBT0ZQTXJ2dHdxOXd5NjJE?oc=5",
+          "valence": 0.904
+        },
+        {
+          "title": "Roanoke student headed to national competition after winning Virginia civics bee - WDBJ7",
+          "source": "WDBJ7",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUVNueUtCUVR3dlBfN19kOTlVUUwzVXlaOEVLWjFuU2hWOE51RVVLblE2TTAxUFpBa3RkTVQxVDk4alNsWHpKSFNUUE54NF9JZk5QcXpjNXdRU3l5SWJOZy1DYkg0cW5ROTVOWnRlazlITGhCWkoxMnFIN0V4TFdtV3JQOG43a2wySmNya1RVTWpWTG1VR3JvaTg4ZWYwWTlITjRUTTh0RmFDSl9aSktKedIBxAFBVV95cUxNTmpNdzA2aldSQndKbEQ5cThMUndmOVplVUt2TlV2M3czWnIzWGRlejlpSjQ5VTJHRUFoOG9rTU9kSzJ5WUQ3THp5d1V0VEJpdHY0aHkwUGpiUkw0Sm5yclgyZDBjQ1dqQkRnR3NiakF5cmFTME5DUWF4UmJEM3lBdTNnVzc3WV90NzI4MDlSX2RmZnlkUGdXN3JBMWdJT1dhejd2c011ZXdwYjRpWUQyYUlQbnB2dmlXV0g0eXlGU2ZuVkRi?oc=5",
+          "valence": 0.778
+        }
+      ]
+    },
+    {
+      "code": "WA",
+      "name": "Washington",
+      "lat": 47.4,
+      "lon": -120.5,
+      "score": 51.2,
+      "volume": 20,
+      "trend": [
+        47.6,
+        51.2
+      ],
+      "drivers": [
+        {
+          "title": "Senate panel votes to hold Anthony Fauci in contempt of Congress - The Washington Post",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa2Z3d3NtUDlBcHV1aEJCb0ZQdTJWR1V0MzgyLXNWV1loeDNOTHJPcmd5N1Z1TWRmdnZjMFFSaVhRNjQ4Xy10QXA3WGlSRzhWdVNXY2hqNDN2dHhrZ1ZSSzNEWm05Y0FiczRnUnl5TEZJU2RRdnRnRFNhMmZNN05HcjJJaW9zZ3NCMDV6eTBkTXpiZVBpNF9TZUxVMlQxR0hZbXBFMU1CLW5iOFByRnc?oc=5",
+          "valence": -0.823
+        },
+        {
+          "title": "Escaped Liberty County Jail inmate found weeks later in Washington state - Houston Public Media",
+          "source": "Houston Public Media",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdkM3cDdIWWl4TTdFWXFDMHNyMXBoajhXbHY0a0NoOTlMYi1kOV96dUNqdFdkZjdZdEFXQnJrRkhFaVhweFFBWnRBTExOLTcwUjdsWUhsUXhwVlZNNEg5Q0swN051U3FNTU5tbkUtVTlRREY1bFlWYUJUMjRFcFJLaVJoOVdrZ1JLM0JubnJhMzloOEtvUWVXY0syWS1LWW0zMU53dFA2NE1NLWstV0pEM1hnejhXbUJJUXZuRXQwdGdWeW4yYlMzT9IB0AFBVV95cUxONkwtR2lrWDBLcDFWT3h4czZiOEV6UG42NWNwVXBUa2NfT0ZnWjdiS3ZxU0RLQW9IX181cGxfb25qZnVyakxYTXRrWkhvd3JrSXBaYlVWMldJcWUwSUoyQk1GajRldl9zX2w3M1dnaGNLcHpwT1RvNjFROVJPVXlZUnlOZmQzT25HakVUMkU3V2FSYzVuX1ZDOElVdUVUa2tOckFXYkVtc1duMUJjcmZLbjZlVVlXYkpZSXJpa1RQWUVtS0ZzM1ZsamVMOWt0alhp?oc=5",
+          "valence": 0.778
+        },
+        {
+          "title": "Red flag warning issued for much of eastern Washington as large fires continue to burn - KING5.com",
+          "source": "KING5.com",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVkZZNHQyY1p2ek9fbWNHc3FVWVYtLUFfa21WQVVuRl93LXoyQ2d1UXZWRnV0LVJ2UmZTM3pfeGZZUEczY0dwQ3pPbmZ3bmFCaXFwWEpLWENJWU5kTXdtOFMxSmVoT01XNnQ1MHFxWUc4RElFQ3FwamlwT0l0dmhZQmtsTGFjWXZxTGxwbzQ1U0IzZGE2bUZqR3A2cE9jRkxrS1VpRVBDaEgwRWVMSThXaHEtaWdQX25QRVJ2VjNEWHZ2S2VmN3Z3UlZZcGlTQW9I?oc=5",
+          "valence": -0.586
+        },
+        {
+          "title": "Washington Spirit Star Trinity Rodman Named NWSL Player of the Month - Washington Spirit",
+          "source": "Washington Spirit",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNGEwZkU1TkY2Y3pUdFNybjc0bEZBd1hYcUdydGFVc3VxN0hYLVBQSWQ2dlhqNjFOX0VHcHhXMTFvUTNTQnJfd1hsXzlpZk43NlhUbGZmZndhMG4xcUxOR1E3WnBpWXNqOHBsS3Z4NU1VY1BTTGUyVDN2elVEWEZpWENDMTVPUXNyb2RlVlUzUm16LWtJaTI3dzNRM0JIaGdpRGtGeVF6czloeVFTZVhxUWpBNWw?oc=5",
+          "valence": 0.586
+        }
+      ]
+    },
+    {
+      "code": "WV",
+      "name": "West Virginia",
+      "lat": 38.6,
+      "lon": -80.6,
+      "score": 46.8,
+      "volume": 20,
+      "trend": [
+        49.2,
+        46.8
+      ],
+      "drivers": [
+        {
+          "title": "Disaster unemployment assistance available for Upshur, Lewis counties - West Virginia Watch",
+          "source": "West Virginia Watch",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTUstdHJURjFTNUxmSnVzaC02X21OeGV2TWsyeF9CRWc4QVVwQkw3QmJ2OFlQWUxUQ0ZNSGk4bExZTF81MDd6SUpKdDhsSUIyZkRjMEYwb2NDRmttVzRZWmtjYW80RmtISmtYR1ZmQkhDeHZpT0tWdmdvblBsWnl2SEpnWEN3clh6QjNZNmJSZ1RkUl93dnNpLUNNWW1CYS1CWUp5eGFCOEdOSVotSWY4?oc=5",
+          "valence": -0.932
+        },
+        {
+          "title": "2 West Virginia community leaders honored with 2026 Governor’s Service Awards - WDTV 5",
+          "source": "WDTV 5",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdG5scmpld082aTRndXRqREZQczZtdE8yYk5kZGd4ejZ3R3k4aXA5MkVzRkF5WGJQczRBZGxuNS1tYktkemM2ei1kSVNXdTBfTG9zbE1TNW1BR1daYXJrbl82eHA2TF9lQnVvSk5EZUNmNVpGU0VMMXU2MU93TjZoRUhCQlluUlhxT1hrNDZ2cnNYQTg1YXBfZGpabGppMDAxdFVRQi03Z3BoVGY2YWfSAcIBQVVfeXFMTmdGdEg3U256MUZNby1MaldKRjdVTjV1MTJjTDdZNVJJYnBlcmxJMEs1LWo3Wl91YjNGTVFOUjJkb1VyN0NpOU5HR2V4b1NnZnNSSE5FY0FrU1JFclNzUXY2SnVVNWpnSVdKU3l0eHhLMkpJU2JQZ3JxYV9LUUR3VEVqQ2ZmSjh4ZEs1ZW44QmV3bWZ2RFYtNEtDQlZVQVJwTzJraXdvVGFTeGI3azlackFTLWJ5RzdvVzE3SEdSdng5SFE?oc=5",
+          "valence": 0.927
+        },
+        {
+          "title": "Alley Seeking Growth and Improvement From West Virginia’s Defense in 2026 - West Virginia University Athletics",
+          "source": "West Virginia University Athletics",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWlZPYVIwYTJqX3NERW95eEhKcUwxWUVqNkNzbnc2QnpOeTBHSFFzclhwdmh0bkUtX3ZnSnJBM1JHRHlCQUhPSUM0dV8xSDZZSi15WEtJWGZOeExGNkEwcUhCSVp1b3cxM1FNMmlBOTBUT3VJTmhwaWY3YTNFZ2p0Sl9OeWZQTnR3ZTBoejJvUUhKcXNWdG9jV1lrUVk4cGUwczBwTFp6NmxBT0ZQTXJ2dHdxOXd5NjJE?oc=5",
+          "valence": 0.904
+        },
+        {
+          "title": "SBA offers disaster relief to West Virginia businesses, private nonprofits and residents affected by adverse weather - My Buckhannon",
+          "source": "My Buckhannon",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbnU1WUlQX0xOdlp6eEN3WUtrTW9qY1JSYjZMamhNT2Z2QmNfWGdWdVVwQ05XM2VlQS1qUXNja1RxRXdzNF8zbGt5eUVrT3gxMWFHSVlrSFUwUHNGcl9YZW9qcGdkZU9JYW0zSmxqYkdNTTJKTjQ1VGw4dkg0bC1WZzZCSDZ0d2I3cThjbUlBeFlhX2lZNUhsXzRZV3ZqRjNRUUlZWEJ3cU1JXzlBUWljZWdlejlqQjhCYUxXTnBCUHVkd1g5a0NZMlBkVzItRUV1b0xBTFZfQ1owcjBSU1E?oc=5",
+          "valence": -0.848
+        }
+      ]
+    },
+    {
+      "code": "WI",
+      "name": "Wisconsin",
+      "lat": 44.6,
+      "lon": -89.9,
+      "score": 60.3,
+      "volume": 20,
+      "trend": [
+        59.6,
+        60.3
+      ],
+      "drivers": [
+        {
+          "title": "Gov. Evers: Gov. Evers Honored at Wisconsin State Fair with Surprise Unveiling of the “Tony Evers Bakery” - WisPolitics",
+          "source": "WisPolitics",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONkpqVXRvYzlMNDVpQjJBWUpMUU5lTjJHVVR3MU5hZ0d2R0JTb2JrTXd3SFE0Rk1PcmxpVEJwQVlIRUlYMXU0dXdmWmRKNy01SWY5T1FVa2syX0d2d1FiaXo4Wkdma2QxOHhRaDJpemhkTGN4OGg5MGlvb0MwUWZmTkplb1J1VmtfNXBkeXpqcFNFdVRyYTVidzhQZWxPeXhmWThFX0UyRmU2R2dkLXJvLWNHZEpGcS1ITF9QVG9ub0JBS1Q3MVhtMExyWmJmV2c?oc=5",
+          "valence": 0.937
+        },
+        {
+          "title": "Wisconsin Newspaper Hall of Fame nominations due September 1 - wnanews.com",
+          "source": "wnanews.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVlZVFJ2c1Vqa01kVzlYU1JKem9RVzBYcnoyZW51bWJIdWthdzZNeG44N2dQaUlqYXkyeGpFYlZyenFjNEsxRXhWaVpKTU9zZmpUODQ5ajFXd3NZMXkyRE4zTnNSMHFFeEppR04xVkZfMTYtbTJidFVFSUhidjRoMy1nUkxBYTBWcjBIMVA2enJ0TTdqeWRJ?oc=5",
+          "valence": 0.7
+        },
+        {
+          "title": "Killing of Corey Ruiz revives calls to shift power from police to communities - The Guardian",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSnFRQTlGS2kzV0VJX09nczJIZy04ZW4tWUhXejNkUU8wN01lRUluaDRncW1yWFdhUUxJN0xvNkdsMnBOaDN2ZjlaTS02bDZtUUpnT1JBc2gxZ3dIRGlUY1FISTNWOUFPdlQ1UFRuM3NCaTA2bmdpZi04OFp6ZWQxMkNjaUdacmxqMkdZ?oc=5",
+          "valence": -0.681
+        },
+        {
+          "title": "Brain drain erodes state’s talent potential - wnanews.com",
+          "source": "wnanews.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wRVBSTG1hUVlNR0pMdHJDbkFsVE9JZ3Q3MlgwV1FrTmJRWG16elpJeE1ORXRHMHNxMmNfSjZPNkEyNzRTTFRQVGtSUjdIbjBsSkw0dDBsTEFrQnByMEhRdXk4MXpZTjBRX2QteU85c3JEX21weWlDSzdqM3lUM3M?oc=5",
+          "valence": 0.681
+        }
+      ]
+    },
+    {
+      "code": "WY",
+      "name": "Wyoming",
+      "lat": 43.0,
+      "lon": -107.5,
+      "score": 45.5,
+      "volume": 20,
+      "trend": [
+        47.8,
+        45.5
+      ],
+      "drivers": [
+        {
+          "title": "Byrd: cuts to Medicare Part D hit Wyoming families ‘where it hurts the most’ - WyomingNews.com",
+          "source": "WyomingNews.com",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRDc2RmNub2hDLWhyUk54akNoNFBidlBPTExDeFM0TUdLV3JocUZDczZwZWRIUjdxTGphM3JwRXhVek5LV09fOEhTa19lTjdSVkJuNGpWMlNINk1kdFNOMzNpSUtsLTROaFBRNmZrWXFIM284aHByRWI0TjdFZ1d4VDZ2TmhwQzEtamMwd0phRUI0b29DMTF3enZTLTBYNTkxejVNQmhObF9ZRzNfV0VCNlNBTmN2SlNWRGhkY1Q2RWtpTnctXzFzRmowc2ZoRTJ6ZGUxS1N6T2RXMlZsdjEydlJ1TEQxb2FGV1I1Si0xMDRqbHJ5M3p2MThQbw?oc=5",
+          "valence": -0.863
+        },
+        {
+          "title": "UW Student Success and Graduation Hub Launches ‘The Trailhead’ in Wyoming Union - University of Wyoming",
+          "source": "University of Wyoming",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ001aEM4c3dlellOYzFZSC1wM01vUmhjVXFoOXlMcG1tRTY5eWxlRnVFX2hrTG1OSU9Sb1BEekt2TGFUbWVvM0JmdUhYbWNkaklJUl85TU83c3l6UG1KQ2E5SlI1RWRiNks0SGstYjN2Z1BoSk8xNHdjNFZMb01pRmpVTWhxajdpNlpEaW1jeXlvTDZYTlJoMDhhY3JZZnBvZ3EyU2gxeHNvSzJNWE1PVWljTWZ0WEU?oc=5",
+          "valence": 0.813
+        },
+        {
+          "title": "Wyoming Football’s unsung hero - University of Wyoming Athletics",
+          "source": "University of Wyoming Athletics",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83SzVSNmowU2lEWTFHbk9MSW5MOURIMXJTMVNnMzdCU1dGTWVsbDBvbC0zdEYtNFBqZGdtRWZfZUNxNm5jR3JTQWx6LWJud2lWQXVaZkZOTFBPVWFza1N2anhaZF9HOW9QdVdwc3Zrc3cxRTJO?oc=5",
+          "valence": 0.802
+        },
+        {
+          "title": "Teton County lifts measles emergency - Wyoming Public Media",
+          "source": "Wyoming Public Media",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa1hNaEdwLVNkSUxzcy1KbXlqZkQ1OFdQdUozeFEzNnI4THRGY0c1RnlScFlHbk9zT0hiLTJOQ0JEd1kyVVVuZmV2TWNBaFBKcll4V1FNdV9FS3liZmxTVUVYbkI3TUJIRm4zT2UzU2dFMEUyVFVSZDFuMzNaZjdYcHQ4U0xLd1ZmOW1DZ0V2LWdVbXl2dmFzNzE2YWhINC1Q?oc=5",
+          "valence": -0.637
+        }
+      ]
+    }
+  ]
+}

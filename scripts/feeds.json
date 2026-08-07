@@ -1,0 +1,874 @@
+[
+  {
+    "id": "bbc-world",
+    "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "source": "BBC World",
+    "category": "world",
+    "region": "Global",
+    "lang": "en"
+  },
+  {
+    "id": "nyt-world",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+    "source": "NYT World",
+    "category": "world",
+    "region": "Global",
+    "lang": "en"
+  },
+  {
+    "id": "guardian-world",
+    "url": "https://www.theguardian.com/world/rss",
+    "source": "The Guardian World",
+    "category": "world",
+    "region": "Global",
+    "lang": "en"
+  },
+  {
+    "id": "aljazeera-all",
+    "url": "https://www.aljazeera.com/xml/rss/all.xml",
+    "source": "Al Jazeera",
+    "category": "world",
+    "region": "Middle East",
+    "lang": "en"
+  },
+  {
+    "id": "npr-world",
+    "url": "https://feeds.npr.org/1004/rss.xml",
+    "source": "NPR World",
+    "category": "world",
+    "region": "North America",
+    "lang": "en"
+  },
+  {
+    "id": "google-news-us",
+    "url": "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en",
+    "source": "Google News (US)",
+    "category": "world",
+    "region": "North America",
+    "lang": "en"
+  },
+  {
+    "id": "google-news-uk",
+    "url": "https://news.google.com/rss?hl=en-GB&gl=GB&ceid=GB:en",
+    "source": "Google News (UK)",
+    "category": "world",
+    "region": "Europe",
+    "lang": "en"
+  },
+  {
+    "id": "google-news-india",
+    "url": "https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en",
+    "source": "Google News (India)",
+    "category": "world",
+    "region": "South Asia",
+    "lang": "en"
+  },
+  {
+    "id": "google-news-india-business",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-IN&gl=IN&ceid=IN:en",
+    "source": "Google News Business (India)",
+    "category": "markets",
+    "region": "South Asia",
+    "lang": "en"
+  },
+  {
+    "id": "google-news-india-entertainment",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-IN&gl=IN&ceid=IN:en",
+    "source": "Google News Entertainment (India)",
+    "category": "culture",
+    "region": "South Asia",
+    "lang": "en"
+  },
+  {
+    "id": "guardian-culture",
+    "url": "https://www.theguardian.com/culture/rss",
+    "source": "The Guardian Culture",
+    "category": "culture",
+    "region": "Europe",
+    "lang": "en"
+  },
+  {
+    "id": "nyt-arts",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
+    "source": "NYT Arts",
+    "category": "culture",
+    "region": "North America",
+    "lang": "en"
+  },
+  {
+    "id": "hnrss-front",
+    "url": "https://hnrss.org/frontpage",
+    "source": "Hacker News",
+    "category": "culture",
+    "region": "Global",
+    "lang": "en"
+  },
+  {
+    "id": "reddit-popular",
+    "url": "https://www.reddit.com/r/popular/.rss",
+    "source": "Reddit r/popular",
+    "category": "culture",
+    "region": "Global",
+    "lang": "en"
+  },
+  {
+    "id": "pitchfork",
+    "url": "https://pitchfork.com/feed/feed-news/rss",
+    "source": "Pitchfork",
+    "category": "culture",
+    "region": "North America",
+    "lang": "en"
+  },
+  {
+    "id": "cnbc-top",
+    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+    "source": "CNBC Top News",
+    "category": "markets",
+    "region": "North America",
+    "lang": "en"
+  },
+  {
+    "id": "marketwatch-top",
+    "url": "http://feeds.marketwatch.com/marketwatch/topstories/",
+    "source": "MarketWatch",
+    "category": "markets",
+    "region": "North America",
+    "lang": "en"
+  },
+  {
+    "id": "yahoo-finance",
+    "url": "https://finance.yahoo.com/news/rssindex",
+    "source": "Yahoo Finance",
+    "category": "markets",
+    "region": "North America",
+    "lang": "en"
+  },
+  {
+    "id": "ft-world-econ",
+    "url": "https://www.ft.com/rss/world",
+    "source": "Financial Times World",
+    "category": "markets",
+    "region": "Europe",
+    "lang": "en"
+  },
+  {
+    "id": "techcrunch",
+    "url": "https://techcrunch.com/feed/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "region": "North America",
+    "lang": "en"
+  },
+  {
+    "id": "arstechnica",
+    "url": "http://feeds.arstechnica.com/arstechnica/index",
+    "source": "Ars Technica",
+    "category": "tech",
+    "region": "North America",
+    "lang": "en"
+  },
+  {
+    "id": "verge",
+    "url": "https://www.theverge.com/rss/index.xml",
+    "source": "The Verge",
+    "category": "tech",
+    "region": "North America",
+    "lang": "en"
+  },
+  {
+    "id": "bbc-mundo",
+    "url": "https://feeds.bbci.co.uk/mundo/rss.xml",
+    "source": "BBC Mundo",
+    "category": "world",
+    "region": "Latin America",
+    "lang": "es"
+  },
+  {
+    "id": "elpais-portada",
+    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+    "source": "El País",
+    "category": "world",
+    "region": "Europe",
+    "lang": "es"
+  },
+  {
+    "id": "google-news-es-mx-headlines",
+    "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=es-419&gl=MX&ceid=MX:es-419",
+    "source": "Google News Mundo (MX)",
+    "category": "world",
+    "region": "Latin America",
+    "lang": "es"
+  },
+  {
+    "id": "clarin-ultimo",
+    "url": "https://www.clarin.com/rss/lo-ultimo/",
+    "source": "Clarín",
+    "category": "world",
+    "region": "Latin America",
+    "lang": "es"
+  },
+  {
+    "id": "google-news-es-mx",
+    "url": "https://news.google.com/rss?hl=es-419&gl=MX&ceid=MX:es-419",
+    "source": "Google News (México)",
+    "category": "world",
+    "region": "Latin America",
+    "lang": "es"
+  },
+  {
+    "id": "google-news-es-es",
+    "url": "https://news.google.com/rss?hl=es&gl=ES&ceid=ES:es",
+    "source": "Google News (España)",
+    "category": "world",
+    "region": "Europe",
+    "lang": "es"
+  },
+  {
+    "id": "google-news-es-entertainment",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=es&gl=ES&ceid=ES:es",
+    "source": "Google News Cultura (España)",
+    "category": "culture",
+    "region": "Europe",
+    "lang": "es"
+  },
+  {
+    "id": "google-news-es-business",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=es-419&gl=MX&ceid=MX:es-419",
+    "source": "Google News Negocios (MX)",
+    "category": "markets",
+    "region": "Latin America",
+    "lang": "es"
+  },
+  {
+    "id": "bbc-zhongwen",
+    "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
+    "source": "BBC 中文",
+    "category": "world",
+    "region": "East Asia",
+    "lang": "zh"
+  },
+  {
+    "id": "rfi-zh",
+    "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/rss",
+    "source": "RFI 中文",
+    "category": "world",
+    "region": "East Asia",
+    "lang": "zh"
+  },
+  {
+    "id": "google-news-zh-cn",
+    "url": "https://news.google.com/rss?hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+    "source": "Google News (中国)",
+    "category": "world",
+    "region": "East Asia",
+    "lang": "zh"
+  },
+  {
+    "id": "google-news-zh-tw",
+    "url": "https://news.google.com/rss?hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    "source": "Google News (台灣)",
+    "category": "world",
+    "region": "East Asia",
+    "lang": "zh"
+  },
+  {
+    "id": "google-news-zh-business",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+    "source": "Google News 財經 (中国)",
+    "category": "markets",
+    "region": "East Asia",
+    "lang": "zh"
+  },
+  {
+    "id": "google-news-zh-entertainment",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+    "source": "Google News 娱乐 (中国)",
+    "category": "culture",
+    "region": "East Asia",
+    "lang": "zh"
+  },
+  {
+    "id": "gnews-ca-en-world",
+    "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-CA&gl=CA&ceid=CA:en",
+    "source": "Google News World (Canada)",
+    "category": "world",
+    "region": "North America",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-ca-en-business",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-CA&gl=CA&ceid=CA:en",
+    "source": "Google News Business (Canada)",
+    "category": "markets",
+    "region": "North America",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-ca-en-entertainment",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-CA&gl=CA&ceid=CA:en",
+    "source": "Google News Entertainment (Canada)",
+    "category": "culture",
+    "region": "North America",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-ca-en-technology",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-CA&gl=CA&ceid=CA:en",
+    "source": "Google News Technology (Canada)",
+    "category": "tech",
+    "region": "North America",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-au-en-world",
+    "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-AU&gl=AU&ceid=AU:en",
+    "source": "Google News World (Australia)",
+    "category": "world",
+    "region": "Oceania",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-au-en-business",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-AU&gl=AU&ceid=AU:en",
+    "source": "Google News Business (Australia)",
+    "category": "markets",
+    "region": "Oceania",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-au-en-entertainment",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-AU&gl=AU&ceid=AU:en",
+    "source": "Google News Entertainment (Australia)",
+    "category": "culture",
+    "region": "Oceania",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-au-en-technology",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-AU&gl=AU&ceid=AU:en",
+    "source": "Google News Technology (Australia)",
+    "category": "tech",
+    "region": "Oceania",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-nz-en-world",
+    "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-NZ&gl=NZ&ceid=NZ:en",
+    "source": "Google News World (New Zealand)",
+    "category": "world",
+    "region": "Oceania",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-nz-en-business",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-NZ&gl=NZ&ceid=NZ:en",
+    "source": "Google News Business (New Zealand)",
+    "category": "markets",
+    "region": "Oceania",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-nz-en-entertainment",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-NZ&gl=NZ&ceid=NZ:en",
+    "source": "Google News Entertainment (New Zealand)",
+    "category": "culture",
+    "region": "Oceania",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-nz-en-technology",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-NZ&gl=NZ&ceid=NZ:en",
+    "source": "Google News Technology (New Zealand)",
+    "category": "tech",
+    "region": "Oceania",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-ng-en-world",
+    "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-NG&gl=NG&ceid=NG:en",
+    "source": "Google News World (Nigeria)",
+    "category": "world",
+    "region": "Africa",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-ng-en-business",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-NG&gl=NG&ceid=NG:en",
+    "source": "Google News Business (Nigeria)",
+    "category": "markets",
+    "region": "Africa",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-ng-en-entertainment",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-NG&gl=NG&ceid=NG:en",
+    "source": "Google News Entertainment (Nigeria)",
+    "category": "culture",
+    "region": "Africa",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-ng-en-technology",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-NG&gl=NG&ceid=NG:en",
+    "source": "Google News Technology (Nigeria)",
+    "category": "tech",
+    "region": "Africa",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-za-en-world",
+    "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-ZA&gl=ZA&ceid=ZA:en",
+    "source": "Google News World (South Africa)",
+    "category": "world",
+    "region": "Africa",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-za-en-business",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-ZA&gl=ZA&ceid=ZA:en",
+    "source": "Google News Business (South Africa)",
+    "category": "markets",
+    "region": "Africa",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-za-en-entertainment",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-ZA&gl=ZA&ceid=ZA:en",
+    "source": "Google News Entertainment (South Africa)",
+    "category": "culture",
+    "region": "Africa",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-za-en-technology",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-ZA&gl=ZA&ceid=ZA:en",
+    "source": "Google News Technology (South Africa)",
+    "category": "tech",
+    "region": "Africa",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-ke-en-world",
+    "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-KE&gl=KE&ceid=KE:en",
+    "source": "Google News World (Kenya)",
+    "category": "world",
+    "region": "Africa",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-ke-en-business",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-KE&gl=KE&ceid=KE:en",
+    "source": "Google News Business (Kenya)",
+    "category": "markets",
+    "region": "Africa",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-ke-en-entertainment",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-KE&gl=KE&ceid=KE:en",
+    "source": "Google News Entertainment (Kenya)",
+    "category": "culture",
+    "region": "Africa",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-ke-en-technology",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-KE&gl=KE&ceid=KE:en",
+    "source": "Google News Technology (Kenya)",
+    "category": "tech",
+    "region": "Africa",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-sg-en-world",
+    "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-SG&gl=SG&ceid=SG:en",
+    "source": "Google News World (Singapore)",
+    "category": "world",
+    "region": "Southeast Asia",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-sg-en-business",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-SG&gl=SG&ceid=SG:en",
+    "source": "Google News Business (Singapore)",
+    "category": "markets",
+    "region": "Southeast Asia",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-sg-en-entertainment",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-SG&gl=SG&ceid=SG:en",
+    "source": "Google News Entertainment (Singapore)",
+    "category": "culture",
+    "region": "Southeast Asia",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-sg-en-technology",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-SG&gl=SG&ceid=SG:en",
+    "source": "Google News Technology (Singapore)",
+    "category": "tech",
+    "region": "Southeast Asia",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-ph-en-world",
+    "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-PH&gl=PH&ceid=PH:en",
+    "source": "Google News World (Philippines)",
+    "category": "world",
+    "region": "Southeast Asia",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-ph-en-business",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-PH&gl=PH&ceid=PH:en",
+    "source": "Google News Business (Philippines)",
+    "category": "markets",
+    "region": "Southeast Asia",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-ph-en-entertainment",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-PH&gl=PH&ceid=PH:en",
+    "source": "Google News Entertainment (Philippines)",
+    "category": "culture",
+    "region": "Southeast Asia",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-ph-en-technology",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-PH&gl=PH&ceid=PH:en",
+    "source": "Google News Technology (Philippines)",
+    "category": "tech",
+    "region": "Southeast Asia",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-ie-en-world",
+    "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-IE&gl=IE&ceid=IE:en",
+    "source": "Google News World (Ireland)",
+    "category": "world",
+    "region": "Europe",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-ie-en-business",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-IE&gl=IE&ceid=IE:en",
+    "source": "Google News Business (Ireland)",
+    "category": "markets",
+    "region": "Europe",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-ie-en-entertainment",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-IE&gl=IE&ceid=IE:en",
+    "source": "Google News Entertainment (Ireland)",
+    "category": "culture",
+    "region": "Europe",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-ie-en-technology",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-IE&gl=IE&ceid=IE:en",
+    "source": "Google News Technology (Ireland)",
+    "category": "tech",
+    "region": "Europe",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-ar-es-world",
+    "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=es-AR&gl=AR&ceid=AR:es-419",
+    "source": "Google News World (Argentina)",
+    "category": "world",
+    "region": "Latin America",
+    "lang": "es"
+  },
+  {
+    "id": "gnews-ar-es-business",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=es-AR&gl=AR&ceid=AR:es-419",
+    "source": "Google News Business (Argentina)",
+    "category": "markets",
+    "region": "Latin America",
+    "lang": "es"
+  },
+  {
+    "id": "gnews-ar-es-entertainment",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=es-AR&gl=AR&ceid=AR:es-419",
+    "source": "Google News Entertainment (Argentina)",
+    "category": "culture",
+    "region": "Latin America",
+    "lang": "es"
+  },
+  {
+    "id": "gnews-ar-es-technology",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=es-AR&gl=AR&ceid=AR:es-419",
+    "source": "Google News Technology (Argentina)",
+    "category": "tech",
+    "region": "Latin America",
+    "lang": "es"
+  },
+  {
+    "id": "gnews-co-es-world",
+    "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=es-CO&gl=CO&ceid=CO:es-419",
+    "source": "Google News World (Colombia)",
+    "category": "world",
+    "region": "Latin America",
+    "lang": "es"
+  },
+  {
+    "id": "gnews-co-es-business",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=es-CO&gl=CO&ceid=CO:es-419",
+    "source": "Google News Business (Colombia)",
+    "category": "markets",
+    "region": "Latin America",
+    "lang": "es"
+  },
+  {
+    "id": "gnews-co-es-entertainment",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=es-CO&gl=CO&ceid=CO:es-419",
+    "source": "Google News Entertainment (Colombia)",
+    "category": "culture",
+    "region": "Latin America",
+    "lang": "es"
+  },
+  {
+    "id": "gnews-co-es-technology",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=es-CO&gl=CO&ceid=CO:es-419",
+    "source": "Google News Technology (Colombia)",
+    "category": "tech",
+    "region": "Latin America",
+    "lang": "es"
+  },
+  {
+    "id": "gnews-cl-es-world",
+    "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=es-CL&gl=CL&ceid=CL:es-419",
+    "source": "Google News World (Chile)",
+    "category": "world",
+    "region": "Latin America",
+    "lang": "es"
+  },
+  {
+    "id": "gnews-cl-es-business",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=es-CL&gl=CL&ceid=CL:es-419",
+    "source": "Google News Business (Chile)",
+    "category": "markets",
+    "region": "Latin America",
+    "lang": "es"
+  },
+  {
+    "id": "gnews-cl-es-entertainment",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=es-CL&gl=CL&ceid=CL:es-419",
+    "source": "Google News Entertainment (Chile)",
+    "category": "culture",
+    "region": "Latin America",
+    "lang": "es"
+  },
+  {
+    "id": "gnews-cl-es-technology",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=es-CL&gl=CL&ceid=CL:es-419",
+    "source": "Google News Technology (Chile)",
+    "category": "tech",
+    "region": "Latin America",
+    "lang": "es"
+  },
+  {
+    "id": "gnews-pe-es-world",
+    "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=es-PE&gl=PE&ceid=PE:es-419",
+    "source": "Google News World (Peru)",
+    "category": "world",
+    "region": "Latin America",
+    "lang": "es"
+  },
+  {
+    "id": "gnews-pe-es-business",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=es-PE&gl=PE&ceid=PE:es-419",
+    "source": "Google News Business (Peru)",
+    "category": "markets",
+    "region": "Latin America",
+    "lang": "es"
+  },
+  {
+    "id": "gnews-pe-es-entertainment",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=es-PE&gl=PE&ceid=PE:es-419",
+    "source": "Google News Entertainment (Peru)",
+    "category": "culture",
+    "region": "Latin America",
+    "lang": "es"
+  },
+  {
+    "id": "gnews-pe-es-technology",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=es-PE&gl=PE&ceid=PE:es-419",
+    "source": "Google News Technology (Peru)",
+    "category": "tech",
+    "region": "Latin America",
+    "lang": "es"
+  },
+  {
+    "id": "gnews-hk-zh-world",
+    "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=zh-HK&gl=HK&ceid=HK:zh-Hant",
+    "source": "Google News World (Hong Kong)",
+    "category": "world",
+    "region": "East Asia",
+    "lang": "zh"
+  },
+  {
+    "id": "gnews-hk-zh-business",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=zh-HK&gl=HK&ceid=HK:zh-Hant",
+    "source": "Google News Business (Hong Kong)",
+    "category": "markets",
+    "region": "East Asia",
+    "lang": "zh"
+  },
+  {
+    "id": "gnews-hk-zh-entertainment",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=zh-HK&gl=HK&ceid=HK:zh-Hant",
+    "source": "Google News Entertainment (Hong Kong)",
+    "category": "culture",
+    "region": "East Asia",
+    "lang": "zh"
+  },
+  {
+    "id": "gnews-hk-zh-technology",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=zh-HK&gl=HK&ceid=HK:zh-Hant",
+    "source": "Google News Technology (Hong Kong)",
+    "category": "tech",
+    "region": "East Asia",
+    "lang": "zh"
+  },
+  {
+    "id": "gnews-sg-zh-world",
+    "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=zh-SG&gl=SG&ceid=SG:zh-Hans",
+    "source": "Google News World (Singapore (Chinese))",
+    "category": "world",
+    "region": "Southeast Asia",
+    "lang": "zh"
+  },
+  {
+    "id": "gnews-sg-zh-business",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=zh-SG&gl=SG&ceid=SG:zh-Hans",
+    "source": "Google News Business (Singapore (Chinese))",
+    "category": "markets",
+    "region": "Southeast Asia",
+    "lang": "zh"
+  },
+  {
+    "id": "gnews-sg-zh-entertainment",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=zh-SG&gl=SG&ceid=SG:zh-Hans",
+    "source": "Google News Entertainment (Singapore (Chinese))",
+    "category": "culture",
+    "region": "Southeast Asia",
+    "lang": "zh"
+  },
+  {
+    "id": "gnews-sg-zh-technology",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=zh-SG&gl=SG&ceid=SG:zh-Hans",
+    "source": "Google News Technology (Singapore (Chinese))",
+    "category": "tech",
+    "region": "Southeast Asia",
+    "lang": "zh"
+  },
+  {
+    "id": "gnews-us-en-business",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en",
+    "source": "Google News Business (US)",
+    "category": "markets",
+    "region": "North America",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-us-en-technology",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-US&gl=US&ceid=US:en",
+    "source": "Google News Technology (US)",
+    "category": "tech",
+    "region": "North America",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-us-en-entertainment",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-US&gl=US&ceid=US:en",
+    "source": "Google News Entertainment (US)",
+    "category": "culture",
+    "region": "North America",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-gb-en-business",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-GB&gl=GB&ceid=GB:en",
+    "source": "Google News Business (UK)",
+    "category": "markets",
+    "region": "Europe",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-gb-en-technology",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-GB&gl=GB&ceid=GB:en",
+    "source": "Google News Technology (UK)",
+    "category": "tech",
+    "region": "Europe",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-gb-en-entertainment",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-GB&gl=GB&ceid=GB:en",
+    "source": "Google News Entertainment (UK)",
+    "category": "culture",
+    "region": "Europe",
+    "lang": "en"
+  },
+  {
+    "id": "gnews-mx-es-technology",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=es-419&gl=MX&ceid=MX:es-419",
+    "source": "Google News Technology (México)",
+    "category": "tech",
+    "region": "Latin America",
+    "lang": "es"
+  },
+  {
+    "id": "gnews-es-es-technology",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=es&gl=ES&ceid=ES:es",
+    "source": "Google News Technology (España)",
+    "category": "tech",
+    "region": "Europe",
+    "lang": "es"
+  },
+  {
+    "id": "gnews-es-es-business",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=es&gl=ES&ceid=ES:es",
+    "source": "Google News Business (España)",
+    "category": "markets",
+    "region": "Europe",
+    "lang": "es"
+  },
+  {
+    "id": "gnews-cn-zh-technology",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+    "source": "Google News Technology (中国)",
+    "category": "tech",
+    "region": "East Asia",
+    "lang": "zh"
+  },
+  {
+    "id": "gnews-tw-zh-business",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    "source": "Google News Business (台灣)",
+    "category": "markets",
+    "region": "East Asia",
+    "lang": "zh"
+  },
+  {
+    "id": "gnews-tw-zh-entertainment",
+    "url": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    "source": "Google News Entertainment (台灣)",
+    "category": "culture",
+    "region": "East Asia",
+    "lang": "zh"
+  },
+  {
+    "id": "gnews-tw-zh-technology",
+    "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    "source": "Google News Technology (台灣)",
+    "category": "tech",
+    "region": "East Asia",
+    "lang": "zh"
+  }
+]

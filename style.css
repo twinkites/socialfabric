@@ -1,0 +1,495 @@
+/* ---------- tokens ----------
+   The weave itself (.canvas-wrap) always sits on a dark "gallery mat"
+   regardless of theme. The glow/bloom rendering is art-directed for a dark
+   backdrop, so only the surrounding chrome (page, panel, footer) switches
+   between light and dark. --stage-bg is intentionally NOT overridden below. */
+:root {
+  --void: #000000;
+  --void-2: #050505;
+  --panel: #0e0e0e;
+  --panel-border: #232323;
+  --ink: #edeef0;
+  --ink-muted: #8b93a1;
+  --ink-faint: #545c6b;
+  --cold: #4c7fde;
+  --warm: #e2703b;
+  --neutral: #6b7280;
+  --glow-cold: rgba(76, 127, 222, 0.30);
+  --glow-warm: rgba(226, 112, 59, 0.30);
+  --stage-bg: #000000;
+  --ambient-opacity: 0.4;
+  --panel-rgb: 14 14 14;
+
+  --font-display: "Fraunces", "Iowan Old Style", serif;
+  --font-ui: "Manrope", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+:root[data-theme="light"] {
+  --void: #f5f3ee;
+  --void-2: #efece5;
+  --panel: #ffffff;
+  --panel-border: #ddd9d0;
+  --ink: #1d2024;
+  --ink-muted: #5c6169;
+  --ink-faint: #8b8f96;
+  --ambient-opacity: 0.16;
+  --panel-rgb: 255 255 255;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: var(--void);
+  color: var(--ink);
+  font-family: var(--font-ui);
+  overflow-x: hidden;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+::selection { background: var(--warm); color: var(--void); }
+
+a { color: var(--ink); }
+a:hover { color: var(--warm); }
+
+:focus-visible {
+  outline: 2px solid var(--warm);
+  outline-offset: 3px;
+}
+
+/* ---------- ambient background ---------- */
+#ambient {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background: radial-gradient(ellipse 85% 65% at 50% 30%, var(--ambient-color, var(--neutral)) 0%, transparent 70%);
+  opacity: var(--ambient-opacity);
+  transition: background 2.5s ease, opacity 0.4s ease;
+}
+
+/* ---------- topbar ---------- */
+.topbar {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1.5rem;
+  padding: 1.6rem clamp(1.25rem, 4vw, 3rem) 0.9rem;
+  flex-wrap: wrap;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+}
+
+.brand-mark {
+  height: 30px;
+  width: auto;
+  display: block;
+  filter: invert(1) brightness(1.2);
+  opacity: 0.92;
+  transition: filter 0.3s ease;
+}
+
+:root[data-theme="light"] .brand-mark {
+  filter: none;
+  opacity: 0.85;
+}
+
+.wordmark {
+  font-family: var(--font-display);
+  font-optical-sizing: auto;
+  font-weight: 560;
+  font-size: clamp(1.35rem, 2.4vw, 1.85rem);
+  letter-spacing: 0.01em;
+  margin: 0;
+}
+
+.global-reading {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  font-family: var(--font-mono);
+}
+
+.theme-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 999px;
+  border: 1px solid var(--panel-border);
+  background: transparent;
+  color: var(--ink-muted);
+  cursor: pointer;
+  font-size: 0.85rem;
+  line-height: 1;
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+.theme-toggle:hover { color: var(--ink); border-color: var(--ink-muted); }
+
+.global-temp {
+  font-size: clamp(1.6rem, 3vw, 2.1rem);
+  font-weight: 500;
+  color: var(--ink);
+  font-variant-numeric: tabular-nums;
+}
+
+.global-copy {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.25;
+}
+
+.global-label {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--ink-muted);
+  font-family: var(--font-ui);
+}
+
+.global-updated {
+  font-size: 0.68rem;
+  color: var(--ink-faint);
+}
+
+.legend {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin-top: 0.35rem;
+}
+
+.legend-bar {
+  width: 52px;
+  height: 4px;
+  border-radius: 2px;
+  background: linear-gradient(90deg, var(--cold), var(--neutral), var(--warm));
+}
+
+.legend-label {
+  font-size: 0.6rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink-faint);
+}
+
+/* ---------- scrubber ---------- */
+.scrubber {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  margin: 0 clamp(0.75rem, 3vw, 2rem);
+  padding: 0.3rem 0;
+}
+
+.scrubber[hidden] { display: none; }
+
+.scrubber input[type="range"] {
+  flex: 1;
+  -webkit-appearance: none;
+  appearance: none;
+  height: 2px;
+  background: var(--panel-border);
+  border-radius: 2px;
+  outline: none;
+}
+
+.scrubber input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--ink);
+  cursor: pointer;
+  transition: transform 0.15s ease;
+}
+.scrubber input[type="range"]::-webkit-slider-thumb:hover { transform: scale(1.15); }
+
+.scrubber input[type="range"]::-moz-range-thumb {
+  width: 12px;
+  height: 12px;
+  border: none;
+  border-radius: 50%;
+  background: var(--ink);
+  cursor: pointer;
+}
+
+.scrub-label {
+  flex-shrink: 0;
+  width: 5.5rem;
+  text-align: right;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--ink-muted);
+}
+
+/* ---------- stage ---------- */
+.stage {
+  position: relative;
+  z-index: 1;
+  flex: 1;
+  min-height: 0;
+  margin: 0.5rem clamp(0.75rem, 3vw, 2rem) 0.5rem;
+  display: flex;
+  align-items: stretch;
+  gap: 0;
+}
+
+.canvas-wrap {
+  position: relative;
+  flex: 1;
+  min-width: 0;
+  border-radius: 18px;
+  overflow: hidden;
+  background: var(--stage-bg);
+}
+
+#loom {
+  width: 100%;
+  height: 100%;
+  display: block;
+  cursor: crosshair;
+  transition: opacity 0.38s ease;
+}
+
+#loom.view-leaving { opacity: 0; }
+
+.stage-hint {
+  position: absolute;
+  left: 50%;
+  bottom: 1.1rem;
+  transform: translateX(-50%);
+  margin: 0;
+  font-size: 0.72rem;
+  letter-spacing: 0.05em;
+  color: var(--ink-faint);
+  font-family: var(--font-ui);
+  pointer-events: none;
+  transition: opacity 0.6s ease;
+}
+
+.stage-hint.hidden { opacity: 0; }
+
+.back-control {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  z-index: 3;
+  background: rgba(14, 14, 14, 0.7);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--panel-border);
+  color: var(--ink-muted);
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  padding: 0.45rem 0.8rem;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: opacity 0.3s ease, color 0.2s ease, border-color 0.2s ease;
+}
+.back-control:hover { color: var(--ink); border-color: var(--ink-muted); }
+.back-control[hidden] { display: none; }
+
+/* ---------- hover panel ----------
+   Reserved as empty space alongside the weave at all times on desktop, so
+   the driver detail never covers the artwork. It fades into its own
+   column rather than sliding over the canvas. */
+.panel {
+  position: relative;
+  flex: 0 0 340px;
+  width: 340px;
+  height: 100%;
+  background: linear-gradient(180deg, rgb(var(--panel-rgb) / 0.6), rgb(var(--panel-rgb) / 0.5));
+  border-left: 1px solid var(--panel-border);
+  padding: 1.4rem 1.3rem 1.6rem;
+  margin-left: clamp(0.75rem, 2vw, 1.5rem);
+  border-radius: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+  overflow-y: auto;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.4s ease;
+}
+
+.panel.is-open {
+  opacity: 1;
+  pointer-events: auto;
+  background: linear-gradient(180deg, rgb(var(--panel-rgb) / 0.92), rgb(var(--panel-rgb) / 0.86));
+}
+
+.panel-close {
+  align-self: flex-end;
+  background: none;
+  border: none;
+  color: var(--ink-muted);
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 0.2rem 0.4rem;
+}
+.panel-close:hover { color: var(--ink); }
+
+.panel-eyebrow {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+}
+
+.panel-title {
+  font-family: var(--font-display);
+  font-weight: 560;
+  font-size: 1.5rem;
+  margin: 0 0 0.2rem;
+}
+
+.panel-score-row {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+}
+
+.panel-score {
+  font-family: var(--font-mono);
+  font-size: 1.9rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.panel-volume {
+  font-size: 0.75rem;
+  color: var(--ink-muted);
+}
+
+.panel-trend {
+  width: 100%;
+  height: 56px;
+  margin: 0.3rem 0 0.2rem;
+}
+
+.panel-drivers-label {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-muted);
+  margin: 0.6rem 0 0.1rem;
+  font-weight: 600;
+}
+
+.panel-drivers {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+
+.panel-drivers li a {
+  display: block;
+  text-decoration: none;
+  font-size: 0.86rem;
+  line-height: 1.35;
+  color: var(--ink);
+  border-left: 2px solid var(--panel-border);
+  padding-left: 0.6rem;
+}
+.panel-drivers li a:hover { color: var(--warm); border-left-color: var(--warm); }
+
+.panel-drivers .driver-source {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 0.66rem;
+  color: var(--ink-faint);
+  margin-top: 0.15rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+/* ---------- footer ---------- */
+.foot {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 2rem;
+  padding: 0.9rem clamp(1.25rem, 4vw, 3rem) 1.6rem;
+  font-size: 0.78rem;
+  color: var(--ink-faint);
+}
+
+.foot-main { max-width: 74ch; }
+
+.foot-credits {
+  flex-shrink: 0;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.foot p { margin: 0 0 0.5rem; }
+
+.methodology summary {
+  cursor: pointer;
+  color: var(--ink-muted);
+}
+.methodology p { margin-top: 0.5rem; line-height: 1.55; }
+
+.credit {
+  margin-top: 0;
+  font-size: 0.7rem;
+  color: var(--ink-faint);
+}
+
+/* ---------- reduced motion ---------- */
+@media (prefers-reduced-motion: reduce) {
+  #ambient, .panel, #loom, .back-control { transition: none; }
+}
+
+/* ---------- responsive ----------
+   Not enough width to reserve a permanent gutter, so the panel goes back to
+   an overlay bottom-sheet here. It's the one place it's allowed to sit on
+   top of the art, since there's no room to frame it otherwise. */
+@media (max-width: 720px) {
+  .topbar { flex-direction: column; align-items: flex-start; gap: 0.4rem; }
+  .foot { flex-direction: column; align-items: flex-start; gap: 0.5rem; }
+  .foot-credits { text-align: left; white-space: normal; }
+  .stage { display: block; }
+  .canvas-wrap { height: 100%; }
+  .panel {
+    position: absolute;
+    width: 100%;
+    flex-basis: auto;
+    height: min(70vh, 480px);
+    top: auto;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 0;
+    border-left: none;
+    border-top: 1px solid var(--panel-border);
+    border-radius: 18px 18px 0 0;
+    transform: translateY(100%);
+    transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.45s ease;
+  }
+  .panel.is-open { transform: translateY(0); }
+}

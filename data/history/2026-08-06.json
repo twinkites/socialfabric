@@ -1,0 +1,259 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T23:59:50.289571+00:00",
+  "global_score": 51.5,
+  "cells": [
+    {
+      "category": "culture",
+      "region": "Africa",
+      "lang": "en",
+      "score": 51.5
+    },
+    {
+      "category": "culture",
+      "region": "East Asia",
+      "lang": "zh",
+      "score": 56.5
+    },
+    {
+      "category": "culture",
+      "region": "Europe",
+      "lang": "en",
+      "score": 48.5
+    },
+    {
+      "category": "culture",
+      "region": "Europe",
+      "lang": "es",
+      "score": 55.9
+    },
+    {
+      "category": "culture",
+      "region": "Global",
+      "lang": "en",
+      "score": 48.9
+    },
+    {
+      "category": "culture",
+      "region": "Latin America",
+      "lang": "es",
+      "score": 50.0
+    },
+    {
+      "category": "culture",
+      "region": "North America",
+      "lang": "en",
+      "score": 55.0
+    },
+    {
+      "category": "culture",
+      "region": "Oceania",
+      "lang": "en",
+      "score": 47.1
+    },
+    {
+      "category": "culture",
+      "region": "South Asia",
+      "lang": "en",
+      "score": 67.0
+    },
+    {
+      "category": "culture",
+      "region": "Southeast Asia",
+      "lang": "en",
+      "score": 64.9
+    },
+    {
+      "category": "culture",
+      "region": "Southeast Asia",
+      "lang": "zh",
+      "score": 50.2
+    },
+    {
+      "category": "markets",
+      "region": "Africa",
+      "lang": "en",
+      "score": 61.7
+    },
+    {
+      "category": "markets",
+      "region": "East Asia",
+      "lang": "zh",
+      "score": 54.3
+    },
+    {
+      "category": "markets",
+      "region": "Europe",
+      "lang": "en",
+      "score": 51.0
+    },
+    {
+      "category": "markets",
+      "region": "Europe",
+      "lang": "es",
+      "score": 54.4
+    },
+    {
+      "category": "markets",
+      "region": "Latin America",
+      "lang": "es",
+      "score": 53.4
+    },
+    {
+      "category": "markets",
+      "region": "North America",
+      "lang": "en",
+      "score": 54.3
+    },
+    {
+      "category": "markets",
+      "region": "Oceania",
+      "lang": "en",
+      "score": 47.0
+    },
+    {
+      "category": "markets",
+      "region": "South Asia",
+      "lang": "en",
+      "score": 66.8
+    },
+    {
+      "category": "markets",
+      "region": "Southeast Asia",
+      "lang": "en",
+      "score": 68.6
+    },
+    {
+      "category": "markets",
+      "region": "Southeast Asia",
+      "lang": "zh",
+      "score": 50.0
+    },
+    {
+      "category": "tech",
+      "region": "Africa",
+      "lang": "en",
+      "score": 59.5
+    },
+    {
+      "category": "tech",
+      "region": "East Asia",
+      "lang": "zh",
+      "score": 50.8
+    },
+    {
+      "category": "tech",
+      "region": "Europe",
+      "lang": "en",
+      "score": 66.2
+    },
+    {
+      "category": "tech",
+      "region": "Europe",
+      "lang": "es",
+      "score": 45.2
+    },
+    {
+      "category": "tech",
+      "region": "Latin America",
+      "lang": "es",
+      "score": 45.7
+    },
+    {
+      "category": "tech",
+      "region": "North America",
+      "lang": "en",
+      "score": 60.9
+    },
+    {
+      "category": "tech",
+      "region": "Oceania",
+      "lang": "en",
+      "score": 64.7
+    },
+    {
+      "category": "tech",
+      "region": "Southeast Asia",
+      "lang": "en",
+      "score": 68.5
+    },
+    {
+      "category": "tech",
+      "region": "Southeast Asia",
+      "lang": "zh",
+      "score": 50.0
+    },
+    {
+      "category": "world",
+      "region": "Africa",
+      "lang": "en",
+      "score": 46.8
+    },
+    {
+      "category": "world",
+      "region": "East Asia",
+      "lang": "zh",
+      "score": 54.5
+    },
+    {
+      "category": "world",
+      "region": "Europe",
+      "lang": "en",
+      "score": 24.1
+    },
+    {
+      "category": "world",
+      "region": "Europe",
+      "lang": "es",
+      "score": 47.9
+    },
+    {
+      "category": "world",
+      "region": "Global",
+      "lang": "en",
+      "score": 35.2
+    },
+    {
+      "category": "world",
+      "region": "Latin America",
+      "lang": "es",
+      "score": 43.2
+    },
+    {
+      "category": "world",
+      "region": "Middle East",
+      "lang": "en",
+      "score": 37.0
+    },
+    {
+      "category": "world",
+      "region": "North America",
+      "lang": "en",
+      "score": 36.8
+    },
+    {
+      "category": "world",
+      "region": "Oceania",
+      "lang": "en",
+      "score": 33.1
+    },
+    {
+      "category": "world",
+      "region": "South Asia",
+      "lang": "en",
+      "score": 50.6
+    },
+    {
+      "category": "world",
+      "region": "Southeast Asia",
+      "lang": "en",
+      "score": 45.2
+    },
+    {
+      "category": "world",
+      "region": "Southeast Asia",
+      "lang": "zh",
+      "score": 50.2
+    }
+  ]
+}

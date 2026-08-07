@@ -1,0 +1,756 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T23:59:50.289571+00:00",
+  "counties": [
+    {
+      "state": "AL",
+      "name": "Jefferson",
+      "score": 38.7
+    },
+    {
+      "state": "AL",
+      "name": "Mobile",
+      "score": 40.9
+    },
+    {
+      "state": "AL",
+      "name": "Madison",
+      "score": 44.2
+    },
+    {
+      "state": "AK",
+      "name": "Anchorage",
+      "score": 50.0
+    },
+    {
+      "state": "AK",
+      "name": "Fairbanks North Star",
+      "score": 50.0
+    },
+    {
+      "state": "AK",
+      "name": "Matanuska-Susitna",
+      "score": 50.0
+    },
+    {
+      "state": "AZ",
+      "name": "Maricopa",
+      "score": 49.5
+    },
+    {
+      "state": "AZ",
+      "name": "Pima",
+      "score": 54.3
+    },
+    {
+      "state": "AZ",
+      "name": "Pinal",
+      "score": 57.0
+    },
+    {
+      "state": "AR",
+      "name": "Pulaski",
+      "score": 22.4
+    },
+    {
+      "state": "AR",
+      "name": "Benton",
+      "score": 32.1
+    },
+    {
+      "state": "AR",
+      "name": "Washington",
+      "score": 41.7
+    },
+    {
+      "state": "CA",
+      "name": "Los Angeles",
+      "score": 50.3
+    },
+    {
+      "state": "CA",
+      "name": "San Diego",
+      "score": 46.2
+    },
+    {
+      "state": "CA",
+      "name": "Orange",
+      "score": 50.1
+    },
+    {
+      "state": "CO",
+      "name": "Denver",
+      "score": 40.2
+    },
+    {
+      "state": "CO",
+      "name": "El Paso",
+      "score": 49.6
+    },
+    {
+      "state": "CO",
+      "name": "Arapahoe",
+      "score": 31.9
+    },
+    {
+      "state": "CT",
+      "name": "Fairfield",
+      "score": 62.2
+    },
+    {
+      "state": "CT",
+      "name": "Hartford",
+      "score": 39.6
+    },
+    {
+      "state": "CT",
+      "name": "New Haven",
+      "score": 31.8
+    },
+    {
+      "state": "DE",
+      "name": "New Castle",
+      "score": 36.4
+    },
+    {
+      "state": "DE",
+      "name": "Sussex",
+      "score": 59.3
+    },
+    {
+      "state": "DE",
+      "name": "Kent",
+      "score": 47.3
+    },
+    {
+      "state": "FL",
+      "name": "Miami-Dade",
+      "score": 45.0
+    },
+    {
+      "state": "FL",
+      "name": "Broward",
+      "score": 48.2
+    },
+    {
+      "state": "FL",
+      "name": "Orange",
+      "score": 38.3
+    },
+    {
+      "state": "GA",
+      "name": "Fulton",
+      "score": 52.9
+    },
+    {
+      "state": "GA",
+      "name": "Gwinnett",
+      "score": 45.1
+    },
+    {
+      "state": "GA",
+      "name": "DeKalb",
+      "score": 45.0
+    },
+    {
+      "state": "HI",
+      "name": "Honolulu",
+      "score": 56.9
+    },
+    {
+      "state": "HI",
+      "name": "Hawaii",
+      "score": 48.3
+    },
+    {
+      "state": "HI",
+      "name": "Maui",
+      "score": 32.8
+    },
+    {
+      "state": "ID",
+      "name": "Ada",
+      "score": 39.2
+    },
+    {
+      "state": "ID",
+      "name": "Canyon",
+      "score": 37.1
+    },
+    {
+      "state": "ID",
+      "name": "Kootenai",
+      "score": 15.4
+    },
+    {
+      "state": "IL",
+      "name": "Cook",
+      "score": 25.9
+    },
+    {
+      "state": "IL",
+      "name": "DuPage",
+      "score": 41.4
+    },
+    {
+      "state": "IL",
+      "name": "Lake",
+      "score": 38.6
+    },
+    {
+      "state": "IN",
+      "name": "Marion",
+      "score": 59.3
+    },
+    {
+      "state": "IN",
+      "name": "Lake",
+      "score": 35.3
+    },
+    {
+      "state": "IN",
+      "name": "Allen",
+      "score": 47.6
+    },
+    {
+      "state": "IA",
+      "name": "Polk",
+      "score": 50.5
+    },
+    {
+      "state": "IA",
+      "name": "Linn",
+      "score": 46.0
+    },
+    {
+      "state": "IA",
+      "name": "Scott",
+      "score": 60.7
+    },
+    {
+      "state": "KS",
+      "name": "Johnson",
+      "score": 50.6
+    },
+    {
+      "state": "KS",
+      "name": "Sedgwick",
+      "score": 37.3
+    },
+    {
+      "state": "KS",
+      "name": "Shawnee",
+      "score": 55.9
+    },
+    {
+      "state": "KY",
+      "name": "Jefferson",
+      "score": 36.0
+    },
+    {
+      "state": "KY",
+      "name": "Fayette",
+      "score": 58.2
+    },
+    {
+      "state": "KY",
+      "name": "Kenton",
+      "score": 47.5
+    },
+    {
+      "state": "LA",
+      "name": "East Baton Rouge",
+      "score": 50.0
+    },
+    {
+      "state": "LA",
+      "name": "Jefferson",
+      "score": 57.2
+    },
+    {
+      "state": "LA",
+      "name": "Orleans",
+      "score": 50.0
+    },
+    {
+      "state": "ME",
+      "name": "Cumberland",
+      "score": 32.5
+    },
+    {
+      "state": "ME",
+      "name": "York",
+      "score": 31.0
+    },
+    {
+      "state": "ME",
+      "name": "Penobscot",
+      "score": 54.4
+    },
+    {
+      "state": "MD",
+      "name": "Montgomery",
+      "score": 14.3
+    },
+    {
+      "state": "MD",
+      "name": "Prince George's",
+      "score": 37.7
+    },
+    {
+      "state": "MD",
+      "name": "Baltimore",
+      "score": 25.5
+    },
+    {
+      "state": "MA",
+      "name": "Middlesex",
+      "score": 53.3
+    },
+    {
+      "state": "MA",
+      "name": "Worcester",
+      "score": 44.4
+    },
+    {
+      "state": "MA",
+      "name": "Suffolk",
+      "score": 44.6
+    },
+    {
+      "state": "MI",
+      "name": "Wayne",
+      "score": 70.6
+    },
+    {
+      "state": "MI",
+      "name": "Oakland",
+      "score": 46.9
+    },
+    {
+      "state": "MI",
+      "name": "Macomb",
+      "score": 70.2
+    },
+    {
+      "state": "MN",
+      "name": "Hennepin",
+      "score": 20.7
+    },
+    {
+      "state": "MN",
+      "name": "Ramsey",
+      "score": 28.6
+    },
+    {
+      "state": "MN",
+      "name": "Dakota",
+      "score": 34.3
+    },
+    {
+      "state": "MS",
+      "name": "Hinds",
+      "score": 54.7
+    },
+    {
+      "state": "MS",
+      "name": "Harrison",
+      "score": 43.2
+    },
+    {
+      "state": "MS",
+      "name": "DeSoto",
+      "score": 37.9
+    },
+    {
+      "state": "MO",
+      "name": "Jackson",
+      "score": 48.3
+    },
+    {
+      "state": "MO",
+      "name": "St. Louis",
+      "score": 51.8
+    },
+    {
+      "state": "MO",
+      "name": "St. Charles",
+      "score": 64.1
+    },
+    {
+      "state": "MT",
+      "name": "Yellowstone",
+      "score": 51.1
+    },
+    {
+      "state": "MT",
+      "name": "Missoula",
+      "score": 36.5
+    },
+    {
+      "state": "MT",
+      "name": "Gallatin",
+      "score": 52.5
+    },
+    {
+      "state": "NE",
+      "name": "Douglas",
+      "score": 58.5
+    },
+    {
+      "state": "NE",
+      "name": "Lancaster",
+      "score": 47.6
+    },
+    {
+      "state": "NE",
+      "name": "Sarpy",
+      "score": 21.0
+    },
+    {
+      "state": "NV",
+      "name": "Clark",
+      "score": 52.5
+    },
+    {
+      "state": "NV",
+      "name": "Washoe",
+      "score": 48.8
+    },
+    {
+      "state": "NV",
+      "name": "Carson City",
+      "score": 50.0
+    },
+    {
+      "state": "NH",
+      "name": "Hillsborough",
+      "score": 51.0
+    },
+    {
+      "state": "NH",
+      "name": "Rockingham",
+      "score": 30.2
+    },
+    {
+      "state": "NH",
+      "name": "Merrimack",
+      "score": 47.1
+    },
+    {
+      "state": "NJ",
+      "name": "Bergen",
+      "score": 48.6
+    },
+    {
+      "state": "NJ",
+      "name": "Middlesex",
+      "score": 48.2
+    },
+    {
+      "state": "NJ",
+      "name": "Essex",
+      "score": 55.9
+    },
+    {
+      "state": "NM",
+      "name": "Bernalillo",
+      "score": 39.8
+    },
+    {
+      "state": "NM",
+      "name": "Doña Ana",
+      "score": 66.1
+    },
+    {
+      "state": "NM",
+      "name": "Santa Fe",
+      "score": 53.8
+    },
+    {
+      "state": "NY",
+      "name": "Kings",
+      "score": 56.4
+    },
+    {
+      "state": "NY",
+      "name": "Queens",
+      "score": 51.5
+    },
+    {
+      "state": "NY",
+      "name": "New York",
+      "score": 36.1
+    },
+    {
+      "state": "NC",
+      "name": "Mecklenburg",
+      "score": 43.0
+    },
+    {
+      "state": "NC",
+      "name": "Wake",
+      "score": 48.0
+    },
+    {
+      "state": "NC",
+      "name": "Guilford",
+      "score": 58.8
+    },
+    {
+      "state": "ND",
+      "name": "Cass",
+      "score": 45.9
+    },
+    {
+      "state": "ND",
+      "name": "Burleigh",
+      "score": 30.3
+    },
+    {
+      "state": "ND",
+      "name": "Grand Forks",
+      "score": 71.3
+    },
+    {
+      "state": "OH",
+      "name": "Cuyahoga",
+      "score": 52.6
+    },
+    {
+      "state": "OH",
+      "name": "Franklin",
+      "score": 15.4
+    },
+    {
+      "state": "OH",
+      "name": "Hamilton",
+      "score": 38.5
+    },
+    {
+      "state": "OK",
+      "name": "Oklahoma",
+      "score": 58.8
+    },
+    {
+      "state": "OK",
+      "name": "Tulsa",
+      "score": 35.3
+    },
+    {
+      "state": "OK",
+      "name": "Cleveland",
+      "score": 23.1
+    },
+    {
+      "state": "OR",
+      "name": "Multnomah",
+      "score": 39.5
+    },
+    {
+      "state": "OR",
+      "name": "Washington",
+      "score": 33.5
+    },
+    {
+      "state": "OR",
+      "name": "Clackamas",
+      "score": 33.5
+    },
+    {
+      "state": "PA",
+      "name": "Philadelphia",
+      "score": 30.7
+    },
+    {
+      "state": "PA",
+      "name": "Allegheny",
+      "score": 46.9
+    },
+    {
+      "state": "PA",
+      "name": "Montgomery",
+      "score": 45.6
+    },
+    {
+      "state": "RI",
+      "name": "Providence",
+      "score": 8.5
+    },
+    {
+      "state": "RI",
+      "name": "Kent",
+      "score": 42.8
+    },
+    {
+      "state": "RI",
+      "name": "Washington",
+      "score": 59.2
+    },
+    {
+      "state": "SC",
+      "name": "Greenville",
+      "score": 38.4
+    },
+    {
+      "state": "SC",
+      "name": "Richland",
+      "score": 47.3
+    },
+    {
+      "state": "SC",
+      "name": "Charleston",
+      "score": 60.0
+    },
+    {
+      "state": "SD",
+      "name": "Minnehaha",
+      "score": 24.0
+    },
+    {
+      "state": "SD",
+      "name": "Pennington",
+      "score": 14.8
+    },
+    {
+      "state": "SD",
+      "name": "Lincoln",
+      "score": 52.1
+    },
+    {
+      "state": "TN",
+      "name": "Shelby",
+      "score": 51.4
+    },
+    {
+      "state": "TN",
+      "name": "Davidson",
+      "score": 44.3
+    },
+    {
+      "state": "TN",
+      "name": "Knox",
+      "score": 42.6
+    },
+    {
+      "state": "TX",
+      "name": "Harris",
+      "score": 38.1
+    },
+    {
+      "state": "TX",
+      "name": "Dallas",
+      "score": 55.3
+    },
+    {
+      "state": "TX",
+      "name": "Bexar",
+      "score": 45.3
+    },
+    {
+      "state": "UT",
+      "name": "Salt Lake",
+      "score": 39.5
+    },
+    {
+      "state": "UT",
+      "name": "Utah",
+      "score": 42.9
+    },
+    {
+      "state": "UT",
+      "name": "Davis",
+      "score": 35.2
+    },
+    {
+      "state": "VT",
+      "name": "Chittenden",
+      "score": 63.6
+    },
+    {
+      "state": "VT",
+      "name": "Rutland",
+      "score": 51.5
+    },
+    {
+      "state": "VT",
+      "name": "Washington",
+      "score": 42.0
+    },
+    {
+      "state": "VA",
+      "name": "Fairfax",
+      "score": 59.7
+    },
+    {
+      "state": "VA",
+      "name": "Virginia Beach",
+      "score": 50.0
+    },
+    {
+      "state": "VA",
+      "name": "Prince William",
+      "score": 36.8
+    },
+    {
+      "state": "WA",
+      "name": "King",
+      "score": 48.4
+    },
+    {
+      "state": "WA",
+      "name": "Pierce",
+      "score": 49.4
+    },
+    {
+      "state": "WA",
+      "name": "Snohomish",
+      "score": 52.5
+    },
+    {
+      "state": "WV",
+      "name": "Kanawha",
+      "score": 41.2
+    },
+    {
+      "state": "WV",
+      "name": "Berkeley",
+      "score": 62.1
+    },
+    {
+      "state": "WV",
+      "name": "Monongalia",
+      "score": 34.4
+    },
+    {
+      "state": "WI",
+      "name": "Milwaukee",
+      "score": 51.3
+    },
+    {
+      "state": "WI",
+      "name": "Dane",
+      "score": 41.6
+    },
+    {
+      "state": "WI",
+      "name": "Waukesha",
+      "score": 49.1
+    },
+    {
+      "state": "WY",
+      "name": "Laramie",
+      "score": 60.2
+    },
+    {
+      "state": "WY",
+      "name": "Natrona",
+      "score": 29.4
+    },
+    {
+      "state": "WY",
+      "name": "Campbell",
+      "score": 48.9
+    }
+  ]
+}

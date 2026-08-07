@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Social Fabric: the temperature of the world, woven live</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230a0d12'/%3E%3Cpath d='M4 11h24M4 21h24M11 4v24M21 4v24' stroke='%23e2703b' stroke-width='2' stroke-linecap='round'/%3E%3Cpath d='M4 11h24M4 21h24' stroke='%234c7fde' stroke-width='2' stroke-linecap='round' opacity='0.75'/%3E%3C/svg%3E">
+<meta name="description" content="A woven visualization of global RSS feeds, showing the temperature of society as color and thread.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,380..600&family=Manrope:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script>
+  (function () {
+    var saved = localStorage.getItem("sf-theme");
+    document.documentElement.dataset.theme = saved || "dark";
+  })();
+</script>
+</head>
+<body>
+
+<div id="ambient" aria-hidden="true"></div>
+
+<header class="topbar">
+  <div class="brand">
+    <img class="brand-mark" src="assets/twinkites-logo.png" alt="Twin Kites">
+    <h1 class="wordmark">Social&nbsp;Fabric</h1>
+  </div>
+  <div class="global-reading" id="globalReading">
+    <span class="global-temp" id="globalTemp">···</span>
+    <span class="global-copy">
+      <span class="global-label" id="globalLabel">reading the weave</span>
+      <span class="global-updated" id="globalUpdated"></span>
+      <span class="legend" aria-hidden="true">
+        <span class="legend-label">cold</span>
+        <span class="legend-bar"></span>
+        <span class="legend-label">warm</span>
+      </span>
+    </span>
+    <button class="theme-toggle" id="themeToggle" aria-label="Toggle light and dark mode">◐</button>
+  </div>
+</header>
+
+<div class="scrubber" id="scrubber" hidden>
+  <input type="range" id="scrubRange" min="0" max="0" value="0" step="1" aria-label="Scrub through past days">
+  <span class="scrub-label" id="scrubLabel">Live</span>
+</div>
+
+<main class="stage">
+  <div class="canvas-wrap">
+    <canvas id="loom" aria-label="A woven visualization of global sentiment across news categories, regions and languages"></canvas>
+    <button class="back-control" id="backControl" hidden>← Global</button>
+    <p class="stage-hint" id="stageHint">hover to explore · click North America to zoom into states</p>
+  </div>
+
+  <aside class="panel" id="panel">
+    <button class="panel-close" id="panelClose" aria-label="Close">✕</button>
+    <div class="panel-eyebrow" id="panelEyebrow"></div>
+    <h2 class="panel-title" id="panelTitle"></h2>
+    <div class="panel-score-row">
+      <span class="panel-score" id="panelScore"></span>
+      <span class="panel-volume" id="panelVolume"></span>
+    </div>
+    <svg class="panel-trend" id="panelTrend" viewBox="0 0 240 56" preserveAspectRatio="none"></svg>
+    <h3 class="panel-drivers-label">What's driving this</h3>
+    <ul class="panel-drivers" id="panelDrivers"></ul>
+  </aside>
+</main>
+
+<footer class="foot">
+  <div class="foot-main">
+    <p>
+      Woven live from <span id="feedCount">…</span> RSS feeds across <span id="langCount">…</span> languages.
+      Each thread's color is the average sentiment of its recent headlines. Brightness tracks how much the world is talking about it.
+    </p>
+    <details class="methodology">
+      <summary>How the temperature is measured</summary>
+      <p>Every few hours, a background job reads RSS feeds spanning world news, culture, and markets in English, Spanish, and Chinese, plus search-based passes for the US state and county drill-downs. Each headline and summary is scored for sentiment: English with a lexicon-based VADER model, Spanish and Chinese with curated word-valence lexicons. Scores are averaged into one warmth score per cell. Warm colors mean recent coverage skews positive, cool colors mean it skews negative, and thread thickness tracks how much coverage a cell is getting. This isn't a poll or a survey. It's a rough, continuously updated read of the tone of public reporting, not of private sentiment. Full pipeline details, legal notice, and known limitations: <a href="METHODOLOGY.md">METHODOLOGY.md</a>.</p>
+    </details>
+  </div>
+  <div class="foot-credits">
+    <p class="credit">A <a href="https://twinkites.com/">Twin Kites LLC</a> project.</p>
+    <p class="credit">Inspired by: h.t. s.s. d.m. - thank you.</p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

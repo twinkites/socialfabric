@@ -1,0 +1,206 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T00:51:36.002085+00:00",
+  "states": [
+    {
+      "code": "AL",
+      "score": 52.8
+    },
+    {
+      "code": "AK",
+      "score": 57.6
+    },
+    {
+      "code": "AZ",
+      "score": 55.6
+    },
+    {
+      "code": "AR",
+      "score": 51.5
+    },
+    {
+      "code": "CA",
+      "score": 49.6
+    },
+    {
+      "code": "CO",
+      "score": 51.2
+    },
+    {
+      "code": "CT",
+      "score": 60.4
+    },
+    {
+      "code": "DE",
+      "score": 35.3
+    },
+    {
+      "code": "FL",
+      "score": 49.3
+    },
+    {
+      "code": "GA",
+      "score": 40.2
+    },
+    {
+      "code": "HI",
+      "score": 54.4
+    },
+    {
+      "code": "ID",
+      "score": 47.7
+    },
+    {
+      "code": "IL",
+      "score": 54.4
+    },
+    {
+      "code": "IN",
+      "score": 46.4
+    },
+    {
+      "code": "IA",
+      "score": 44.8
+    },
+    {
+      "code": "KS",
+      "score": 53.0
+    },
+    {
+      "code": "KY",
+      "score": 54.0
+    },
+    {
+      "code": "LA",
+      "score": 47.8
+    },
+    {
+      "code": "ME",
+      "score": 39.4
+    },
+    {
+      "code": "MD",
+      "score": 48.0
+    },
+    {
+      "code": "MA",
+      "score": 45.3
+    },
+    {
+      "code": "MI",
+      "score": 50.6
+    },
+    {
+      "code": "MN",
+      "score": 43.9
+    },
+    {
+      "code": "MS",
+      "score": 55.4
+    },
+    {
+      "code": "MO",
+      "score": 44.4
+    },
+    {
+      "code": "MT",
+      "score": 51.2
+    },
+    {
+      "code": "NE",
+      "score": 53.2
+    },
+    {
+      "code": "NV",
+      "score": 49.1
+    },
+    {
+      "code": "NH",
+      "score": 53.6
+    },
+    {
+      "code": "NJ",
+      "score": 34.6
+    },
+    {
+      "code": "NM",
+      "score": 49.4
+    },
+    {
+      "code": "NY",
+      "score": 57.2
+    },
+    {
+      "code": "NC",
+      "score": 43.6
+    },
+    {
+      "code": "ND",
+      "score": 58.3
+    },
+    {
+      "code": "OH",
+      "score": 49.9
+    },
+    {
+      "code": "OK",
+      "score": 50.3
+    },
+    {
+      "code": "OR",
+      "score": 46.6
+    },
+    {
+      "code": "PA",
+      "score": 49.6
+    },
+    {
+      "code": "RI",
+      "score": 56.9
+    },
+    {
+      "code": "SC",
+      "score": 54.6
+    },
+    {
+      "code": "SD",
+      "score": 55.3
+    },
+    {
+      "code": "TN",
+      "score": 56.5
+    },
+    {
+      "code": "TX",
+      "score": 49.0
+    },
+    {
+      "code": "UT",
+      "score": 46.4
+    },
+    {
+      "code": "VT",
+      "score": 58.5
+    },
+    {
+      "code": "VA",
+      "score": 53.8
+    },
+    {
+      "code": "WA",
+      "score": 51.2
+    },
+    {
+      "code": "WV",
+      "score": 46.8
+    },
+    {
+      "code": "WI",
+      "score": 60.3
+    },
+    {
+      "code": "WY",
+      "score": 45.5
+    }
+  ]
+}
