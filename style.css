@@ -89,10 +89,24 @@ a:hover { color: var(--warm); }
   flex-wrap: wrap;
 }
 
+.brand-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
 .brand {
   display: flex;
   align-items: center;
   gap: 0.65rem;
+}
+
+.tagline {
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  color: var(--ink-muted);
+  margin: 0;
+  max-width: 34ch;
 }
 
 .brand-mark {

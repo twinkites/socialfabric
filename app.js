@@ -308,10 +308,10 @@
     return Math.sin(time * 0.00022 + phase) * amp + Math.sin(time * 0.00011 - phase * 1.4) * amp * 0.4;
   }
 
-  // the whole weave breathes gently in and out, like it's alive
-  function breatheScale(time) {
+  // a hovered node breathes gently in and out, like it's alive
+  function nodeBreathe(time) {
     if (reduceMotion) return 1;
-    return 1 + Math.sin(time * 0.00048) * 0.016;
+    return 1 + Math.sin(time * 0.006) * 0.14;
   }
 
   function drawAmbientGlow(score) {
@@ -346,8 +346,6 @@
     const pts = [];
     const colSpan = Math.max(1, cols.length - 1);
     const rowSpan = Math.max(1, rows.length - 1);
-    const breathe = breatheScale(time);
-    const bcx = width / 2, bcy = height / 2;
     for (let i = 0; i < rows.length; i++) {
       pts[i] = [];
       // each row/column drapes in a gentle macro arc across its length,
@@ -357,10 +355,8 @@
         const cell = cellAt(i, j);
         const drapeY = Math.sin((j / colSpan) * Math.PI) * (16 + (i % 2) * 5) * (i % 2 === 0 ? 1 : -1);
         const drapeX = Math.sin((i / rowSpan) * Math.PI) * (11 + (j % 2) * 4) * (j % 2 === 0 ? -1 : 1);
-        const rawX = L.x(j) + drapeX + flow(j, i, 5, time, 1.5);
-        const rawY = L.y(i) + drapeY + flow(i, j, 11, time, 6.2);
-        const x = bcx + (rawX - bcx) * breathe;
-        const y = bcy + (rawY - bcy) * breathe;
+        const x = L.x(j) + drapeX + flow(j, i, 5, time, 1.5);
+        const y = L.y(i) + drapeY + flow(i, j, 11, time, 6.2);
         pts[i][j] = { x, y, cell };
       }
     }
@@ -409,7 +405,7 @@
     vertices.forEach((v) => {
       const isFocus = sameFocus(focus, { kind: "cell", i: v.i, j: v.j });
       const c = scoreColor(v.cell.score);
-      const r = isFocus ? 8 : 3.4;
+      const r = isFocus ? 8 * nodeBreathe(time) : 3.4;
       ctx.beginPath();
       ctx.fillStyle = rgb(c, isFocus ? 1 : 0.9);
       ctx.shadowColor = rgb(c, 1);
@@ -431,10 +427,7 @@
     const lw = (wA + wB) / 2;
 
     let alpha = 1;
-    if (focus && focus.kind === "cell") {
-      const touches = (seg.i === focus.i || seg.i + 1 === focus.i || seg.j === focus.j || seg.j + 1 === focus.j);
-      alpha = touches ? 1 : 0.16;
-    } else if (!cellA && !cellB) {
+    if (!cellA && !cellB) {
       alpha = 0.3;
     }
 
@@ -553,12 +546,10 @@
     };
   }
 
-  function drawUsaOutline(proj, bounds, breathe, bcx, bcy) {
+  function drawUsaOutline(proj, bounds) {
     ctx.beginPath();
     USA_OUTLINE.forEach(([lat, lon], idx) => {
-      const raw = geoPoint(proj, bounds, lat, lon);
-      const x = bcx + (raw.x - bcx) * breathe;
-      const y = bcy + (raw.y - bcy) * breathe;
+      const { x, y } = geoPoint(proj, bounds, lat, lon);
       if (idx === 0) ctx.moveTo(x, y); else ctx.lineTo(x, y);
     });
     ctx.closePath();
@@ -590,7 +581,7 @@
 
   // renders a set of glowing nodes + nearest-neighbor threads, shared by the
   // US and county views. `pts` items need {x, y, score, volume, code, label}
-  function drawGeoNodes(pts, edges, maxVol, focusKind) {
+  function drawGeoNodes(pts, edges, maxVol, focusKind, time) {
     ctx.globalCompositeOperation = "lighter";
     edges.forEach(([a, b]) => drawGeoEdge(pts[a], pts[b], scoreColor(pts[a].score), scoreColor(pts[b].score), true));
     ctx.globalCompositeOperation = "source-over";
@@ -601,7 +592,7 @@
       const isFocus = sameFocus(focus, { kind: focusKind, code: p.code });
       const c = scoreColor(p.score);
       const vol = Math.min(1, p.volume / maxVol);
-      const r = lerp(4, 13, Math.sqrt(vol)) * (isFocus ? 1.35 : 1);
+      const r = lerp(4, 13, Math.sqrt(vol)) * (isFocus ? 1.35 * nodeBreathe(time) : 1);
       ctx.beginPath();
       ctx.fillStyle = rgb(c, isFocus ? 1 : 0.92);
       ctx.shadowColor = rgb(c, 1);
@@ -626,17 +617,14 @@
     const usAvg = states.reduce((s, st) => s + st.score, 0) / states.length;
     drawAmbientGlow(usAvg);
 
-    const breathe = breatheScale(time);
-    const bcx = width / 2, bcy = height / 2;
-
-    drawUsaOutline(proj, bounds, breathe, bcx, bcy);
+    drawUsaOutline(proj, bounds);
 
     const pts = states.map((s, idx) => {
       const raw = geoPoint(proj, bounds, s.lat, s.lon);
-      const x0 = raw.x + flow(idx, idx * 0.7, 3, time, idx * 0.9);
-      const y0 = raw.y + flow(idx * 0.6, idx, 3, time, idx * 1.3 + 4);
+      const x = raw.x + flow(idx, idx * 0.7, 3, time, idx * 0.9);
+      const y = raw.y + flow(idx * 0.6, idx, 3, time, idx * 1.3 + 4);
       return {
-        x: bcx + (x0 - bcx) * breathe, y: bcy + (y0 - bcy) * breathe,
+        x, y,
         score: s.score, volume: s.volume, code: s.code, label: s.code, state: s,
       };
     });
@@ -644,7 +632,7 @@
     vertices = pts.map((p) => ({ kind: "state", x: p.x, y: p.y, state: p.state }));
     window.__sfVertices = vertices;
 
-    drawGeoNodes(pts, edges, maxVol, "state");
+    drawGeoNodes(pts, edges, maxVol, "state", time);
   }
 
   function drawCounty(time) {
@@ -664,15 +652,12 @@
     const avg = counties.reduce((s, c) => s + c.score, 0) / counties.length;
     drawAmbientGlow(avg);
 
-    const breathe = breatheScale(time);
-    const bcx = width / 2, bcy = height / 2;
-
     const pts = counties.map((c, idx) => {
       const raw = geoPoint(proj, bounds, c.lat, c.lon);
-      const x0 = raw.x + flow(idx, idx * 0.7, 3, time, idx * 0.9);
-      const y0 = raw.y + flow(idx * 0.6, idx, 3, time, idx * 1.3 + 4);
+      const x = raw.x + flow(idx, idx * 0.7, 3, time, idx * 0.9);
+      const y = raw.y + flow(idx * 0.6, idx, 3, time, idx * 1.3 + 4);
       return {
-        x: bcx + (x0 - bcx) * breathe, y: bcy + (y0 - bcy) * breathe,
+        x, y,
         score: c.score, volume: c.volume, code: `${c.state}-${c.name}`, label: c.name, county: c,
       };
     });
@@ -693,7 +678,7 @@
     vertices = pts.map((p) => ({ kind: "county", x: p.x, y: p.y, county: p.county }));
     window.__sfVertices = vertices;
 
-    drawGeoNodes(pts, edges, maxVol, "county");
+    drawGeoNodes(pts, edges, maxVol, "county", time);
   }
 
   async function ensureCountyData() {
