@@ -92,7 +92,7 @@ def score_text(text, lang):
 def load_recent_history(days=TREND_DAYS):
     if not HISTORY_DIR.exists():
         return []
-    files = sorted(HISTORY_DIR.glob("*.json"))[-days:]
+    files = sorted(HISTORY_DIR.glob("[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].json"))[-days:]
     out = []
     for f in files:
         try:

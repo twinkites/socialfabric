@@ -931,6 +931,7 @@
 
   canvas.addEventListener("mouseleave", () => {
     pointerInside = false;
+    closePanel();
   });
 
   canvas.addEventListener("touchstart", (e) => {
@@ -940,8 +941,11 @@
 
   canvas.addEventListener("touchmove", (e) => {
     const t = e.touches[0];
-    if (t) handlePointer(t.clientX, t.clientY);
-  }, { passive: true });
+    if (t) {
+      e.preventDefault();
+      handlePointer(t.clientX, t.clientY);
+    }
+  }, { passive: false });
 
   canvas.addEventListener("click", (e) => {
     const rect = canvas.getBoundingClientRect();
@@ -969,8 +973,8 @@
 
   window.addEventListener("resize", resize);
 
-  panel.addEventListener("keydown", (e) => {
-    if (e.key === "Escape") closePanel();
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && panel.classList.contains("is-open")) closePanel();
   });
 
   resize();
